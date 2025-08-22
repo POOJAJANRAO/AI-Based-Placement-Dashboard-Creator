@@ -1,0 +1,7 @@
+# requirements.txt
+
+streamlit==1.38.0
+pandas==2.2.2
+plotly==5.23.0
+numpy==1.26.4
+
