@@ -1,0 +1,1001 @@
+StudentID,Year,Department,Gender,CGPA,Skills,Company,Role,OfferDate,CTC_LPA,Status
+S50001,2025,ECE,Female,8.98,"NLP, Node.js",Facebook,Web Developer,2025-04-15,5.18,Placed
+S50002,2021,ECE,Female,9.34,"SQL, Java, Cloud, Machine Learning, Python",Facebook,System Engineer,2023-09-22,14.74,Unplaced
+S50003,2022,AIML,Male,5.69,"C++, Computer Vision, Python, AI, Machine Learning",Facebook,Data Scientist,2024-02-29,39.64,Unplaced
+S50004,2023,IT,Male,5.91,"Computer Vision, React, Deep Learning",Google,AI Engineer,2025-07-29,20.43,Placed
+S50005,2023,CSE,Female,6.51,"Cloud, DevOps",TCS,Software Engineer,2025-05-30,16.02,Unplaced
+S50006,2024,CIVIL,Female,5.92,"Cybersecurity, C++, Python, Deep Learning, AI",TCS,Cloud Engineer,2024-11-22,19.98,Unplaced
+S50007,2023,EEE,Male,7.26,"Cloud, Machine Learning, Java",Facebook,Cloud Engineer,2022-10-06,42.57,Unplaced
+S50008,2025,ECE,Female,8.88,"Cloud, Cybersecurity",TCS,Cloud Engineer,2024-08-14,15.43,Unplaced
+S50009,2021,IT,Female,7.56,"Computer Vision, C++, Data Science, Deep Learning",HCL,Software Engineer,2023-09-12,16.12,Unplaced
+S50010,2023,IT,Male,8.13,"Node.js, C++, Cybersecurity, Python",Microsoft,Analyst,2025-05-26,25.41,Unplaced
+S50011,2021,IT,Female,9.13,"DevOps, React, C++, Python, Computer Vision",Google,Cloud Engineer,2022-11-10,23.73,Placed
+S50012,2022,CIVIL,Male,8.15,"Java, C++, React, Data Science, NLP",Google,Cloud Engineer,2023-04-22,20.67,Placed
+S50013,2024,MECH,Male,9.88,"Node.js, Cybersecurity, NLP, Data Science, Computer Vision",Apple,AI Engineer,2023-02-13,22.74,Placed
+S50014,2021,EEE,Male,8.13,"NLP, Data Science, C++, Java, Node.js",Apple,Analyst,2024-03-21,35.84,Unplaced
+S50015,2021,AIML,Female,8.47,"AI, Deep Learning",TCS,Analyst,2024-08-19,32.59,Unplaced
+S50016,2024,ECE,Female,9.78,"DevOps, C++, Cloud, Python",Wipro,Analyst,2023-09-09,35.5,Unplaced
+S50017,2023,EEE,Female,9.08,"Data Science, Deep Learning, DevOps, Computer Vision",Infosys,AI Engineer,2024-04-04,41.74,Placed
+S50018,2024,ECE,Female,7.59,"Machine Learning, NLP, Data Science",Wipro,AI Engineer,2024-12-13,32.04,Unplaced
+S50019,2022,MECH,Female,6.51,"Cybersecurity, Python, Machine Learning, C++",Accenture,System Engineer,2023-01-27,29.21,Placed
+S50020,2022,AIML,Male,8.15,"Node.js, Machine Learning",Amazon,Software Engineer,2025-01-29,40.46,Placed
+S50021,2023,IT,Female,5.97,"React, Node.js",TCS,System Engineer,2023-09-13,30.83,Placed
+S50022,2025,IT,Male,8.59,"Python, Data Science, React, Deep Learning",Infosys,Cloud Engineer,2022-09-11,7.83,Unplaced
+S50023,2021,MECH,Female,5.47,"Cloud, Deep Learning, Data Science, C++",Infosys,System Engineer,2023-07-24,37.15,Unplaced
+S50024,2024,IT,Male,7.98,"Machine Learning, C++, Cloud, Java, Data Science",Google,System Engineer,2024-05-17,7.53,Placed
+S50025,2023,CIVIL,Female,7.15,"Node.js, Deep Learning, Computer Vision",Infosys,System Engineer,2023-10-30,43.37,Placed
+S50026,2025,MECH,Female,8.71,"Node.js, Deep Learning, React, Python",TCS,AI Engineer,2023-05-31,23.65,Unplaced
+S50027,2022,EEE,Male,5.61,"Machine Learning, Deep Learning, Python, C++, React",Google,System Engineer,2024-04-17,25.37,Unplaced
+S50028,2022,EEE,Male,6.23,"NLP, C++, Cybersecurity, Deep Learning",Apple,System Engineer,2023-04-26,28.54,Unplaced
+S50029,2025,CIVIL,Male,5.08,"Deep Learning, Computer Vision, SQL",TCS,Analyst,2022-12-11,15.47,Placed
+S50030,2024,ECE,Female,8.41,"Python, Computer Vision, Deep Learning",HCL,System Engineer,2023-03-25,31.8,Placed
+S50031,2025,IT,Male,7.15,"Cloud, Computer Vision, Cybersecurity, AI, DevOps",Wipro,Cloud Engineer,2025-04-07,41.29,Unplaced
+S50032,2024,EEE,Male,9.49,"NLP, AI, Java, Deep Learning, Python",Infosys,Analyst,2025-04-07,15.03,Unplaced
+S50033,2023,IT,Male,7.39,"Data Science, SQL, C++, React, Cloud",HCL,Cloud Engineer,2024-07-13,5.04,Placed
+S50034,2023,AIML,Male,8.96,"Data Science, Cybersecurity",Infosys,Software Engineer,2023-03-06,44.93,Unplaced
+S50035,2021,CSE,Male,6.1,"Cybersecurity, C++",Apple,Web Developer,2023-03-15,41.56,Placed
+S50036,2022,MECH,Male,7.07,"Java, Cloud, Machine Learning",Google,Analyst,2022-08-24,7.55,Unplaced
+S50037,2021,ECE,Male,7.86,"Cybersecurity, React",Accenture,Data Scientist,2022-08-30,3.42,Placed
+S50038,2023,CIVIL,Female,7.45,"Computer Vision, Python, C++, Cybersecurity",Apple,Data Scientist,2023-07-13,26.88,Unplaced
+S50039,2025,MECH,Male,6.32,"Deep Learning, NLP, AI",Apple,Analyst,2023-07-22,43.95,Placed
+S50040,2023,EEE,Female,5.9,"DevOps, Data Science",Microsoft,Analyst,2023-05-06,31.05,Placed
+S50041,2021,MECH,Female,6.19,"Node.js, Data Science, Java, SQL, Python",HCL,Web Developer,2023-05-07,19.15,Placed
+S50042,2024,CIVIL,Male,8.75,"Computer Vision, DevOps",Wipro,Cloud Engineer,2023-11-14,11.88,Unplaced
+S50043,2023,AIML,Male,6.45,"AI, React, NLP, C++",TCS,Web Developer,2023-12-22,15.43,Unplaced
+S50044,2023,MECH,Male,7.96,"Cybersecurity, C++, React",Microsoft,Software Engineer,2023-06-26,4.56,Placed
+S50045,2022,IT,Male,7.45,"DevOps, AI, Data Science, Python, React",Wipro,AI Engineer,2024-12-06,40.37,Unplaced
+S50046,2023,EEE,Female,5.5,"DevOps, C++, Java",TCS,Cloud Engineer,2025-07-09,19.2,Unplaced
+S50047,2022,MECH,Female,5.55,"AI, Deep Learning, DevOps",Facebook,Software Engineer,2025-04-20,23.25,Placed
+S50048,2023,AIML,Female,6.58,"Cybersecurity, Python",Wipro,System Engineer,2023-07-06,38.65,Placed
+S50049,2021,AIML,Female,6.46,"Cybersecurity, C++, Python",Facebook,Web Developer,2023-05-31,4.05,Placed
+S50050,2021,MECH,Female,9.56,"DevOps, Deep Learning, C++, Node.js",TCS,AI Engineer,2025-07-29,5.81,Unplaced
+S50051,2022,AIML,Male,5.88,"Python, DevOps, Cloud",Infosys,Web Developer,2023-06-23,43.97,Placed
+S50052,2024,CSE,Female,8.9,"C++, Python, NLP, SQL, Cybersecurity",Accenture,AI Engineer,2024-04-08,42.46,Placed
+S50053,2022,AIML,Female,5.46,"Python, DevOps, Machine Learning, NLP, Computer Vision",Wipro,System Engineer,2023-11-29,35.83,Placed
+S50054,2023,AIML,Female,7.23,"Computer Vision, Python",Facebook,Data Scientist,2022-09-24,32.22,Unplaced
+S50055,2022,MECH,Male,5.42,"AI, Java, NLP, SQL",Amazon,Analyst,2024-03-05,6.17,Placed
+S50056,2025,CSE,Female,7.7,"React, Cloud, AI, Computer Vision, SQL",Amazon,Web Developer,2024-05-27,3.52,Unplaced
+S50057,2024,AIML,Male,7.77,"Deep Learning, Node.js, Java",Apple,Cloud Engineer,2023-05-06,19.91,Placed
+S50058,2022,MECH,Male,7.36,"AI, React",Accenture,Web Developer,2023-04-05,13.31,Placed
+S50059,2024,CIVIL,Male,5.24,"AI, Deep Learning, Data Science",Microsoft,Software Engineer,2023-10-05,20.66,Unplaced
+S50060,2024,AIML,Male,9.48,"Cloud, Python, Node.js",Amazon,Cloud Engineer,2022-12-01,31.88,Placed
+S50061,2021,CIVIL,Female,6.34,"SQL, C++, Data Science, Java, Deep Learning",Amazon,Data Scientist,2024-01-19,14.03,Unplaced
+S50062,2023,CSE,Male,7.71,"Python, Java",Google,Data Scientist,2023-12-03,37.71,Unplaced
+S50063,2023,MECH,Male,6.16,"C++, Data Science, Machine Learning, NLP, Cybersecurity",Google,Data Scientist,2025-03-15,27.55,Placed
+S50064,2021,ECE,Male,8.15,"Node.js, AI, React",Infosys,Software Engineer,2025-02-17,17.01,Unplaced
+S50065,2022,EEE,Female,5.86,"AI, DevOps",Amazon,Analyst,2022-08-27,22.88,Unplaced
+S50066,2025,CSE,Male,5.63,"DevOps, Python, Machine Learning, NLP, Cybersecurity",Accenture,Data Scientist,2025-03-04,23.24,Unplaced
+S50067,2024,EEE,Male,6.01,"Deep Learning, SQL, NLP",TCS,Cloud Engineer,2025-07-10,34.55,Placed
+S50068,2023,ECE,Male,9.07,"Cloud, Node.js",Infosys,AI Engineer,2024-01-28,9.01,Placed
+S50069,2024,EEE,Male,5.47,"Java, AI, Cybersecurity, Deep Learning, Machine Learning",TCS,System Engineer,2022-12-02,31.68,Placed
+S50070,2022,EEE,Male,5.52,"NLP, React, Python",TCS,Web Developer,2023-12-16,4.14,Unplaced
+S50071,2025,EEE,Female,7.73,"Node.js, AI, Cloud, Cybersecurity, SQL",Google,Analyst,2024-02-25,9.16,Unplaced
+S50072,2023,MECH,Male,8.4,"Deep Learning, Computer Vision, Java",Google,Software Engineer,2023-12-10,35.5,Unplaced
+S50073,2023,CSE,Female,9.65,"Java, Python, AI",Microsoft,Web Developer,2024-09-06,43.4,Unplaced
+S50074,2023,CIVIL,Male,7.42,"Computer Vision, Java",Facebook,AI Engineer,2025-08-07,43.94,Unplaced
+S50075,2024,CSE,Female,6.89,"Computer Vision, DevOps, Cloud",TCS,System Engineer,2023-12-25,16.62,Unplaced
+S50076,2022,CSE,Male,6.47,"AI, Cloud, Java, C++",Microsoft,Web Developer,2023-06-05,20.35,Placed
+S50077,2022,CIVIL,Male,7.85,"React, Machine Learning, Computer Vision, Node.js, SQL",Accenture,Data Scientist,2024-09-07,15.7,Unplaced
+S50078,2021,MECH,Female,5.94,"C++, Java",Apple,Analyst,2024-08-25,26.31,Placed
+S50079,2024,IT,Female,7.97,"Cybersecurity, Java, Python, Node.js",Amazon,Cloud Engineer,2025-08-20,24.81,Placed
+S50080,2023,IT,Female,8.23,"Computer Vision, Cybersecurity, Cloud",Wipro,Cloud Engineer,2023-05-22,7.23,Placed
+S50081,2022,CSE,Male,6.68,"Cloud, AI, Java, Computer Vision",Wipro,Web Developer,2022-11-18,16.56,Placed
+S50082,2025,MECH,Male,6.83,"Machine Learning, Computer Vision",TCS,AI Engineer,2023-09-23,10.26,Placed
+S50083,2022,EEE,Female,6.88,"Cloud, Data Science",Amazon,Web Developer,2022-09-26,3.14,Unplaced
+S50084,2023,CIVIL,Male,7.45,"Python, Java, AI, Node.js",TCS,Cloud Engineer,2024-02-28,33.97,Unplaced
+S50085,2024,IT,Female,9.53,"Cloud, Java",Apple,System Engineer,2024-05-11,17.15,Placed
+S50086,2025,EEE,Male,6.1,"Deep Learning, DevOps, Cybersecurity",Microsoft,Data Scientist,2022-09-19,14.38,Placed
+S50087,2025,EEE,Female,9.92,"NLP, Machine Learning, Java, Node.js, Data Science",Amazon,Cloud Engineer,2024-12-21,6.51,Placed
+S50088,2023,AIML,Male,5.11,"React, NLP, SQL, Java, Python",Facebook,Data Scientist,2024-06-02,43.92,Unplaced
+S50089,2021,EEE,Male,9.78,"SQL, Python, NLP, C++, React",HCL,System Engineer,2024-03-12,39.13,Placed
+S50090,2022,CSE,Female,8.85,"AI, NLP, React, Computer Vision, Python",Amazon,AI Engineer,2024-03-28,9.23,Placed
+S50091,2024,AIML,Male,9.97,"React, Computer Vision, Machine Learning",Apple,Data Scientist,2025-02-05,22.73,Unplaced
+S50092,2021,CIVIL,Male,8.85,"Java, Computer Vision, DevOps, React, Python",Infosys,Data Scientist,2022-09-05,11.25,Placed
+S50093,2024,ECE,Female,5.68,"Java, Data Science, Cloud",Google,Software Engineer,2024-07-25,10.76,Unplaced
+S50094,2021,ECE,Male,8.77,"Data Science, AI, Machine Learning, C++",Apple,Analyst,2022-11-02,40.64,Placed
+S50095,2023,CSE,Male,8.22,"Deep Learning, Data Science, Node.js, SQL",Accenture,System Engineer,2023-05-30,43.57,Placed
+S50096,2025,IT,Female,5.09,"Cybersecurity, React",Amazon,Data Scientist,2025-04-16,23.21,Placed
+S50097,2021,CSE,Male,7.09,"AI, Deep Learning, Python",HCL,Data Scientist,2023-06-23,4.61,Unplaced
+S50098,2023,AIML,Male,7.79,"Node.js, Java, DevOps, NLP, Data Science",Accenture,Analyst,2023-02-22,14.58,Unplaced
+S50099,2024,ECE,Male,7.95,"DevOps, Node.js",Google,Web Developer,2023-09-08,11.91,Unplaced
+S50100,2021,MECH,Female,9.09,"NLP, React, C++, Node.js",TCS,Software Engineer,2024-08-09,23.76,Placed
+S50101,2025,EEE,Male,5.3,"Java, Data Science",Amazon,AI Engineer,2024-02-07,43.64,Unplaced
+S50102,2023,EEE,Male,8.71,"Deep Learning, NLP, Python, DevOps",Apple,System Engineer,2024-10-26,9.98,Placed
+S50103,2023,MECH,Female,9.58,"Cloud, C++, Computer Vision",Google,Web Developer,2024-02-24,17.91,Placed
+S50104,2021,EEE,Male,8.47,"DevOps, NLP, Computer Vision, Python, Cybersecurity",Accenture,System Engineer,2024-11-14,7.93,Unplaced
+S50105,2025,MECH,Male,7.68,"Cybersecurity, Java",Accenture,Software Engineer,2023-09-15,4.79,Unplaced
+S50106,2023,CIVIL,Male,9.78,"Java, React, AI, Deep Learning",Apple,System Engineer,2024-08-10,15.54,Placed
+S50107,2023,MECH,Female,7.33,"DevOps, Machine Learning, Deep Learning",TCS,Analyst,2023-02-05,11.62,Placed
+S50108,2022,ECE,Male,8.2,"Cloud, SQL, DevOps, React, C++",Facebook,Data Scientist,2025-02-23,41.43,Placed
+S50109,2025,EEE,Female,9.56,"React, Deep Learning, Cloud",Wipro,Analyst,2024-03-14,25.52,Placed
+S50110,2025,IT,Male,7.1,"NLP, Data Science, Deep Learning, Cloud",Microsoft,Data Scientist,2023-11-24,13.89,Unplaced
+S50111,2025,ECE,Female,8.15,"NLP, Java",Microsoft,AI Engineer,2022-10-17,7.03,Unplaced
+S50112,2025,IT,Male,8.88,"C++, DevOps, Data Science, Cybersecurity, Deep Learning",Microsoft,System Engineer,2024-06-24,39.03,Placed
+S50113,2023,CSE,Female,8.58,"NLP, React, Java, AI, Deep Learning",Microsoft,Data Scientist,2023-01-10,4.65,Placed
+S50114,2025,EEE,Male,7.31,"Machine Learning, React",Google,Analyst,2023-07-11,25.73,Placed
+S50115,2025,ECE,Female,9.73,"React, Java, C++, Machine Learning, NLP",Accenture,Analyst,2024-02-02,6.99,Unplaced
+S50116,2024,CSE,Female,6.53,"NLP, React, Python, Machine Learning, SQL",Amazon,System Engineer,2024-10-26,30.56,Placed
+S50117,2022,ECE,Male,5.7,"NLP, DevOps",Wipro,AI Engineer,2025-03-27,21.61,Unplaced
+S50118,2023,IT,Female,7.28,"AI, Cybersecurity, Cloud, Java, C++",Accenture,Data Scientist,2024-03-07,22.2,Placed
+S50119,2024,IT,Male,6.25,"Cybersecurity, Node.js",Apple,Analyst,2023-04-09,22.49,Placed
+S50120,2024,CSE,Female,7.9,"DevOps, Data Science, Cybersecurity, Python",HCL,Web Developer,2024-02-01,26.33,Placed
+S50121,2021,ECE,Female,8.2,"NLP, Computer Vision, SQL, Cloud, Deep Learning",Accenture,AI Engineer,2023-10-24,5.43,Unplaced
+S50122,2022,MECH,Female,6.47,"AI, C++, Deep Learning, DevOps",Facebook,Cloud Engineer,2025-08-17,42.96,Placed
+S50123,2021,EEE,Male,6.56,"DevOps, Deep Learning, React, Cloud, Computer Vision",Wipro,AI Engineer,2024-12-15,41.41,Unplaced
+S50124,2025,AIML,Male,5.8,"DevOps, Python, SQL, Node.js, Cybersecurity",TCS,Software Engineer,2023-01-12,12.55,Placed
+S50125,2024,CSE,Male,5.84,"NLP, SQL, Machine Learning",Infosys,Web Developer,2023-12-20,7.29,Unplaced
+S50126,2022,CIVIL,Female,9.6,"DevOps, Machine Learning, Cloud",Microsoft,Web Developer,2025-07-22,42.1,Unplaced
+S50127,2024,MECH,Female,6.12,"Data Science, SQL",Accenture,Analyst,2023-12-27,34.82,Unplaced
+S50128,2021,ECE,Male,5.74,"Node.js, Python",Facebook,Cloud Engineer,2023-12-10,10.97,Placed
+S50129,2024,EEE,Female,7.38,"Python, AI",Accenture,Analyst,2023-05-24,22.54,Placed
+S50130,2021,CIVIL,Female,9.95,"Java, Cybersecurity, Data Science",Facebook,Software Engineer,2022-12-21,25.43,Placed
+S50131,2022,IT,Female,5.02,"Python, Deep Learning, Machine Learning, Cybersecurity, React",Infosys,Data Scientist,2025-04-21,35.42,Placed
+S50132,2024,CIVIL,Male,6.09,"Computer Vision, Node.js, C++, React, Python",Apple,System Engineer,2023-04-10,25.04,Placed
+S50133,2023,AIML,Male,9.35,"AI, NLP, React, DevOps, Cybersecurity",HCL,Cloud Engineer,2025-07-27,32.97,Unplaced
+S50134,2022,IT,Female,7.91,"Machine Learning, NLP",HCL,Cloud Engineer,2023-12-15,9.77,Placed
+S50135,2025,EEE,Female,9.08,"C++, Python, SQL, Computer Vision",Infosys,Software Engineer,2024-09-11,34.2,Unplaced
+S50136,2023,CIVIL,Male,7.44,"Python, Computer Vision, Cybersecurity, Cloud",TCS,Cloud Engineer,2023-04-29,40.19,Unplaced
+S50137,2025,EEE,Female,8.04,"C++, React, NLP, SQL, Node.js",Google,Data Scientist,2022-11-05,23.18,Placed
+S50138,2025,CSE,Female,6.1,"Java, Computer Vision, Cybersecurity, Data Science",Infosys,Data Scientist,2022-12-25,16.47,Placed
+S50139,2023,CIVIL,Male,9.63,"AI, DevOps",Microsoft,Software Engineer,2025-03-12,23.46,Unplaced
+S50140,2022,EEE,Female,5.76,"Cloud, Node.js, Computer Vision, Java",HCL,Data Scientist,2024-11-27,40.0,Placed
+S50141,2025,ECE,Male,9.66,"React, Java, C++, Data Science",Infosys,Software Engineer,2024-05-13,44.51,Placed
+S50142,2023,CIVIL,Male,7.31,"NLP, Computer Vision",Wipro,AI Engineer,2022-10-10,4.49,Unplaced
+S50143,2021,MECH,Male,9.45,"Deep Learning, Node.js, SQL, AI",TCS,Analyst,2023-08-25,24.29,Unplaced
+S50144,2024,CIVIL,Male,8.08,"Computer Vision, React, Java, C++, AI",Wipro,AI Engineer,2025-03-01,39.92,Unplaced
+S50145,2023,EEE,Male,5.88,"C++, Cybersecurity, Deep Learning, Python, Cloud",Microsoft,Analyst,2024-02-07,34.73,Placed
+S50146,2021,CSE,Female,8.13,"React, DevOps, Machine Learning, Python",Infosys,System Engineer,2023-09-14,15.46,Unplaced
+S50147,2025,CIVIL,Female,9.21,"NLP, Python, C++, Data Science, Node.js",TCS,Cloud Engineer,2024-07-29,29.25,Placed
+S50148,2024,ECE,Female,9.6,"DevOps, Java, React, AI",Wipro,AI Engineer,2025-05-29,8.47,Unplaced
+S50149,2023,ECE,Male,5.87,"Python, DevOps, React, Data Science, Deep Learning",Facebook,Analyst,2024-06-07,9.53,Unplaced
+S50150,2021,ECE,Female,5.18,"DevOps, React, Machine Learning",Wipro,Analyst,2023-04-05,31.05,Placed
+S50151,2021,AIML,Female,5.5,"Cloud, Data Science, C++, Python",Google,Data Scientist,2022-11-16,23.98,Unplaced
+S50152,2024,MECH,Male,5.23,"Data Science, AI, Computer Vision",Facebook,AI Engineer,2025-05-09,22.15,Placed
+S50153,2021,AIML,Male,5.54,"Java, Machine Learning, Computer Vision, DevOps",Microsoft,Cloud Engineer,2022-10-11,44.8,Unplaced
+S50154,2023,ECE,Female,5.85,"Deep Learning, Java, React, C++",Facebook,Web Developer,2024-09-26,43.45,Placed
+S50155,2023,EEE,Male,9.25,"React, DevOps, Cloud",Microsoft,AI Engineer,2024-01-23,23.35,Unplaced
+S50156,2021,EEE,Male,5.6,"Computer Vision, Machine Learning",TCS,AI Engineer,2023-07-09,13.13,Unplaced
+S50157,2021,AIML,Male,7.96,"SQL, React, Data Science, AI",Apple,Web Developer,2023-03-12,12.05,Unplaced
+S50158,2024,IT,Male,7.96,"Machine Learning, Python, Cloud",Apple,Software Engineer,2025-01-14,12.59,Placed
+S50159,2024,CIVIL,Male,6.41,"Machine Learning, AI, C++",Microsoft,Analyst,2023-03-16,27.86,Unplaced
+S50160,2022,AIML,Female,8.15,"Java, Cloud, C++, NLP",Wipro,Cloud Engineer,2025-04-27,25.9,Placed
+S50161,2023,MECH,Female,9.72,"Deep Learning, Python",HCL,Data Scientist,2024-05-25,28.43,Unplaced
+S50162,2024,ECE,Female,9.26,"C++, Machine Learning, Node.js, SQL",HCL,Web Developer,2023-02-03,11.18,Placed
+S50163,2025,AIML,Male,9.57,"Deep Learning, SQL, Python",Facebook,AI Engineer,2023-05-11,33.1,Unplaced
+S50164,2024,AIML,Female,5.4,"Deep Learning, Cybersecurity, Java, Cloud",Facebook,Software Engineer,2024-06-27,28.35,Unplaced
+S50165,2024,EEE,Female,5.34,"Node.js, C++, React, DevOps, Computer Vision",HCL,Software Engineer,2024-03-23,35.36,Unplaced
+S50166,2025,MECH,Male,6.01,"Data Science, SQL, DevOps, C++",TCS,System Engineer,2023-04-10,28.89,Placed
+S50167,2024,CIVIL,Male,7.83,"Deep Learning, AI",Facebook,System Engineer,2022-11-21,23.67,Placed
+S50168,2024,EEE,Female,7.22,"Machine Learning, Data Science, Cybersecurity",Facebook,Data Scientist,2024-06-05,6.55,Unplaced
+S50169,2024,MECH,Male,9.3,"Python, Node.js, Cybersecurity",Accenture,Web Developer,2023-11-22,32.35,Placed
+S50170,2021,AIML,Male,9.21,"Computer Vision, C++, Java, Python, Data Science",Infosys,Analyst,2023-03-29,44.56,Unplaced
+S50171,2022,IT,Female,7.56,"Python, AI, Cloud, Data Science",Google,System Engineer,2024-07-25,44.54,Placed
+S50172,2022,MECH,Female,6.39,"Machine Learning, AI, DevOps, Computer Vision",Wipro,Web Developer,2025-04-11,5.8,Unplaced
+S50173,2024,IT,Female,7.07,"Data Science, React, Python",TCS,Software Engineer,2023-05-11,36.23,Placed
+S50174,2023,ECE,Male,9.71,"AI, Machine Learning, Deep Learning, Java",HCL,System Engineer,2024-11-10,13.63,Unplaced
+S50175,2021,IT,Male,5.51,"AI, C++, SQL, Machine Learning",TCS,AI Engineer,2024-07-26,42.75,Placed
+S50176,2024,CIVIL,Female,6.92,"Deep Learning, NLP",HCL,Web Developer,2024-09-18,19.43,Placed
+S50177,2021,CSE,Female,6.53,"C++, Cybersecurity, DevOps, Computer Vision, Data Science",HCL,Cloud Engineer,2025-07-27,15.8,Placed
+S50178,2024,EEE,Male,7.27,"Cybersecurity, Node.js, Java, Deep Learning",HCL,Cloud Engineer,2023-12-28,6.13,Unplaced
+S50179,2021,CSE,Male,8.21,"SQL, Machine Learning, DevOps, AI, Cybersecurity",Wipro,Analyst,2024-09-04,24.88,Placed
+S50180,2022,CIVIL,Male,5.12,"React, Python, DevOps, Node.js, Data Science",HCL,Data Scientist,2023-10-21,40.69,Unplaced
+S50181,2023,IT,Male,9.26,"Deep Learning, Java, Computer Vision, NLP, Cloud",Accenture,Analyst,2023-11-17,15.24,Unplaced
+S50182,2021,CIVIL,Female,9.68,"Python, Machine Learning, React",HCL,Cloud Engineer,2024-08-21,39.57,Placed
+S50183,2022,ECE,Male,8.43,"C++, Machine Learning, Node.js, DevOps, AI",Accenture,Cloud Engineer,2024-05-10,39.28,Unplaced
+S50184,2022,AIML,Female,7.41,"Deep Learning, Java, Node.js, Data Science, DevOps",TCS,Cloud Engineer,2023-04-06,28.51,Placed
+S50185,2021,MECH,Female,8.3,"Computer Vision, Deep Learning, DevOps, SQL",Google,Web Developer,2023-02-12,17.6,Unplaced
+S50186,2022,AIML,Male,6.91,"Data Science, Cloud, Deep Learning, React, Cybersecurity",Facebook,Analyst,2024-03-29,10.58,Placed
+S50187,2023,CSE,Male,8.88,"AI, SQL, Cloud, Node.js, DevOps",Microsoft,System Engineer,2024-11-25,44.93,Unplaced
+S50188,2022,EEE,Male,7.82,"Data Science, Machine Learning, Computer Vision, C++, React",TCS,AI Engineer,2023-05-27,38.23,Unplaced
+S50189,2024,ECE,Male,6.15,"AI, Node.js",TCS,Data Scientist,2025-04-21,6.66,Unplaced
+S50190,2023,ECE,Male,6.51,"SQL, Cybersecurity, Node.js, DevOps",Amazon,System Engineer,2024-10-05,11.3,Unplaced
+S50191,2024,AIML,Female,9.65,"AI, Computer Vision",Accenture,Data Scientist,2024-01-29,7.45,Placed
+S50192,2025,CSE,Female,8.5,"NLP, Python",HCL,AI Engineer,2023-05-28,42.59,Placed
+S50193,2025,IT,Male,8.45,"Deep Learning, Cybersecurity, Machine Learning, Cloud",Infosys,Web Developer,2023-01-07,9.76,Unplaced
+S50194,2023,MECH,Female,8.68,"Cybersecurity, Deep Learning, Data Science, AI",Google,AI Engineer,2024-09-24,30.62,Unplaced
+S50195,2025,MECH,Male,6.31,"AI, Java",Microsoft,Analyst,2023-10-19,7.37,Unplaced
+S50196,2025,CSE,Female,9.93,"Computer Vision, React, Python, Node.js, Cloud",TCS,AI Engineer,2024-10-30,34.93,Unplaced
+S50197,2021,AIML,Male,7.94,"Node.js, C++",Microsoft,AI Engineer,2024-12-20,14.81,Placed
+S50198,2021,EEE,Male,5.66,"Machine Learning, DevOps",Wipro,Web Developer,2024-10-11,6.17,Placed
+S50199,2021,MECH,Male,7.94,"Cloud, Cybersecurity, React",HCL,Analyst,2024-03-05,23.86,Placed
+S50200,2022,IT,Female,8.04,"Python, DevOps, C++, NLP, React",Apple,Data Scientist,2022-11-28,31.66,Unplaced
+S50201,2021,EEE,Male,9.94,"DevOps, Node.js, NLP, React, Machine Learning",TCS,Cloud Engineer,2024-02-25,17.74,Unplaced
+S50202,2021,CIVIL,Male,9.72,"Machine Learning, DevOps",HCL,System Engineer,2025-08-05,42.28,Unplaced
+S50203,2023,CIVIL,Female,9.95,"Deep Learning, React, Java, AI",Microsoft,Web Developer,2025-02-19,6.04,Placed
+S50204,2021,IT,Female,7.19,"React, Machine Learning, Cloud, Data Science",Facebook,Data Scientist,2025-06-18,6.53,Unplaced
+S50205,2023,CSE,Female,9.53,"Machine Learning, NLP, Cloud, Data Science, C++",Accenture,Analyst,2022-10-14,9.27,Placed
+S50206,2024,CIVIL,Male,5.24,"DevOps, Data Science",Apple,System Engineer,2023-12-09,23.73,Placed
+S50207,2024,MECH,Male,8.38,"C++, Cloud, AI, SQL",Google,Cloud Engineer,2024-03-08,40.16,Placed
+S50208,2021,MECH,Female,9.11,"NLP, Java",Wipro,Cloud Engineer,2025-01-06,40.7,Placed
+S50209,2025,IT,Female,9.28,"React, Data Science, Java",Google,Cloud Engineer,2025-08-20,7.68,Placed
+S50210,2024,ECE,Female,6.11,"Cloud, Machine Learning, NLP, AI, C++",Facebook,Software Engineer,2025-06-25,33.65,Unplaced
+S50211,2024,CSE,Female,9.66,"Machine Learning, Python, Computer Vision, NLP, SQL",Infosys,Data Scientist,2023-11-01,9.01,Unplaced
+S50212,2022,ECE,Male,8.45,"Machine Learning, Data Science, DevOps, SQL",TCS,Data Scientist,2024-09-14,35.04,Placed
+S50213,2024,IT,Female,5.27,"Deep Learning, AI, C++, Java",Wipro,Software Engineer,2023-10-07,8.12,Placed
+S50214,2023,CIVIL,Female,6.33,"NLP, Machine Learning, DevOps, Node.js, Computer Vision",Wipro,Data Scientist,2025-07-30,25.72,Unplaced
+S50215,2023,CIVIL,Male,8.54,"Python, Computer Vision, Deep Learning, Data Science, React",Facebook,AI Engineer,2023-11-21,7.66,Placed
+S50216,2024,CIVIL,Female,8.44,"Data Science, AI",Wipro,Web Developer,2024-02-01,23.81,Placed
+S50217,2025,CIVIL,Female,9.16,"NLP, Machine Learning, React, Deep Learning, Python",Microsoft,AI Engineer,2025-05-27,17.24,Unplaced
+S50218,2025,ECE,Male,5.5,"AI, C++, Deep Learning, NLP",Microsoft,Data Scientist,2023-05-26,6.33,Unplaced
+S50219,2025,CSE,Male,9.6,"Cybersecurity, Cloud, Computer Vision, Deep Learning",Infosys,Software Engineer,2025-02-09,18.95,Unplaced
+S50220,2024,EEE,Male,9.0,"C++, Machine Learning",Accenture,AI Engineer,2022-09-08,36.15,Placed
+S50221,2025,IT,Female,6.89,"Data Science, React, NLP, Cloud, C++",Apple,Web Developer,2024-08-27,17.45,Unplaced
+S50222,2022,CIVIL,Female,9.09,"Java, SQL, NLP, Deep Learning, C++",Google,Analyst,2024-12-18,30.45,Placed
+S50223,2021,EEE,Female,9.18,"Data Science, C++, Machine Learning, DevOps",Wipro,Analyst,2023-09-15,3.39,Placed
+S50224,2024,CSE,Female,8.87,"Computer Vision, Cloud, Data Science, SQL",Amazon,Analyst,2024-01-10,40.1,Unplaced
+S50225,2022,CIVIL,Male,5.91,"Cybersecurity, DevOps, C++",Apple,System Engineer,2025-06-30,23.63,Unplaced
+S50226,2022,IT,Female,9.79,"NLP, C++",Amazon,Web Developer,2023-10-21,36.1,Placed
+S50227,2021,AIML,Female,9.91,"NLP, Cybersecurity, React",Accenture,Analyst,2024-08-10,28.85,Placed
+S50228,2022,CIVIL,Female,6.27,"Computer Vision, Java, Cybersecurity",Wipro,AI Engineer,2023-11-13,30.33,Placed
+S50229,2025,CIVIL,Male,8.91,"Machine Learning, DevOps, NLP, Data Science, Node.js",Wipro,Software Engineer,2024-10-07,27.59,Unplaced
+S50230,2021,AIML,Male,5.44,"DevOps, Deep Learning",Infosys,Cloud Engineer,2025-05-23,22.44,Placed
+S50231,2024,EEE,Female,5.35,"Deep Learning, Data Science, Machine Learning, Node.js, Python",Amazon,Software Engineer,2025-07-03,31.16,Unplaced
+S50232,2023,MECH,Male,7.24,"Machine Learning, Node.js, Java, SQL, Cybersecurity",Accenture,Web Developer,2024-02-26,37.5,Unplaced
+S50233,2022,ECE,Female,6.96,"Data Science, AI, Computer Vision",Accenture,Cloud Engineer,2024-02-13,12.47,Placed
+S50234,2024,MECH,Male,9.93,"DevOps, SQL, React, NLP",Apple,Data Scientist,2023-10-21,25.43,Unplaced
+S50235,2023,ECE,Female,5.95,"React, C++",Infosys,Analyst,2025-05-18,37.61,Unplaced
+S50236,2022,CSE,Female,6.56,"NLP, Data Science, React",Facebook,AI Engineer,2024-02-09,40.04,Placed
+S50237,2022,MECH,Female,9.73,"SQL, Machine Learning, DevOps",Infosys,Web Developer,2024-05-17,8.02,Placed
+S50238,2025,MECH,Female,7.15,"DevOps, Java",Apple,Cloud Engineer,2024-02-16,34.91,Unplaced
+S50239,2022,AIML,Female,6.04,"Cybersecurity, Node.js",TCS,Cloud Engineer,2023-05-16,9.38,Unplaced
+S50240,2024,AIML,Male,5.85,"Computer Vision, Node.js, Java, Python",Amazon,Analyst,2025-07-26,7.38,Placed
+S50241,2021,ECE,Female,7.26,"SQL, Cloud, Data Science, React",Infosys,Software Engineer,2024-07-20,37.03,Unplaced
+S50242,2021,IT,Male,6.9,"Cybersecurity, Python, AI, Machine Learning",Amazon,Analyst,2024-03-09,37.54,Placed
+S50243,2023,IT,Female,9.26,"Python, Node.js, C++, AI",Apple,Data Scientist,2024-01-23,40.26,Unplaced
+S50244,2022,MECH,Male,8.64,"Machine Learning, DevOps, Cloud",Accenture,Cloud Engineer,2024-11-03,27.23,Unplaced
+S50245,2025,CIVIL,Male,6.1,"Cybersecurity, AI, Cloud",Apple,Analyst,2023-03-30,24.12,Unplaced
+S50246,2025,EEE,Male,5.16,"Cloud, DevOps, Deep Learning",Wipro,Cloud Engineer,2024-11-21,22.15,Unplaced
+S50247,2025,ECE,Female,6.53,"AI, Python",Microsoft,Web Developer,2023-05-07,12.84,Placed
+S50248,2024,ECE,Male,5.78,"Machine Learning, NLP, Data Science",Amazon,System Engineer,2023-06-26,22.48,Unplaced
+S50249,2022,CSE,Male,8.55,"Cybersecurity, Cloud, React, C++",Infosys,Web Developer,2024-03-06,13.26,Placed
+S50250,2024,ECE,Male,7.03,"AI, Java",Amazon,Analyst,2024-09-01,31.71,Placed
+S50251,2022,CIVIL,Female,6.05,"AI, Node.js, C++, Computer Vision, NLP",Accenture,AI Engineer,2023-11-04,3.42,Unplaced
+S50252,2023,CIVIL,Female,7.79,"Python, SQL",HCL,Cloud Engineer,2025-07-31,17.75,Unplaced
+S50253,2021,CSE,Male,7.73,"Node.js, Deep Learning, Machine Learning, Java",Google,System Engineer,2022-12-22,10.88,Placed
+S50254,2023,AIML,Male,5.1,"Cybersecurity, Python",TCS,AI Engineer,2025-06-29,20.63,Placed
+S50255,2021,EEE,Female,5.28,"Python, Deep Learning",TCS,Web Developer,2024-05-30,37.78,Placed
+S50256,2024,ECE,Female,6.78,"AI, NLP, Data Science",Amazon,Web Developer,2023-05-15,20.99,Placed
+S50257,2025,AIML,Male,7.56,"Data Science, Node.js, NLP, Cloud",Accenture,System Engineer,2025-04-06,43.99,Unplaced
+S50258,2025,ECE,Female,7.54,"AI, DevOps, Computer Vision",Apple,Data Scientist,2025-02-09,36.89,Placed
+S50259,2024,CIVIL,Male,6.51,"Data Science, DevOps, Node.js, Cloud, SQL",Infosys,Cloud Engineer,2024-11-01,27.38,Unplaced
+S50260,2025,CIVIL,Female,7.78,"Data Science, DevOps, Machine Learning, Cybersecurity",Wipro,Web Developer,2025-06-20,23.68,Placed
+S50261,2021,IT,Female,7.3,"NLP, Java, AI, Cloud, Deep Learning",Facebook,Software Engineer,2024-06-05,9.34,Placed
+S50262,2024,AIML,Male,6.61,"Node.js, React, Machine Learning",Facebook,AI Engineer,2023-12-05,27.96,Placed
+S50263,2025,MECH,Male,7.65,"NLP, React, Data Science, Python, Cloud",Wipro,Software Engineer,2025-04-16,11.2,Unplaced
+S50264,2021,CIVIL,Female,8.47,"NLP, Cybersecurity, DevOps, Machine Learning",Microsoft,Cloud Engineer,2024-12-28,25.85,Placed
+S50265,2025,IT,Female,8.2,"NLP, SQL",Accenture,Web Developer,2025-05-07,22.46,Placed
+S50266,2023,AIML,Male,5.17,"C++, Node.js",Microsoft,System Engineer,2023-10-16,21.42,Unplaced
+S50267,2025,IT,Male,7.91,"Machine Learning, Computer Vision, React",Accenture,Analyst,2022-10-03,35.46,Unplaced
+S50268,2022,EEE,Female,8.79,"DevOps, Cybersecurity, Java",Infosys,Web Developer,2023-06-21,24.25,Placed
+S50269,2024,EEE,Male,5.94,"React, Deep Learning, SQL, NLP",TCS,Web Developer,2023-04-27,34.23,Unplaced
+S50270,2021,IT,Male,7.95,"Java, C++, Cloud, Computer Vision",Accenture,Software Engineer,2025-02-18,29.16,Placed
+S50271,2024,AIML,Male,8.66,"Deep Learning, Cloud",Apple,Software Engineer,2024-07-07,39.35,Unplaced
+S50272,2024,ECE,Female,5.54,"SQL, Deep Learning, NLP",HCL,System Engineer,2025-04-17,15.81,Placed
+S50273,2022,MECH,Female,5.47,"C++, Cybersecurity, Deep Learning, Cloud",Apple,AI Engineer,2025-05-27,35.8,Placed
+S50274,2025,EEE,Male,6.94,"Cybersecurity, C++, Computer Vision, Python, React",Infosys,Cloud Engineer,2023-05-29,6.64,Unplaced
+S50275,2021,AIML,Male,8.69,"Data Science, Computer Vision",TCS,Cloud Engineer,2023-07-28,24.37,Unplaced
+S50276,2021,IT,Male,6.44,"Computer Vision, Java, DevOps",Accenture,System Engineer,2025-07-22,10.34,Unplaced
+S50277,2023,CSE,Male,6.83,"Computer Vision, Python",TCS,Data Scientist,2023-05-29,43.83,Placed
+S50278,2022,CIVIL,Female,7.23,"Python, Computer Vision, AI",Wipro,AI Engineer,2025-04-28,35.58,Placed
+S50279,2024,MECH,Male,7.94,"SQL, C++",Amazon,Web Developer,2022-10-26,39.06,Placed
+S50280,2023,AIML,Female,9.38,"Node.js, Cybersecurity, Machine Learning",Amazon,System Engineer,2024-08-23,43.31,Unplaced
+S50281,2022,AIML,Female,7.66,"NLP, Cloud, Cybersecurity, Machine Learning",Amazon,Analyst,2023-08-08,4.66,Placed
+S50282,2025,ECE,Male,5.22,"SQL, Cloud, Machine Learning",Accenture,Software Engineer,2023-05-06,19.44,Placed
+S50283,2023,CSE,Male,5.08,"Computer Vision, React",HCL,AI Engineer,2022-11-14,26.17,Placed
+S50284,2021,CIVIL,Female,9.19,"AI, SQL",Apple,Analyst,2023-03-17,26.61,Placed
+S50285,2025,CIVIL,Male,6.09,"Machine Learning, NLP, Node.js, DevOps",Accenture,AI Engineer,2023-02-10,39.87,Unplaced
+S50286,2023,MECH,Male,7.11,"Node.js, Machine Learning, NLP",TCS,Software Engineer,2023-12-27,38.22,Unplaced
+S50287,2021,AIML,Male,9.24,"AI, Node.js, Data Science, C++",TCS,Data Scientist,2023-05-31,40.95,Unplaced
+S50288,2023,MECH,Male,7.84,"Deep Learning, Cloud",Microsoft,System Engineer,2024-09-09,10.27,Placed
+S50289,2023,EEE,Female,7.24,"NLP, Node.js, Machine Learning",Amazon,Data Scientist,2023-06-18,42.69,Placed
+S50290,2022,MECH,Female,6.55,"Deep Learning, Java",Infosys,Web Developer,2024-12-20,9.15,Placed
+S50291,2022,CSE,Female,5.15,"DevOps, Python, Cloud, C++",Apple,AI Engineer,2022-10-16,3.9,Placed
+S50292,2022,MECH,Male,6.31,"C++, SQL",Wipro,AI Engineer,2024-05-28,13.49,Placed
+S50293,2023,ECE,Male,9.39,"Java, SQL, Node.js, Machine Learning",Amazon,Analyst,2024-08-13,31.83,Placed
+S50294,2024,ECE,Female,7.94,"React, Computer Vision, Data Science, Cybersecurity, C++",HCL,AI Engineer,2024-02-18,12.65,Unplaced
+S50295,2022,AIML,Female,6.56,"Cloud, Python",Wipro,Web Developer,2024-04-03,34.25,Placed
+S50296,2025,AIML,Female,9.89,"React, DevOps, AI, Java, Cybersecurity",Microsoft,AI Engineer,2025-06-16,15.62,Unplaced
+S50297,2021,CSE,Female,9.34,"Node.js, NLP",Accenture,Cloud Engineer,2025-03-29,12.35,Placed
+S50298,2021,AIML,Female,6.97,"AI, C++, SQL, Java",Apple,Analyst,2022-12-11,14.44,Placed
+S50299,2023,CSE,Female,9.67,"Cloud, Data Science, NLP, AI",Wipro,Analyst,2025-02-23,40.18,Placed
+S50300,2024,ECE,Male,6.98,"Cloud, SQL",Infosys,Cloud Engineer,2023-07-05,36.31,Unplaced
+S50301,2021,IT,Male,6.75,"Node.js, Python, Cybersecurity",Google,Software Engineer,2023-08-26,26.46,Placed
+S50302,2023,CIVIL,Female,7.84,"AI, Java, SQL, DevOps, Computer Vision",Apple,Web Developer,2024-03-25,35.66,Placed
+S50303,2021,CIVIL,Female,5.23,"Python, Node.js, C++",Apple,Analyst,2022-08-23,23.25,Placed
+S50304,2022,CSE,Female,5.75,"DevOps, Machine Learning, AI",Microsoft,System Engineer,2024-02-17,3.52,Placed
+S50305,2021,AIML,Male,5.53,"Node.js, DevOps",Infosys,Web Developer,2024-05-12,31.94,Placed
+S50306,2022,CIVIL,Female,8.29,"Python, Node.js, Cybersecurity, React, AI",Microsoft,Analyst,2023-10-28,5.61,Placed
+S50307,2021,MECH,Female,5.57,"Machine Learning, Python, AI, SQL",Infosys,Web Developer,2024-05-19,34.38,Placed
+S50308,2022,ECE,Female,5.45,"Python, Cloud",Wipro,System Engineer,2023-02-16,28.04,Unplaced
+S50309,2024,ECE,Female,9.61,"Python, Cloud",Apple,Software Engineer,2025-07-27,18.62,Unplaced
+S50310,2022,ECE,Female,8.64,"SQL, React, AI, Cybersecurity, Deep Learning",Google,Analyst,2024-12-19,14.07,Placed
+S50311,2022,ECE,Female,6.57,"SQL, Cybersecurity, Java, C++, Computer Vision",TCS,System Engineer,2024-03-24,38.0,Unplaced
+S50312,2021,IT,Male,6.48,"Python, SQL, Java, DevOps",TCS,System Engineer,2022-10-17,38.41,Unplaced
+S50313,2025,CSE,Female,8.55,"Cybersecurity, SQL, C++, Cloud",Accenture,AI Engineer,2024-12-23,42.41,Unplaced
+S50314,2022,CSE,Male,7.11,"Cybersecurity, AI, Deep Learning",Microsoft,Cloud Engineer,2025-04-01,37.79,Unplaced
+S50315,2025,ECE,Male,8.66,"Machine Learning, Java",Microsoft,System Engineer,2023-12-03,9.45,Unplaced
+S50316,2022,EEE,Male,8.64,"Computer Vision, Cloud, SQL",Wipro,Cloud Engineer,2023-01-16,27.66,Placed
+S50317,2024,IT,Female,6.23,"React, Cloud",Accenture,Data Scientist,2023-11-23,21.5,Unplaced
+S50318,2023,CIVIL,Male,6.28,"Node.js, DevOps, Machine Learning, Cloud, Python",Accenture,System Engineer,2024-12-15,9.45,Unplaced
+S50319,2023,CSE,Female,5.55,"C++, React, AI",Accenture,AI Engineer,2024-10-26,27.81,Placed
+S50320,2025,EEE,Male,9.39,"Java, AI, Cloud, Python",Amazon,Analyst,2024-01-31,7.73,Placed
+S50321,2023,ECE,Male,9.07,"Machine Learning, Cloud, Computer Vision",Apple,Analyst,2025-02-09,4.79,Placed
+S50322,2021,CSE,Male,7.34,"Cybersecurity, AI, Cloud, React",Microsoft,Analyst,2023-11-20,12.04,Unplaced
+S50323,2022,EEE,Female,8.9,"Java, NLP, DevOps, Cybersecurity, Cloud",Accenture,Analyst,2024-02-19,29.4,Placed
+S50324,2024,IT,Female,7.65,"SQL, AI, Python",Microsoft,System Engineer,2023-03-10,15.46,Unplaced
+S50325,2023,IT,Female,7.93,"Deep Learning, Machine Learning, Cybersecurity, Java",Infosys,Software Engineer,2024-06-03,4.2,Placed
+S50326,2022,ECE,Female,6.66,"Machine Learning, Computer Vision, Deep Learning, Cloud, React",Infosys,Software Engineer,2024-05-18,28.93,Unplaced
+S50327,2021,AIML,Female,6.1,"React, Cybersecurity, Deep Learning, Java",Facebook,Analyst,2025-01-14,17.27,Placed
+S50328,2022,IT,Female,9.38,"React, SQL, Cybersecurity",Wipro,Software Engineer,2025-05-15,23.03,Placed
+S50329,2025,CIVIL,Female,7.72,"SQL, C++, Cloud, Data Science, Computer Vision",Facebook,Cloud Engineer,2024-12-05,28.54,Placed
+S50330,2024,CIVIL,Female,5.49,"Cloud, C++",TCS,Software Engineer,2024-03-17,8.53,Unplaced
+S50331,2024,AIML,Female,8.13,"Data Science, SQL",Microsoft,Data Scientist,2024-08-17,33.8,Placed
+S50332,2023,EEE,Male,5.74,"Machine Learning, AI, DevOps, Python",Apple,Cloud Engineer,2023-03-30,8.62,Placed
+S50333,2025,CSE,Male,8.21,"Data Science, SQL, Computer Vision",Google,AI Engineer,2023-04-22,42.73,Unplaced
+S50334,2021,EEE,Female,5.01,"Data Science, React",Microsoft,Cloud Engineer,2025-03-04,18.47,Unplaced
+S50335,2024,EEE,Female,5.58,"Node.js, DevOps, Data Science",HCL,Web Developer,2024-04-07,4.26,Placed
+S50336,2023,IT,Male,9.1,"Java, Machine Learning, Cloud",Microsoft,System Engineer,2025-01-13,7.06,Placed
+S50337,2023,CSE,Male,8.68,"Deep Learning, Python, Java, NLP, Cybersecurity",Amazon,Web Developer,2024-09-01,13.73,Unplaced
+S50338,2024,IT,Female,7.25,"Machine Learning, AI, Cybersecurity, SQL, C++",Amazon,Data Scientist,2023-06-27,26.73,Placed
+S50339,2022,IT,Male,9.44,"Machine Learning, SQL, Java, Cybersecurity, Data Science",Microsoft,System Engineer,2023-03-16,18.22,Unplaced
+S50340,2021,AIML,Male,6.3,"Deep Learning, Cloud, SQL, Node.js",Facebook,Software Engineer,2025-03-24,25.72,Unplaced
+S50341,2023,IT,Female,8.91,"Machine Learning, Python, NLP",Wipro,Analyst,2023-01-10,40.03,Unplaced
+S50342,2021,MECH,Female,9.18,"Computer Vision, C++, Cloud, Python",Amazon,Analyst,2024-02-18,16.41,Unplaced
+S50343,2025,MECH,Female,8.07,"Cybersecurity, C++, SQL",Microsoft,AI Engineer,2025-06-14,24.48,Placed
+S50344,2025,IT,Male,9.51,"Cloud, Java, NLP, C++, DevOps",Microsoft,Cloud Engineer,2022-08-23,29.22,Placed
+S50345,2022,IT,Male,6.37,"Cloud, Python, C++, SQL, React",Facebook,Data Scientist,2024-04-06,15.15,Placed
+S50346,2023,AIML,Female,7.62,"Computer Vision, Python",Accenture,Software Engineer,2023-02-05,30.81,Placed
+S50347,2022,CSE,Female,7.07,"React, Python, Deep Learning, C++, Node.js",Wipro,Data Scientist,2024-01-10,24.74,Placed
+S50348,2024,CIVIL,Male,7.38,"Computer Vision, Cybersecurity",Accenture,System Engineer,2025-01-16,31.94,Unplaced
+S50349,2024,MECH,Male,5.45,"Python, DevOps, React",Amazon,AI Engineer,2025-04-03,41.09,Placed
+S50350,2021,IT,Male,5.53,"SQL, Java, Data Science",Infosys,System Engineer,2024-12-06,28.71,Unplaced
+S50351,2025,CSE,Male,7.57,"Cybersecurity, Deep Learning",Microsoft,AI Engineer,2023-03-28,39.34,Placed
+S50352,2025,IT,Male,5.7,"React, Cybersecurity, Node.js, Python",Microsoft,Web Developer,2024-01-09,5.82,Placed
+S50353,2022,EEE,Male,7.1,"Data Science, Python, Machine Learning, React",Microsoft,Web Developer,2025-04-25,27.52,Placed
+S50354,2021,CIVIL,Male,5.21,"Machine Learning, Cybersecurity, Java, React, Python",Facebook,Software Engineer,2025-01-14,7.67,Unplaced
+S50355,2024,CSE,Female,7.84,"Machine Learning, Cybersecurity, Cloud, Node.js",Microsoft,Web Developer,2024-03-27,28.46,Unplaced
+S50356,2025,CIVIL,Male,8.95,"DevOps, React, Machine Learning, Java",TCS,Analyst,2024-06-18,24.88,Unplaced
+S50357,2021,ECE,Female,6.45,"Machine Learning, NLP, React",HCL,AI Engineer,2024-06-22,28.99,Placed
+S50358,2021,CIVIL,Male,9.18,"DevOps, Cloud, Node.js, Java",Accenture,System Engineer,2023-08-08,36.24,Placed
+S50359,2023,EEE,Male,6.43,"Cloud, Computer Vision, Data Science, Python, Node.js",HCL,Data Scientist,2024-09-26,43.7,Placed
+S50360,2022,CIVIL,Female,8.99,"Deep Learning, Cybersecurity, AI",Facebook,Software Engineer,2023-11-17,22.94,Placed
+S50361,2021,CSE,Male,8.02,"Python, React, Machine Learning, SQL, Cloud",Amazon,Data Scientist,2024-09-04,25.88,Placed
+S50362,2022,EEE,Female,9.71,"React, Data Science, Node.js, Python, C++",Amazon,Cloud Engineer,2024-04-02,9.77,Placed
+S50363,2022,EEE,Male,5.0,"Java, Deep Learning, DevOps, Cloud",Google,Software Engineer,2024-04-09,42.0,Unplaced
+S50364,2021,MECH,Male,8.17,"C++, Deep Learning, Cybersecurity, React, SQL",Wipro,Web Developer,2023-04-26,20.74,Placed
+S50365,2024,MECH,Male,5.88,"Cybersecurity, Java, Deep Learning",Accenture,System Engineer,2025-03-04,23.86,Placed
+S50366,2024,ECE,Male,8.55,"Computer Vision, Cybersecurity, NLP, Machine Learning",Facebook,Software Engineer,2025-03-01,35.54,Placed
+S50367,2023,CSE,Male,9.56,"NLP, Computer Vision, SQL",Microsoft,System Engineer,2023-09-29,23.09,Placed
+S50368,2021,MECH,Male,5.57,"Cloud, Node.js, Deep Learning",HCL,Data Scientist,2023-12-02,41.33,Placed
+S50369,2023,CSE,Male,9.12,"NLP, C++, Data Science, Cloud",TCS,AI Engineer,2024-09-30,29.87,Unplaced
+S50370,2025,MECH,Female,9.57,"Machine Learning, Cybersecurity",Infosys,Web Developer,2023-09-16,22.41,Unplaced
+S50371,2023,MECH,Female,9.67,"Deep Learning, Node.js, Python",TCS,Web Developer,2024-05-28,10.74,Unplaced
+S50372,2021,MECH,Male,7.28,"SQL, Data Science, DevOps",Wipro,Web Developer,2022-09-21,13.87,Placed
+S50373,2021,ECE,Male,7.51,"Data Science, C++, Machine Learning, Computer Vision, AI",Accenture,AI Engineer,2023-12-30,18.94,Unplaced
+S50374,2024,CSE,Male,8.92,"Java, Node.js, AI",Microsoft,Software Engineer,2023-12-12,6.21,Placed
+S50375,2024,EEE,Male,5.37,"Data Science, SQL, C++",TCS,System Engineer,2024-09-23,32.14,Placed
+S50376,2023,AIML,Male,6.63,"Machine Learning, C++, Cybersecurity, Node.js, AI",Wipro,AI Engineer,2023-11-09,26.47,Placed
+S50377,2022,AIML,Female,6.58,"Cybersecurity, NLP, Computer Vision, Data Science",TCS,Analyst,2023-04-01,11.58,Placed
+S50378,2025,CIVIL,Female,7.39,"Java, React, Cybersecurity, DevOps, Deep Learning",Accenture,AI Engineer,2024-08-31,33.34,Placed
+S50379,2023,ECE,Male,8.44,"C++, React",TCS,System Engineer,2022-09-27,40.14,Unplaced
+S50380,2023,EEE,Male,5.37,"Python, Computer Vision, DevOps, NLP",Microsoft,System Engineer,2023-02-27,9.54,Unplaced
+S50381,2022,IT,Female,9.19,"C++, SQL, Machine Learning",Apple,Cloud Engineer,2025-06-12,17.29,Unplaced
+S50382,2025,CIVIL,Female,5.03,"Cybersecurity, Node.js, Data Science, SQL",Microsoft,Data Scientist,2025-04-13,21.85,Placed
+S50383,2021,CIVIL,Female,8.85,"AI, SQL, Java, Cybersecurity, Cloud",Microsoft,Cloud Engineer,2024-07-10,11.41,Placed
+S50384,2021,MECH,Female,5.7,"Cybersecurity, Data Science, Machine Learning, React, NLP",Amazon,Web Developer,2023-09-07,10.14,Placed
+S50385,2023,IT,Male,9.83,"NLP, Machine Learning, Cloud, SQL, React",Microsoft,Web Developer,2023-11-20,15.3,Placed
+S50386,2021,CSE,Female,6.55,"AI, DevOps, Data Science, Cloud, Node.js",Facebook,AI Engineer,2022-10-23,16.81,Placed
+S50387,2022,AIML,Female,9.43,"C++, React, Java, Cybersecurity, Machine Learning",Infosys,Software Engineer,2023-03-21,5.97,Placed
+S50388,2021,AIML,Female,7.99,"DevOps, SQL, React, AI, Node.js",Facebook,Software Engineer,2024-04-22,26.98,Placed
+S50389,2022,MECH,Female,6.59,"Deep Learning, Machine Learning, Cybersecurity, SQL, Python",Infosys,System Engineer,2022-09-11,29.09,Placed
+S50390,2023,IT,Male,7.41,"Cloud, Deep Learning, Python, Computer Vision, SQL",Facebook,Data Scientist,2024-09-06,8.3,Unplaced
+S50391,2023,IT,Female,7.77,"AI, Data Science",TCS,Cloud Engineer,2024-11-26,26.86,Placed
+S50392,2024,MECH,Female,7.31,"Cybersecurity, NLP, Python, Computer Vision, DevOps",Facebook,Web Developer,2025-01-08,40.33,Unplaced
+S50393,2023,CSE,Female,9.5,"Computer Vision, C++",Apple,AI Engineer,2023-10-21,28.28,Unplaced
+S50394,2025,EEE,Female,8.59,"Data Science, Python, DevOps, AI, Cloud",Microsoft,AI Engineer,2023-09-04,14.38,Placed
+S50395,2023,MECH,Male,5.56,"SQL, Cybersecurity, C++",Google,AI Engineer,2024-08-27,33.81,Unplaced
+S50396,2023,AIML,Male,5.97,"Cybersecurity, React",Wipro,System Engineer,2022-10-18,12.86,Unplaced
+S50397,2022,MECH,Male,8.1,"Data Science, Cloud, Cybersecurity, React",Amazon,System Engineer,2023-09-07,15.0,Unplaced
+S50398,2023,EEE,Female,6.89,"Cloud, Deep Learning, Computer Vision",HCL,System Engineer,2024-09-21,42.58,Placed
+S50399,2024,CSE,Male,5.43,"Cybersecurity, Python, Cloud, Data Science, Deep Learning",Accenture,Analyst,2023-10-11,9.92,Unplaced
+S50400,2022,IT,Female,9.44,"Machine Learning, Java",Wipro,Cloud Engineer,2023-04-19,36.62,Placed
+S50401,2024,AIML,Female,5.39,"AI, Cybersecurity, NLP, React, Java",Apple,Cloud Engineer,2023-11-08,15.74,Placed
+S50402,2024,MECH,Male,9.4,"Data Science, Cloud, Machine Learning, React",Google,Software Engineer,2023-11-20,40.63,Unplaced
+S50403,2023,AIML,Female,5.06,"Deep Learning, Data Science, Python, Machine Learning",Amazon,System Engineer,2024-09-24,38.27,Placed
+S50404,2023,AIML,Female,7.45,"Deep Learning, NLP, SQL",Facebook,Cloud Engineer,2025-03-23,3.28,Unplaced
+S50405,2025,EEE,Male,5.2,"Java, Node.js, Cloud, DevOps, NLP",Infosys,System Engineer,2024-08-28,20.08,Unplaced
+S50406,2023,MECH,Male,5.67,"C++, DevOps",Microsoft,System Engineer,2024-11-04,7.83,Unplaced
+S50407,2025,IT,Male,6.6,"SQL, Computer Vision, Data Science, Cybersecurity, Cloud",Infosys,AI Engineer,2025-05-19,25.2,Placed
+S50408,2023,CSE,Male,5.3,"Data Science, Machine Learning, Deep Learning, Computer Vision, Python",Microsoft,Cloud Engineer,2025-03-17,25.76,Unplaced
+S50409,2025,CIVIL,Female,7.19,"NLP, Java, AI",TCS,System Engineer,2023-02-21,3.49,Placed
+S50410,2022,AIML,Male,9.9,"DevOps, C++",Amazon,Web Developer,2022-09-16,26.83,Placed
+S50411,2021,CSE,Male,7.22,"Node.js, Deep Learning, Cybersecurity, Machine Learning",Infosys,Data Scientist,2023-03-05,9.98,Placed
+S50412,2022,CSE,Female,7.54,"Cloud, Computer Vision",Infosys,AI Engineer,2023-12-02,25.64,Placed
+S50413,2022,MECH,Female,5.17,"Node.js, Deep Learning",HCL,Cloud Engineer,2023-11-03,28.45,Unplaced
+S50414,2023,IT,Female,7.38,"Data Science, Deep Learning, React, Machine Learning",Accenture,Software Engineer,2024-11-27,36.05,Placed
+S50415,2025,CSE,Male,9.87,"Python, SQL",Google,Web Developer,2024-01-26,14.08,Placed
+S50416,2022,MECH,Male,5.41,"Data Science, Machine Learning, Python",Google,Web Developer,2025-04-01,6.55,Placed
+S50417,2024,IT,Female,5.46,"Java, DevOps, Machine Learning, C++",Facebook,AI Engineer,2023-11-26,27.71,Placed
+S50418,2021,AIML,Male,6.15,"DevOps, Python, Machine Learning",Amazon,Software Engineer,2024-11-22,19.66,Placed
+S50419,2021,ECE,Male,7.15,"React, Python, Cybersecurity, Java",Infosys,Analyst,2022-10-02,12.36,Placed
+S50420,2022,AIML,Female,5.21,"Python, Computer Vision",HCL,Software Engineer,2024-08-12,28.12,Placed
+S50421,2025,AIML,Male,7.04,"Cloud, Data Science, Deep Learning",Facebook,Cloud Engineer,2024-02-16,11.86,Placed
+S50422,2021,IT,Male,7.2,"React, C++, NLP, Python",Infosys,Analyst,2024-03-04,28.59,Unplaced
+S50423,2022,AIML,Female,6.02,"C++, SQL",Wipro,System Engineer,2025-07-16,21.37,Unplaced
+S50424,2022,CIVIL,Female,5.08,"AI, Data Science, Machine Learning, SQL, C++",Amazon,System Engineer,2025-02-24,44.74,Unplaced
+S50425,2023,AIML,Female,9.29,"React, Python",Apple,Analyst,2023-03-15,37.23,Unplaced
+S50426,2021,CIVIL,Female,5.7,"DevOps, Cybersecurity, NLP",HCL,Web Developer,2022-10-17,22.17,Unplaced
+S50427,2021,AIML,Male,8.72,"Computer Vision, AI, Cybersecurity",Amazon,AI Engineer,2022-08-26,12.52,Unplaced
+S50428,2023,IT,Female,5.51,"Python, Java, Data Science",Facebook,Analyst,2023-09-18,14.07,Unplaced
+S50429,2021,MECH,Male,7.64,"React, Deep Learning, DevOps",Infosys,Data Scientist,2024-12-28,20.12,Placed
+S50430,2024,CIVIL,Male,7.2,"Node.js, Machine Learning, NLP, Data Science, DevOps",Wipro,Data Scientist,2024-07-29,34.02,Placed
+S50431,2025,CSE,Female,6.12,"C++, SQL, Computer Vision, DevOps, Deep Learning",HCL,AI Engineer,2025-07-22,25.55,Unplaced
+S50432,2024,ECE,Male,7.94,"Java, SQL, Python, Machine Learning",Facebook,Software Engineer,2023-02-05,17.76,Unplaced
+S50433,2024,EEE,Female,8.78,"Cloud, Python, Node.js, SQL, C++",TCS,System Engineer,2025-07-24,26.71,Unplaced
+S50434,2022,CIVIL,Male,8.26,"Machine Learning, React, Python, AI",Apple,System Engineer,2024-12-16,16.4,Unplaced
+S50435,2025,CIVIL,Male,5.61,"AI, SQL, React, NLP",Accenture,Software Engineer,2023-06-14,10.28,Unplaced
+S50436,2024,AIML,Female,9.95,"SQL, Java, DevOps",Apple,System Engineer,2022-09-13,19.91,Placed
+S50437,2024,CSE,Male,5.11,"React, Java, Deep Learning, Data Science, Python",Accenture,Data Scientist,2024-06-19,8.71,Placed
+S50438,2025,CIVIL,Male,7.98,"C++, Data Science, AI, Cloud",Apple,Data Scientist,2024-06-16,31.75,Unplaced
+S50439,2024,CIVIL,Male,9.69,"Node.js, React, Python",Google,AI Engineer,2025-03-03,19.37,Unplaced
+S50440,2021,AIML,Male,8.83,"Cybersecurity, DevOps, Machine Learning, Cloud",Accenture,Software Engineer,2025-02-01,33.35,Unplaced
+S50441,2023,CIVIL,Female,5.35,"SQL, DevOps, React",Apple,Data Scientist,2025-07-27,36.38,Unplaced
+S50442,2023,MECH,Male,5.85,"Machine Learning, Python, AI",Facebook,Web Developer,2025-04-30,28.83,Placed
+S50443,2024,MECH,Male,8.42,"Java, Data Science",Amazon,AI Engineer,2025-05-25,33.45,Unplaced
+S50444,2021,CIVIL,Male,8.64,"Cybersecurity, Java, React, AI, Computer Vision",TCS,System Engineer,2024-09-08,35.96,Placed
+S50445,2023,CSE,Female,7.93,"DevOps, Deep Learning, Cybersecurity",Microsoft,AI Engineer,2024-04-11,30.31,Unplaced
+S50446,2022,EEE,Female,6.79,"SQL, Cloud, React, C++",Facebook,System Engineer,2024-08-30,28.72,Unplaced
+S50447,2024,CIVIL,Female,9.47,"AI, Node.js, Machine Learning, SQL",TCS,Analyst,2024-04-21,20.66,Unplaced
+S50448,2024,MECH,Male,9.44,"Machine Learning, SQL, Cybersecurity",Wipro,Data Scientist,2025-07-16,22.21,Placed
+S50449,2021,ECE,Male,8.58,"React, Deep Learning, Python, Node.js",Accenture,AI Engineer,2023-06-23,10.54,Placed
+S50450,2025,CSE,Male,5.23,"AI, Java",Accenture,Data Scientist,2023-11-25,31.09,Unplaced
+S50451,2022,EEE,Female,6.3,"SQL, DevOps, Deep Learning, NLP, Node.js",Google,Analyst,2024-08-13,34.02,Placed
+S50452,2025,CSE,Male,9.91,"Node.js, Computer Vision",HCL,Software Engineer,2022-12-02,35.43,Placed
+S50453,2024,IT,Male,9.56,"Machine Learning, Deep Learning",Accenture,Cloud Engineer,2023-12-06,39.51,Placed
+S50454,2025,EEE,Female,6.14,"Deep Learning, Cloud, Node.js, Computer Vision",Facebook,Data Scientist,2022-08-27,29.19,Placed
+S50455,2023,EEE,Male,8.35,"Deep Learning, React, Java",Google,Cloud Engineer,2025-08-05,18.13,Unplaced
+S50456,2025,CIVIL,Female,7.09,"Machine Learning, Deep Learning, AI, DevOps, SQL",Google,Data Scientist,2024-06-24,32.97,Placed
+S50457,2023,EEE,Male,6.97,"Computer Vision, DevOps, Deep Learning, Python, Machine Learning",Facebook,Web Developer,2025-02-11,43.54,Placed
+S50458,2023,MECH,Female,8.68,"Machine Learning, SQL, Python",Accenture,Data Scientist,2023-11-09,44.26,Unplaced
+S50459,2022,AIML,Female,6.52,"DevOps, Machine Learning, React, Cybersecurity, NLP",Amazon,Data Scientist,2025-05-25,44.9,Placed
+S50460,2022,ECE,Male,7.08,"Python, C++, Deep Learning, Data Science, SQL",Apple,Web Developer,2024-08-24,38.73,Unplaced
+S50461,2024,IT,Female,9.42,"Cybersecurity, SQL",Accenture,AI Engineer,2023-12-18,25.67,Placed
+S50462,2024,CIVIL,Male,6.37,"NLP, Data Science, Machine Learning",Google,AI Engineer,2023-03-31,25.81,Placed
+S50463,2023,MECH,Male,6.68,"Machine Learning, AI, Node.js, Java, C++",Accenture,System Engineer,2023-05-06,9.27,Unplaced
+S50464,2024,ECE,Male,5.12,"Data Science, Machine Learning, NLP, Node.js",Facebook,System Engineer,2024-09-03,29.47,Unplaced
+S50465,2025,ECE,Male,6.87,"Java, C++, Computer Vision, Cybersecurity, React",TCS,System Engineer,2025-08-06,30.59,Placed
+S50466,2021,ECE,Male,6.81,"C++, DevOps",Infosys,AI Engineer,2024-12-21,43.62,Unplaced
+S50467,2021,CSE,Male,8.96,"Cybersecurity, Machine Learning, NLP",TCS,AI Engineer,2024-10-03,44.4,Unplaced
+S50468,2023,CSE,Female,9.85,"React, NLP, AI, Cloud",TCS,Web Developer,2024-01-17,3.49,Placed
+S50469,2021,CSE,Male,5.1,"React, Cloud, C++, Node.js",Wipro,AI Engineer,2024-12-04,17.56,Unplaced
+S50470,2021,IT,Female,6.93,"Machine Learning, Python, SQL",Infosys,AI Engineer,2023-04-17,15.33,Placed
+S50471,2024,CSE,Male,7.58,"Cybersecurity, Deep Learning, Data Science",Apple,Data Scientist,2024-06-13,7.43,Placed
+S50472,2024,EEE,Female,9.71,"React, Cloud, Java",Microsoft,AI Engineer,2025-02-17,36.83,Placed
+S50473,2021,ECE,Male,6.55,"Computer Vision, Java, C++, Data Science",Wipro,Data Scientist,2024-12-10,30.35,Placed
+S50474,2024,ECE,Male,5.61,"Deep Learning, Computer Vision, React, Node.js, C++",Facebook,AI Engineer,2022-11-05,25.39,Unplaced
+S50475,2025,EEE,Female,5.35,"NLP, Computer Vision, C++",Wipro,Analyst,2022-12-06,39.06,Unplaced
+S50476,2023,CSE,Female,9.75,"Data Science, Python, Machine Learning",Apple,Data Scientist,2023-08-14,8.13,Placed
+S50477,2022,CIVIL,Female,6.54,"C++, SQL, React, DevOps",HCL,Analyst,2023-10-11,35.51,Unplaced
+S50478,2021,AIML,Male,8.03,"DevOps, Data Science",Microsoft,AI Engineer,2023-01-01,25.0,Placed
+S50479,2024,IT,Female,5.08,"Data Science, Node.js",Apple,Data Scientist,2022-11-27,44.64,Placed
+S50480,2025,ECE,Female,7.13,"Node.js, Machine Learning, Computer Vision, AI, Java",Facebook,Analyst,2025-06-17,31.39,Placed
+S50481,2023,AIML,Male,5.66,"Java, Computer Vision, Machine Learning, SQL",HCL,Web Developer,2022-09-30,13.35,Unplaced
+S50482,2022,CSE,Female,7.94,"Cybersecurity, Python, React, SQL",Google,Cloud Engineer,2024-01-21,28.63,Unplaced
+S50483,2024,ECE,Male,6.93,"NLP, SQL, Node.js, Machine Learning",Amazon,Data Scientist,2024-06-18,17.04,Placed
+S50484,2022,AIML,Male,7.54,"Node.js, Cloud, React, AI",Infosys,Data Scientist,2022-12-06,5.69,Placed
+S50485,2023,ECE,Female,5.59,"Node.js, SQL",Amazon,AI Engineer,2024-05-12,12.23,Unplaced
+S50486,2023,CIVIL,Male,6.7,"Data Science, Node.js, C++",Amazon,Web Developer,2025-08-15,28.29,Unplaced
+S50487,2025,CSE,Male,8.37,"SQL, Machine Learning",Google,Analyst,2024-09-16,33.76,Placed
+S50488,2025,AIML,Female,5.86,"DevOps, SQL",Infosys,Cloud Engineer,2022-11-05,8.08,Unplaced
+S50489,2021,CIVIL,Male,7.32,"Deep Learning, NLP, Cloud, Python, AI",Facebook,System Engineer,2023-03-01,26.27,Placed
+S50490,2022,CIVIL,Male,7.41,"Node.js, Machine Learning, AI",Google,Data Scientist,2023-02-28,38.16,Unplaced
+S50491,2021,MECH,Female,7.72,"Deep Learning, Node.js, Java",Infosys,Cloud Engineer,2023-07-28,35.56,Unplaced
+S50492,2023,MECH,Male,7.43,"Data Science, Computer Vision, Machine Learning, Deep Learning",TCS,Software Engineer,2025-04-02,39.97,Unplaced
+S50493,2022,EEE,Female,6.12,"DevOps, Node.js, Deep Learning, Data Science",TCS,Software Engineer,2025-05-21,40.33,Placed
+S50494,2022,CIVIL,Male,5.5,"AI, Python, Data Science, NLP",Amazon,Analyst,2023-02-10,37.79,Placed
+S50495,2021,IT,Male,8.05,"C++, Python",Accenture,System Engineer,2023-03-19,38.75,Placed
+S50496,2024,CIVIL,Female,7.55,"SQL, Cloud, DevOps, C++, Deep Learning",Microsoft,Cloud Engineer,2023-11-19,3.64,Placed
+S50497,2021,IT,Male,6.76,"DevOps, Java, Cloud",Accenture,System Engineer,2024-07-02,32.99,Placed
+S50498,2023,CSE,Female,6.24,"Node.js, Computer Vision, DevOps",Microsoft,Web Developer,2023-04-11,41.75,Placed
+S50499,2021,IT,Male,6.01,"DevOps, Deep Learning, Computer Vision, React, Java",Wipro,Software Engineer,2023-06-02,11.01,Placed
+S50500,2023,CSE,Male,6.3,"Java, SQL, AI, Cloud, Computer Vision",Google,System Engineer,2025-03-27,13.87,Unplaced
+S50501,2024,ECE,Male,8.17,"NLP, Deep Learning",Facebook,Analyst,2023-06-05,9.77,Placed
+S50502,2024,ECE,Female,8.19,"Machine Learning, Computer Vision",Wipro,Analyst,2024-05-26,28.04,Unplaced
+S50503,2023,MECH,Female,7.97,"Deep Learning, C++, DevOps, Node.js",Wipro,Web Developer,2023-04-29,38.55,Placed
+S50504,2021,MECH,Male,5.53,"DevOps, Python, AI",TCS,Cloud Engineer,2022-12-04,7.63,Placed
+S50505,2024,CSE,Female,9.92,"Cybersecurity, Cloud, Deep Learning, Machine Learning, SQL",TCS,Cloud Engineer,2025-04-14,30.35,Unplaced
+S50506,2024,CIVIL,Female,7.03,"React, C++, SQL",Wipro,AI Engineer,2023-07-19,4.77,Unplaced
+S50507,2025,AIML,Male,5.92,"NLP, Cloud, AI, SQL, React",Wipro,AI Engineer,2022-10-28,22.4,Placed
+S50508,2022,ECE,Female,8.22,"SQL, Computer Vision",Microsoft,Cloud Engineer,2024-12-31,40.16,Placed
+S50509,2023,AIML,Female,7.39,"Python, Cloud, Machine Learning, Cybersecurity, DevOps",Google,Cloud Engineer,2023-02-06,35.47,Placed
+S50510,2021,IT,Male,9.13,"React, Deep Learning, Cloud, Cybersecurity, Node.js",Accenture,Data Scientist,2025-06-12,27.91,Placed
+S50511,2025,MECH,Female,7.13,"Cloud, DevOps",TCS,Software Engineer,2024-04-02,33.99,Unplaced
+S50512,2025,ECE,Female,7.95,"AI, Node.js, Data Science",Microsoft,Web Developer,2022-12-11,33.08,Unplaced
+S50513,2021,AIML,Female,5.09,"Cybersecurity, DevOps, Computer Vision",TCS,Software Engineer,2023-10-30,36.98,Unplaced
+S50514,2023,CSE,Female,6.08,"Python, DevOps, Node.js, Machine Learning",Google,Cloud Engineer,2022-11-19,29.57,Unplaced
+S50515,2021,CIVIL,Male,8.77,"Deep Learning, Node.js, AI",Accenture,AI Engineer,2025-01-25,18.44,Placed
+S50516,2025,IT,Female,7.05,"AI, Machine Learning",Accenture,System Engineer,2025-01-31,18.44,Placed
+S50517,2022,ECE,Female,5.96,"Data Science, Deep Learning, Machine Learning",Facebook,Web Developer,2023-02-21,36.92,Placed
+S50518,2024,IT,Male,7.64,"AI, Node.js, Computer Vision",Accenture,Web Developer,2024-05-02,20.6,Placed
+S50519,2022,MECH,Female,5.26,"NLP, Computer Vision",Microsoft,Software Engineer,2025-04-16,7.02,Placed
+S50520,2022,MECH,Male,7.24,"Java, Computer Vision, C++, Python",Facebook,Data Scientist,2023-03-18,24.5,Unplaced
+S50521,2022,AIML,Female,5.5,"Data Science, C++",Accenture,AI Engineer,2022-09-06,7.43,Placed
+S50522,2021,EEE,Female,6.67,"Cloud, Node.js",Wipro,Web Developer,2024-06-22,10.53,Placed
+S50523,2023,EEE,Male,8.77,"DevOps, SQL, NLP, Data Science",Apple,Software Engineer,2023-01-11,4.58,Placed
+S50524,2024,CSE,Male,5.85,"NLP, Java, Machine Learning",TCS,AI Engineer,2023-12-23,16.66,Unplaced
+S50525,2022,ECE,Female,7.31,"Deep Learning, Python, Cybersecurity, React, DevOps",Accenture,AI Engineer,2025-07-21,17.32,Placed
+S50526,2022,EEE,Male,9.49,"AI, C++, Cybersecurity",Microsoft,Software Engineer,2025-03-11,36.41,Unplaced
+S50527,2025,AIML,Female,9.02,"Machine Learning, Deep Learning, AI",Microsoft,System Engineer,2024-09-20,15.56,Placed
+S50528,2024,MECH,Male,5.72,"Node.js, Cloud, Computer Vision, Data Science",Google,Software Engineer,2024-09-20,29.56,Placed
+S50529,2024,AIML,Female,5.36,"Deep Learning, SQL",Accenture,Analyst,2024-02-21,14.13,Placed
+S50530,2024,ECE,Male,6.77,"AI, Machine Learning, C++, Cloud",HCL,AI Engineer,2025-06-06,35.47,Unplaced
+S50531,2024,AIML,Male,6.79,"NLP, DevOps, Cloud, Machine Learning",Microsoft,Cloud Engineer,2024-03-25,24.35,Placed
+S50532,2025,CIVIL,Male,8.12,"Computer Vision, AI",Amazon,Analyst,2022-11-16,35.24,Placed
+S50533,2024,MECH,Male,7.54,"Java, Data Science, Cloud, Computer Vision, SQL",HCL,AI Engineer,2023-03-24,39.17,Unplaced
+S50534,2021,IT,Male,6.75,"AI, React, Deep Learning",Microsoft,Software Engineer,2025-08-09,8.43,Placed
+S50535,2024,AIML,Male,7.53,"Machine Learning, C++",Facebook,Analyst,2023-11-22,9.82,Placed
+S50536,2023,IT,Female,7.08,"Python, DevOps, React, Cybersecurity, NLP",HCL,Software Engineer,2023-04-13,15.86,Unplaced
+S50537,2023,ECE,Female,5.41,"SQL, DevOps",HCL,System Engineer,2025-01-21,10.28,Placed
+S50538,2022,EEE,Female,9.07,"Deep Learning, Cybersecurity",Google,Cloud Engineer,2025-04-28,17.84,Placed
+S50539,2022,CIVIL,Female,6.69,"NLP, Computer Vision, AI",Accenture,AI Engineer,2025-07-10,29.95,Unplaced
+S50540,2023,CIVIL,Female,5.04,"SQL, Computer Vision, Cybersecurity, DevOps, C++",HCL,System Engineer,2024-10-15,39.87,Placed
+S50541,2025,CSE,Female,7.34,"C++, React",Facebook,Analyst,2023-11-15,43.62,Unplaced
+S50542,2023,EEE,Female,6.0,"Node.js, Cybersecurity, SQL, AI, DevOps",Microsoft,Software Engineer,2024-12-30,33.01,Unplaced
+S50543,2022,CSE,Female,8.8,"Python, C++, Cloud, Machine Learning, SQL",Amazon,AI Engineer,2024-12-23,23.54,Placed
+S50544,2024,CIVIL,Female,7.74,"Machine Learning, React, Python, Computer Vision",Apple,Data Scientist,2025-04-12,8.85,Placed
+S50545,2024,MECH,Female,9.1,"C++, NLP, AI, Computer Vision",HCL,Web Developer,2023-07-30,17.55,Unplaced
+S50546,2025,ECE,Male,5.15,"NLP, DevOps, Data Science, Deep Learning, C++",Microsoft,AI Engineer,2023-10-04,42.2,Placed
+S50547,2021,CSE,Female,9.8,"Cloud, SQL, Cybersecurity, NLP, AI",Amazon,Data Scientist,2022-11-28,32.59,Placed
+S50548,2024,IT,Female,5.99,"C++, NLP, React",Apple,Web Developer,2024-12-25,39.79,Unplaced
+S50549,2023,AIML,Female,7.08,"Python, Computer Vision, React",Accenture,System Engineer,2023-08-23,38.58,Placed
+S50550,2021,MECH,Male,8.25,"Deep Learning, Cloud, Cybersecurity",Google,Cloud Engineer,2023-09-20,33.78,Placed
+S50551,2022,AIML,Female,6.48,"DevOps, SQL, Computer Vision, React",TCS,System Engineer,2023-11-05,20.11,Unplaced
+S50552,2021,CIVIL,Female,6.49,"Node.js, Cybersecurity, Machine Learning, Java",Google,Data Scientist,2024-11-02,25.58,Placed
+S50553,2024,EEE,Male,6.87,"Node.js, Cloud, AI, Computer Vision, SQL",Amazon,Data Scientist,2023-03-17,31.86,Unplaced
+S50554,2023,MECH,Female,5.07,"Machine Learning, Java, Node.js, React, SQL",Infosys,System Engineer,2023-08-21,15.7,Unplaced
+S50555,2022,CSE,Female,9.26,"React, Computer Vision",Amazon,AI Engineer,2024-03-20,29.12,Unplaced
+S50556,2024,AIML,Female,5.73,"Node.js, Cloud",Infosys,Analyst,2024-07-26,24.65,Placed
+S50557,2023,CIVIL,Male,9.22,"DevOps, Machine Learning, React",Accenture,System Engineer,2024-04-17,39.48,Unplaced
+S50558,2022,AIML,Male,8.01,"Java, Python",Microsoft,System Engineer,2023-05-27,21.97,Placed
+S50559,2021,CIVIL,Male,6.95,"C++, Computer Vision, NLP",Accenture,Software Engineer,2023-03-13,33.52,Placed
+S50560,2022,CIVIL,Male,7.43,"SQL, Deep Learning, Cybersecurity, React",Infosys,Cloud Engineer,2022-09-20,24.5,Unplaced
+S50561,2023,AIML,Male,6.54,"Cybersecurity, Computer Vision, Data Science, Java",Microsoft,Web Developer,2025-06-04,31.94,Placed
+S50562,2025,ECE,Male,9.08,"Machine Learning, Cloud, C++, Computer Vision, SQL",Amazon,Web Developer,2024-02-03,12.26,Unplaced
+S50563,2024,IT,Male,9.17,"React, Node.js, Data Science",Wipro,AI Engineer,2023-01-01,25.73,Placed
+S50564,2025,ECE,Female,6.36,"React, SQL",Microsoft,Cloud Engineer,2025-01-28,19.02,Unplaced
+S50565,2023,MECH,Female,7.75,"SQL, Data Science, DevOps, NLP",Infosys,AI Engineer,2025-06-24,37.78,Placed
+S50566,2024,AIML,Female,5.83,"DevOps, AI, Cloud, Python",TCS,Data Scientist,2022-10-16,12.13,Placed
+S50567,2025,MECH,Male,9.67,"Cloud, Node.js, Cybersecurity, DevOps",Wipro,Web Developer,2023-01-10,22.97,Placed
+S50568,2021,CIVIL,Male,8.63,"Cybersecurity, Node.js, Cloud, DevOps",Amazon,AI Engineer,2023-03-03,39.04,Placed
+S50569,2023,AIML,Male,7.79,"Data Science, SQL, Machine Learning, Cloud",Google,System Engineer,2024-10-16,16.84,Placed
+S50570,2024,CSE,Male,5.66,"Cybersecurity, SQL, AI",Accenture,AI Engineer,2025-03-01,44.48,Unplaced
+S50571,2024,CSE,Male,7.57,"Machine Learning, Cloud",Facebook,Analyst,2024-07-26,41.62,Placed
+S50572,2023,ECE,Female,9.95,"Computer Vision, SQL, Cloud, Data Science, DevOps",Facebook,Analyst,2023-08-27,17.95,Placed
+S50573,2021,IT,Female,5.8,"Machine Learning, Computer Vision",TCS,Analyst,2024-04-18,30.5,Unplaced
+S50574,2023,CSE,Female,9.12,"Cybersecurity, Node.js, Deep Learning, DevOps",TCS,Data Scientist,2024-08-09,3.82,Unplaced
+S50575,2022,CSE,Male,8.62,"Computer Vision, C++, SQL",Wipro,System Engineer,2024-09-06,26.88,Unplaced
+S50576,2022,IT,Female,5.67,"SQL, AI, React",Amazon,AI Engineer,2024-01-06,7.58,Unplaced
+S50577,2023,IT,Female,9.28,"Cloud, React, Python",Microsoft,Web Developer,2023-02-05,7.69,Unplaced
+S50578,2025,CSE,Male,8.21,"NLP, C++, Cloud, Java",Wipro,Analyst,2024-11-23,15.43,Unplaced
+S50579,2022,MECH,Male,7.63,"React, Java, NLP, Node.js",HCL,Web Developer,2022-10-06,4.95,Placed
+S50580,2024,MECH,Male,5.16,"AI, React, Computer Vision, SQL, Node.js",Infosys,AI Engineer,2024-12-11,13.46,Placed
+S50581,2025,ECE,Female,5.06,"Python, Machine Learning, React",Amazon,Web Developer,2024-04-10,41.75,Placed
+S50582,2021,AIML,Male,7.87,"Machine Learning, AI, DevOps, NLP, React",Infosys,Data Scientist,2022-11-13,9.37,Placed
+S50583,2021,ECE,Male,5.24,"Cloud, Python, Deep Learning, Data Science",Wipro,Data Scientist,2023-04-13,31.38,Placed
+S50584,2021,ECE,Male,8.4,"SQL, Python, Computer Vision, Java, Machine Learning",HCL,Software Engineer,2024-06-18,12.36,Placed
+S50585,2022,MECH,Male,9.14,"Machine Learning, Cybersecurity, Python, Data Science",Apple,Data Scientist,2025-07-15,6.63,Unplaced
+S50586,2025,AIML,Female,9.65,"Python, Cybersecurity, Data Science, React, Cloud",Amazon,Data Scientist,2023-08-03,34.22,Unplaced
+S50587,2021,EEE,Female,8.32,"SQL, Deep Learning, Node.js, Cybersecurity",Microsoft,Analyst,2023-02-18,26.01,Placed
+S50588,2023,CIVIL,Male,6.74,"DevOps, AI, Cybersecurity",Wipro,Data Scientist,2022-12-30,42.63,Placed
+S50589,2024,MECH,Male,6.84,"Deep Learning, Node.js",TCS,System Engineer,2025-06-20,35.94,Unplaced
+S50590,2022,MECH,Male,6.38,"Deep Learning, Python, React",Google,Data Scientist,2024-09-23,10.47,Placed
+S50591,2024,EEE,Male,9.14,"NLP, DevOps, Computer Vision, Deep Learning",Apple,AI Engineer,2023-07-16,19.08,Unplaced
+S50592,2023,ECE,Female,5.43,"AI, NLP",Facebook,Web Developer,2023-03-27,36.06,Placed
+S50593,2024,AIML,Female,6.23,"Machine Learning, AI, Data Science, Cloud",HCL,Web Developer,2025-08-15,31.85,Unplaced
+S50594,2024,CIVIL,Female,9.54,"Python, Machine Learning, Node.js, Data Science",Facebook,Data Scientist,2025-04-18,18.62,Unplaced
+S50595,2021,EEE,Male,7.55,"Machine Learning, Cybersecurity, Python, Computer Vision",Microsoft,Data Scientist,2024-03-27,19.13,Placed
+S50596,2023,IT,Female,6.77,"Java, SQL, Python, React, AI",Facebook,Software Engineer,2024-02-23,33.94,Unplaced
+S50597,2025,CIVIL,Female,5.57,"Deep Learning, SQL, Machine Learning, C++",Amazon,AI Engineer,2023-08-22,16.99,Placed
+S50598,2024,CSE,Male,8.45,"Data Science, NLP",Microsoft,AI Engineer,2023-11-15,38.21,Unplaced
+S50599,2021,EEE,Male,8.77,"SQL, Data Science, Cloud",HCL,Cloud Engineer,2024-01-21,39.16,Placed
+S50600,2024,IT,Male,6.08,"Deep Learning, AI, NLP",Amazon,Software Engineer,2025-04-01,30.55,Placed
+S50601,2023,CSE,Male,9.6,"Machine Learning, Cybersecurity, DevOps",TCS,Data Scientist,2025-08-21,29.95,Unplaced
+S50602,2022,MECH,Female,5.87,"DevOps, Cloud",Infosys,AI Engineer,2024-02-14,24.84,Placed
+S50603,2022,IT,Female,9.66,"React, Node.js",HCL,System Engineer,2024-04-12,24.39,Placed
+S50604,2023,EEE,Female,8.55,"Java, Computer Vision, Python, NLP",Google,AI Engineer,2024-03-31,44.33,Placed
+S50605,2023,CIVIL,Female,8.53,"Machine Learning, NLP, C++, Computer Vision",Accenture,System Engineer,2023-03-21,23.66,Placed
+S50606,2024,MECH,Female,8.12,"AI, Java, Computer Vision, Machine Learning, C++",Apple,AI Engineer,2024-02-29,33.54,Unplaced
+S50607,2022,ECE,Female,9.06,"Python, C++, Node.js, Java, Cybersecurity",HCL,Software Engineer,2025-05-24,6.32,Placed
+S50608,2023,ECE,Male,8.01,"React, Data Science",Infosys,System Engineer,2023-11-24,17.43,Placed
+S50609,2021,AIML,Female,8.6,"C++, React, Computer Vision, Node.js, Machine Learning",Microsoft,Web Developer,2025-04-28,27.18,Placed
+S50610,2023,CSE,Female,8.34,"C++, NLP, Node.js",HCL,Web Developer,2024-06-25,31.5,Unplaced
+S50611,2022,MECH,Male,6.65,"DevOps, Cloud, Data Science",Apple,AI Engineer,2024-03-06,39.44,Placed
+S50612,2023,CIVIL,Female,6.04,"SQL, Cybersecurity, Java, Deep Learning",Google,AI Engineer,2024-11-02,11.56,Placed
+S50613,2025,IT,Female,6.51,"NLP, Python, C++, Cloud, Deep Learning",Microsoft,Software Engineer,2022-10-17,3.03,Placed
+S50614,2023,AIML,Female,7.38,"C++, Cloud, Data Science",Amazon,Cloud Engineer,2025-02-27,5.9,Placed
+S50615,2023,CIVIL,Female,7.49,"AI, Computer Vision, Deep Learning",Accenture,System Engineer,2025-01-28,24.43,Unplaced
+S50616,2025,EEE,Male,6.71,"NLP, React, Machine Learning, Python, Data Science",Apple,Cloud Engineer,2023-07-21,13.04,Unplaced
+S50617,2022,EEE,Male,6.62,"Cloud, NLP, DevOps, Python, Machine Learning",Apple,Cloud Engineer,2023-05-29,22.66,Placed
+S50618,2023,CSE,Female,9.71,"React, NLP, C++, Cybersecurity, Cloud",Facebook,Analyst,2024-04-27,29.04,Placed
+S50619,2024,IT,Male,8.15,"React, Machine Learning, Deep Learning, Data Science, C++",Wipro,Web Developer,2022-11-28,10.94,Placed
+S50620,2024,IT,Female,9.89,"Computer Vision, Cloud, DevOps, Java, React",Google,System Engineer,2023-01-19,15.22,Unplaced
+S50621,2025,AIML,Female,9.11,"NLP, Computer Vision, React, DevOps",Accenture,Software Engineer,2022-10-18,4.81,Placed
+S50622,2024,CIVIL,Male,9.28,"Java, Deep Learning, DevOps, NLP, Cybersecurity",Apple,Cloud Engineer,2022-10-12,18.15,Placed
+S50623,2023,EEE,Female,6.77,"C++, NLP, Cybersecurity",TCS,AI Engineer,2023-06-07,22.98,Placed
+S50624,2023,CSE,Male,7.83,"Machine Learning, AI, Deep Learning, React, Java",Google,Cloud Engineer,2023-07-02,7.55,Unplaced
+S50625,2024,MECH,Male,7.69,"SQL, Computer Vision",Wipro,Web Developer,2023-06-21,42.68,Unplaced
+S50626,2021,EEE,Female,7.42,"Data Science, DevOps, Node.js, Java, NLP",Google,Analyst,2022-10-22,33.34,Placed
+S50627,2021,EEE,Male,9.46,"React, Java, Computer Vision, Machine Learning, AI",TCS,Software Engineer,2024-09-21,12.06,Placed
+S50628,2023,EEE,Male,9.26,"React, Deep Learning, Cybersecurity, Machine Learning",Accenture,Cloud Engineer,2024-09-07,26.28,Placed
+S50629,2025,IT,Female,7.2,"SQL, Computer Vision, React, Java, Python",TCS,Cloud Engineer,2025-06-14,21.38,Unplaced
+S50630,2022,IT,Female,9.25,"C++, Cybersecurity",Facebook,Analyst,2024-02-14,9.01,Unplaced
+S50631,2022,AIML,Female,7.54,"Data Science, Python, Deep Learning",Infosys,Data Scientist,2022-08-22,24.51,Placed
+S50632,2025,CSE,Male,6.26,"Cybersecurity, Computer Vision, NLP, Deep Learning",Google,AI Engineer,2024-06-15,12.05,Placed
+S50633,2025,MECH,Male,8.69,"Data Science, Cybersecurity, AI, Node.js, Deep Learning",Amazon,Web Developer,2024-08-21,28.97,Placed
+S50634,2025,IT,Female,9.13,"AI, Deep Learning, Python",Apple,Software Engineer,2023-12-01,17.94,Unplaced
+S50635,2024,ECE,Male,5.22,"DevOps, C++, React",Accenture,System Engineer,2025-04-10,25.96,Unplaced
+S50636,2023,ECE,Male,7.36,"Python, Cybersecurity, NLP, Cloud",Wipro,Analyst,2024-06-17,15.27,Placed
+S50637,2023,CIVIL,Male,6.36,"Node.js, Cybersecurity, Machine Learning, Cloud, Computer Vision",Amazon,Cloud Engineer,2024-01-06,21.43,Placed
+S50638,2025,IT,Female,7.17,"SQL, Node.js, NLP, AI",Facebook,System Engineer,2024-08-14,37.19,Placed
+S50639,2023,CIVIL,Male,9.68,"DevOps, Deep Learning, React",Google,Software Engineer,2024-08-08,20.56,Unplaced
+S50640,2022,IT,Male,7.7,"Java, NLP",Accenture,Analyst,2023-01-23,7.32,Placed
+S50641,2024,ECE,Female,7.51,"React, AI, C++, Cloud, Java",TCS,System Engineer,2023-06-15,40.14,Unplaced
+S50642,2025,ECE,Male,6.65,"Node.js, Cybersecurity, AI",Google,Analyst,2023-04-19,8.64,Unplaced
+S50643,2023,IT,Female,9.36,"NLP, AI, C++, Deep Learning, Computer Vision",Facebook,Analyst,2025-06-01,12.53,Placed
+S50644,2023,CSE,Male,9.49,"Computer Vision, DevOps, Cybersecurity, React, SQL",Wipro,Software Engineer,2023-04-26,23.45,Placed
+S50645,2022,ECE,Male,9.87,"C++, Cloud",Facebook,Analyst,2022-12-10,34.89,Unplaced
+S50646,2024,IT,Female,5.44,"C++, Python, SQL, Computer Vision, Cybersecurity",Apple,Web Developer,2024-03-25,23.62,Placed
+S50647,2021,IT,Male,7.96,"Cloud, Python, Deep Learning",HCL,Web Developer,2024-04-12,12.11,Placed
+S50648,2023,MECH,Male,5.64,"Python, DevOps",Amazon,Data Scientist,2024-08-20,17.17,Unplaced
+S50649,2025,EEE,Male,6.98,"SQL, Deep Learning, Machine Learning, Computer Vision",Amazon,AI Engineer,2023-04-15,35.17,Placed
+S50650,2025,ECE,Female,9.09,"Machine Learning, Computer Vision, NLP, C++, DevOps",Microsoft,Data Scientist,2024-12-26,10.9,Unplaced
+S50651,2024,CSE,Female,6.64,"DevOps, Data Science, AI, Python, Node.js",Amazon,AI Engineer,2023-09-20,21.01,Placed
+S50652,2023,CSE,Male,7.88,"Data Science, SQL, Cybersecurity, Node.js",Infosys,Cloud Engineer,2023-02-09,4.74,Unplaced
+S50653,2022,CIVIL,Male,9.57,"React, Node.js, NLP, Data Science, Cybersecurity",Infosys,Data Scientist,2023-10-26,32.63,Unplaced
+S50654,2024,IT,Female,8.55,"React, Node.js, NLP",Apple,Data Scientist,2023-04-29,26.89,Placed
+S50655,2024,ECE,Male,6.98,"DevOps, Cybersecurity, Data Science, Cloud",Apple,Analyst,2023-11-10,38.37,Unplaced
+S50656,2025,AIML,Male,9.95,"DevOps, Java",Wipro,Software Engineer,2025-06-30,19.76,Placed
+S50657,2024,IT,Male,5.15,"Cloud, Computer Vision, DevOps",Apple,Web Developer,2023-08-22,15.34,Placed
+S50658,2024,MECH,Male,7.69,"Cloud, Java, SQL, Deep Learning",TCS,Software Engineer,2022-10-12,38.46,Unplaced
+S50659,2023,EEE,Female,6.72,"Computer Vision, NLP, SQL",Microsoft,Cloud Engineer,2024-09-08,11.32,Placed
+S50660,2023,CSE,Female,7.73,"Cybersecurity, Node.js, AI, Deep Learning, Cloud",Infosys,AI Engineer,2022-10-10,8.69,Unplaced
+S50661,2022,EEE,Female,9.76,"Python, C++",TCS,Cloud Engineer,2024-02-07,8.06,Placed
+S50662,2025,CIVIL,Male,7.93,"Python, DevOps, Node.js, Cybersecurity",Accenture,AI Engineer,2024-03-17,40.84,Unplaced
+S50663,2022,CSE,Male,8.65,"Cloud, AI, Java, SQL, C++",Accenture,Software Engineer,2023-12-25,41.17,Unplaced
+S50664,2023,IT,Female,5.09,"C++, Computer Vision, Data Science, SQL",HCL,Data Scientist,2022-11-21,5.43,Unplaced
+S50665,2021,IT,Male,7.15,"AI, Cybersecurity, Cloud",Google,System Engineer,2025-07-25,33.19,Unplaced
+S50666,2024,IT,Female,6.04,"Cybersecurity, AI, SQL, Machine Learning, Cloud",Amazon,Software Engineer,2022-09-24,18.9,Placed
+S50667,2021,EEE,Male,6.99,"React, AI, Machine Learning, Cybersecurity, Data Science",Wipro,Web Developer,2025-07-03,22.15,Placed
+S50668,2024,CIVIL,Male,7.34,"Cybersecurity, SQL, Python, NLP, DevOps",TCS,System Engineer,2024-07-31,10.6,Unplaced
+S50669,2024,CIVIL,Male,5.25,"Data Science, Machine Learning",Microsoft,Web Developer,2024-08-23,14.12,Placed
+S50670,2023,ECE,Male,6.14,"SQL, Deep Learning, Computer Vision, Java, Machine Learning",Amazon,Data Scientist,2023-04-21,13.7,Placed
+S50671,2025,AIML,Male,9.3,"Machine Learning, Data Science, Cybersecurity",Amazon,AI Engineer,2023-02-21,40.67,Unplaced
+S50672,2025,AIML,Male,7.45,"Python, NLP, Cybersecurity, Machine Learning, React",TCS,Analyst,2025-06-25,20.15,Unplaced
+S50673,2021,EEE,Female,7.25,"Machine Learning, Data Science, NLP, Java",Accenture,Software Engineer,2024-01-07,6.53,Unplaced
+S50674,2022,ECE,Male,6.61,"Deep Learning, AI, Cybersecurity",Facebook,Analyst,2023-11-17,38.04,Unplaced
+S50675,2023,CIVIL,Female,5.04,"Machine Learning, React, C++",Wipro,Web Developer,2024-07-27,14.09,Unplaced
+S50676,2021,AIML,Male,9.71,"React, Cybersecurity",Infosys,Web Developer,2025-07-04,6.15,Placed
+S50677,2023,EEE,Male,8.55,"Java, Node.js, AI, DevOps",TCS,Data Scientist,2023-08-29,20.3,Placed
+S50678,2025,CSE,Male,9.27,"AI, Cloud, Node.js, NLP, React",Infosys,Web Developer,2023-05-02,17.72,Placed
+S50679,2025,MECH,Male,5.01,"SQL, Computer Vision",HCL,AI Engineer,2022-10-13,7.65,Placed
+S50680,2023,CSE,Female,9.17,"Cybersecurity, NLP",Accenture,Software Engineer,2023-06-30,7.68,Unplaced
+S50681,2024,EEE,Male,7.11,"Python, Computer Vision, React, Java",Amazon,Web Developer,2022-09-29,28.04,Placed
+S50682,2025,CSE,Male,8.88,"React, Cloud",Apple,System Engineer,2025-01-30,35.91,Unplaced
+S50683,2023,AIML,Male,6.42,"Python, Machine Learning",Infosys,Analyst,2023-08-15,15.09,Placed
+S50684,2023,IT,Male,9.89,"SQL, React, DevOps, Cybersecurity, Java",Google,Software Engineer,2025-06-06,24.52,Placed
+S50685,2024,ECE,Female,6.29,"Deep Learning, C++, Python",Facebook,Web Developer,2022-12-21,8.03,Unplaced
+S50686,2022,CSE,Female,8.88,"AI, SQL, React",Apple,AI Engineer,2025-04-07,6.53,Placed
+S50687,2024,MECH,Male,8.81,"Data Science, Machine Learning, DevOps, Cybersecurity",Infosys,Data Scientist,2024-05-06,27.11,Placed
+S50688,2024,IT,Female,7.73,"C++, DevOps, NLP, Deep Learning",Apple,Cloud Engineer,2024-03-09,29.61,Placed
+S50689,2025,AIML,Female,7.99,"Computer Vision, C++",Infosys,System Engineer,2025-07-14,42.07,Unplaced
+S50690,2021,ECE,Male,6.61,"Node.js, Java, Cybersecurity, Deep Learning, C++",Microsoft,Software Engineer,2023-12-19,30.81,Placed
+S50691,2025,MECH,Female,9.1,"Machine Learning, Cybersecurity, Computer Vision, Node.js",HCL,AI Engineer,2023-06-04,28.63,Unplaced
+S50692,2025,EEE,Female,5.17,"C++, Data Science, DevOps, Computer Vision, Machine Learning",Accenture,Data Scientist,2024-08-18,32.48,Unplaced
+S50693,2022,ECE,Male,7.61,"Java, React, C++, Data Science",Apple,Cloud Engineer,2024-03-05,22.41,Unplaced
+S50694,2024,ECE,Male,7.82,"C++, Python, Deep Learning, NLP, Data Science",Google,System Engineer,2023-11-04,17.02,Unplaced
+S50695,2023,AIML,Female,5.65,"Cloud, Machine Learning, Computer Vision, NLP, SQL",Apple,System Engineer,2022-12-03,23.53,Unplaced
+S50696,2022,MECH,Female,8.2,"Machine Learning, Data Science, C++, Python",Facebook,Analyst,2024-08-18,44.14,Unplaced
+S50697,2024,MECH,Female,5.87,"AI, Deep Learning, Machine Learning, Cloud, C++",Accenture,Data Scientist,2023-05-02,10.05,Unplaced
+S50698,2025,EEE,Female,5.24,"SQL, DevOps, Python",Google,Software Engineer,2023-08-30,11.71,Placed
+S50699,2022,EEE,Male,9.84,"C++, Cybersecurity, Data Science, NLP",Google,Cloud Engineer,2023-05-21,32.88,Unplaced
+S50700,2021,MECH,Female,8.72,"AI, C++",Amazon,System Engineer,2025-07-01,25.35,Unplaced
+S50701,2022,IT,Female,5.6,"Python, DevOps, Java, AI",Amazon,Data Scientist,2023-07-12,32.41,Placed
+S50702,2023,CIVIL,Female,9.7,"Data Science, Python, AI, Node.js, SQL",Facebook,Cloud Engineer,2022-10-29,25.79,Unplaced
+S50703,2025,MECH,Male,7.54,"C++, Deep Learning, Computer Vision",Amazon,Software Engineer,2025-05-21,20.22,Placed
+S50704,2025,CSE,Female,8.0,"Computer Vision, Java, Deep Learning, NLP, Cybersecurity",Apple,AI Engineer,2025-03-24,39.51,Placed
+S50705,2022,CSE,Male,5.37,"NLP, SQL",HCL,Cloud Engineer,2024-06-20,37.55,Unplaced
+S50706,2024,EEE,Female,8.95,"Node.js, SQL, Deep Learning, Python, Cybersecurity",Accenture,AI Engineer,2023-10-16,5.7,Unplaced
+S50707,2022,MECH,Male,9.88,"NLP, Python, SQL, DevOps",TCS,System Engineer,2022-08-31,22.88,Unplaced
+S50708,2023,ECE,Male,9.97,"AI, Java, Python, Computer Vision",Amazon,System Engineer,2024-08-08,10.87,Unplaced
+S50709,2025,MECH,Male,8.25,"AI, Computer Vision, Java, Machine Learning",TCS,Software Engineer,2022-11-24,23.37,Placed
+S50710,2025,IT,Female,9.13,"Node.js, Computer Vision, Cloud, Java",Wipro,System Engineer,2024-07-25,30.65,Unplaced
+S50711,2021,ECE,Female,7.37,"Cybersecurity, Machine Learning, Node.js, C++, Cloud",Accenture,Web Developer,2025-07-15,29.96,Unplaced
+S50712,2022,MECH,Female,5.43,"Machine Learning, Data Science, Python, Deep Learning",Wipro,Web Developer,2024-05-20,34.32,Unplaced
+S50713,2021,MECH,Male,9.35,"AI, NLP, Python, Cloud, SQL",Accenture,Analyst,2023-05-12,9.49,Placed
+S50714,2023,EEE,Female,6.15,"Java, Machine Learning, Deep Learning, Python, DevOps",Amazon,Analyst,2022-10-30,35.79,Unplaced
+S50715,2021,CSE,Male,5.16,"Python, Cloud",Microsoft,Data Scientist,2022-10-12,34.52,Placed
+S50716,2025,MECH,Male,9.12,"C++, Data Science, Cloud, Computer Vision, SQL",Microsoft,Web Developer,2024-12-20,37.5,Placed
+S50717,2025,EEE,Female,8.0,"SQL, Node.js",Wipro,Software Engineer,2024-11-05,43.07,Unplaced
+S50718,2022,IT,Male,5.47,"SQL, Machine Learning, React",Wipro,Web Developer,2025-01-16,6.64,Unplaced
+S50719,2024,IT,Male,5.9,"Machine Learning, AI",Google,AI Engineer,2024-02-16,10.91,Unplaced
+S50720,2022,CIVIL,Male,9.18,"Cybersecurity, C++, SQL, Deep Learning",TCS,Analyst,2023-01-14,43.1,Unplaced
+S50721,2025,CIVIL,Female,7.98,"Python, C++, Deep Learning",Amazon,Software Engineer,2022-12-10,43.23,Placed
+S50722,2021,CIVIL,Female,7.55,"DevOps, Deep Learning",Accenture,Software Engineer,2023-08-25,37.45,Unplaced
+S50723,2024,IT,Female,5.03,"Cybersecurity, Java, Python",TCS,AI Engineer,2024-09-22,17.25,Unplaced
+S50724,2021,IT,Female,7.55,"Computer Vision, SQL, Java",HCL,Software Engineer,2023-01-11,40.2,Unplaced
+S50725,2022,EEE,Male,8.08,"Deep Learning, Data Science, Cybersecurity, NLP, C++",TCS,Software Engineer,2024-08-23,31.37,Placed
+S50726,2022,ECE,Male,8.87,"Cloud, Cybersecurity, Node.js",TCS,Analyst,2022-11-13,34.65,Placed
+S50727,2023,ECE,Female,8.42,"React, C++, Data Science, NLP, SQL",Facebook,Web Developer,2025-07-17,25.83,Placed
+S50728,2024,ECE,Male,7.28,"Computer Vision, React, Cybersecurity",Apple,AI Engineer,2023-09-04,14.83,Unplaced
+S50729,2021,AIML,Male,9.65,"Computer Vision, Cloud, SQL, Java",Facebook,Data Scientist,2025-05-18,16.22,Placed
+S50730,2025,EEE,Male,7.31,"AI, Computer Vision, Cybersecurity, Cloud, Node.js",Google,Software Engineer,2022-11-08,37.74,Unplaced
+S50731,2024,EEE,Female,5.28,"AI, SQL",Google,Analyst,2024-10-02,36.69,Placed
+S50732,2022,AIML,Male,7.07,"Deep Learning, Python",Facebook,Cloud Engineer,2024-04-30,43.8,Unplaced
+S50733,2025,CSE,Male,6.83,"NLP, DevOps, Computer Vision, C++",HCL,Cloud Engineer,2022-11-23,36.02,Placed
+S50734,2022,IT,Male,7.7,"C++, AI, Cloud",Accenture,AI Engineer,2022-11-04,22.1,Unplaced
+S50735,2024,CSE,Female,7.94,"Computer Vision, Python, SQL",Apple,System Engineer,2023-09-22,38.36,Placed
+S50736,2021,AIML,Male,9.59,"SQL, Python",Accenture,System Engineer,2024-05-15,18.11,Unplaced
+S50737,2021,CIVIL,Female,6.98,"NLP, Machine Learning, Deep Learning",HCL,Web Developer,2024-07-14,28.56,Unplaced
+S50738,2023,IT,Male,5.97,"Cloud, Computer Vision, Deep Learning",Wipro,Data Scientist,2023-12-10,5.96,Unplaced
+S50739,2023,AIML,Female,6.72,"DevOps, Cybersecurity",Apple,Web Developer,2025-05-12,8.64,Unplaced
+S50740,2021,CSE,Male,6.39,"Cloud, Data Science, AI, SQL, NLP",Google,Web Developer,2022-11-09,17.89,Placed
+S50741,2021,MECH,Male,7.79,"Cloud, NLP, Computer Vision",TCS,Cloud Engineer,2022-10-19,41.86,Placed
+S50742,2023,CSE,Female,6.99,"Node.js, Deep Learning, React, Cybersecurity",Facebook,Software Engineer,2023-06-20,18.95,Placed
+S50743,2024,EEE,Male,7.73,"Java, Machine Learning, DevOps, Python, NLP",HCL,Data Scientist,2023-05-27,15.18,Placed
+S50744,2021,MECH,Male,5.55,"React, SQL, Java",Amazon,Analyst,2025-08-06,10.75,Placed
+S50745,2021,ECE,Female,6.43,"NLP, C++, Cloud, Java, Python",Apple,Web Developer,2024-10-20,33.57,Unplaced
+S50746,2023,ECE,Male,6.88,"C++, Cloud",Infosys,Analyst,2025-05-13,32.11,Placed
+S50747,2023,ECE,Female,5.62,"AI, C++, DevOps, SQL",Microsoft,AI Engineer,2024-05-08,5.82,Placed
+S50748,2023,IT,Male,7.68,"Java, Cloud",TCS,Software Engineer,2023-06-10,42.5,Placed
+S50749,2021,CSE,Female,9.21,"Machine Learning, Computer Vision, React, SQL, C++",Microsoft,Software Engineer,2024-11-24,44.51,Placed
+S50750,2021,ECE,Male,9.29,"React, Python, Cloud, Data Science, Java",Wipro,Cloud Engineer,2023-08-20,23.59,Placed
+S50751,2022,AIML,Male,5.62,"DevOps, AI, Deep Learning",Amazon,System Engineer,2022-12-31,23.68,Unplaced
+S50752,2024,EEE,Male,8.98,"Cybersecurity, NLP, Deep Learning",Microsoft,Analyst,2023-12-22,33.07,Placed
+S50753,2022,MECH,Female,8.98,"Node.js, Cybersecurity, Data Science",HCL,Web Developer,2023-02-05,5.1,Placed
+S50754,2025,EEE,Male,6.27,"Cloud, C++, Data Science, SQL, Deep Learning",HCL,Cloud Engineer,2023-01-03,9.11,Unplaced
+S50755,2022,EEE,Female,9.13,"Python, NLP",Amazon,Web Developer,2024-12-10,21.9,Placed
+S50756,2021,EEE,Male,6.79,"React, SQL, Data Science, Cybersecurity",Accenture,Software Engineer,2023-04-30,19.36,Placed
+S50757,2025,CIVIL,Male,6.84,"NLP, SQL, Computer Vision, Deep Learning, AI",Amazon,Web Developer,2025-03-08,39.62,Placed
+S50758,2022,EEE,Male,5.69,"Computer Vision, Python, Cloud",Accenture,Data Scientist,2022-12-17,31.31,Unplaced
+S50759,2024,EEE,Male,6.49,"Data Science, C++, Deep Learning, NLP",Google,Analyst,2023-07-21,16.74,Placed
+S50760,2021,CSE,Male,6.81,"Deep Learning, DevOps, Python",Facebook,Analyst,2025-04-18,12.07,Unplaced
+S50761,2022,CIVIL,Female,8.01,"NLP, DevOps, React",TCS,AI Engineer,2022-09-18,5.21,Unplaced
+S50762,2022,CIVIL,Female,9.13,"SQL, Java, Cybersecurity, React",Amazon,Data Scientist,2024-07-07,18.21,Placed
+S50763,2021,ECE,Female,8.58,"Cybersecurity, Cloud, Data Science",Google,Analyst,2024-12-07,42.79,Unplaced
+S50764,2022,IT,Female,6.72,"Cloud, React, NLP, Deep Learning, Java",Facebook,Software Engineer,2024-02-28,44.91,Placed
+S50765,2023,CSE,Female,8.03,"Deep Learning, AI, Java, Cloud",Google,Data Scientist,2024-09-15,12.95,Placed
+S50766,2022,CSE,Male,6.48,"Cloud, Python, DevOps, SQL",Amazon,System Engineer,2024-06-09,8.0,Unplaced
+S50767,2021,MECH,Female,5.68,"DevOps, Java, Machine Learning",Apple,Data Scientist,2025-01-25,33.77,Placed
+S50768,2022,MECH,Female,7.92,"Cloud, SQL, DevOps, Deep Learning",Apple,Web Developer,2024-03-29,39.05,Placed
+S50769,2025,EEE,Male,5.42,"DevOps, AI",HCL,Cloud Engineer,2024-11-10,14.19,Unplaced
+S50770,2023,IT,Male,6.61,"Java, Data Science, Python, SQL, Cybersecurity",Accenture,System Engineer,2025-04-19,18.57,Unplaced
+S50771,2022,ECE,Male,6.38,"Computer Vision, NLP, DevOps, Cloud",Infosys,System Engineer,2023-03-16,32.84,Unplaced
+S50772,2025,ECE,Male,9.99,"Java, Node.js, NLP",Microsoft,Analyst,2022-09-10,8.1,Placed
+S50773,2022,AIML,Male,9.44,"Data Science, DevOps, Cloud, Machine Learning",Apple,System Engineer,2023-12-12,26.74,Unplaced
+S50774,2022,MECH,Male,7.25,"NLP, Deep Learning, SQL",Facebook,Data Scientist,2025-07-26,38.47,Unplaced
+S50775,2021,ECE,Female,7.7,"DevOps, Deep Learning, AI",Infosys,Data Scientist,2024-07-19,33.26,Unplaced
+S50776,2024,CIVIL,Female,6.0,"Cybersecurity, Cloud, AI, Deep Learning",Infosys,Data Scientist,2023-08-04,6.61,Placed
+S50777,2022,EEE,Female,8.99,"Python, SQL",Facebook,Software Engineer,2024-12-30,25.12,Unplaced
+S50778,2024,ECE,Female,8.27,"DevOps, NLP, Data Science",Apple,Data Scientist,2023-02-17,36.57,Unplaced
+S50779,2022,AIML,Female,8.73,"React, Node.js, Cybersecurity, Deep Learning",Facebook,Software Engineer,2023-03-25,22.52,Unplaced
+S50780,2025,AIML,Male,6.65,"C++, Python, SQL, Machine Learning, Computer Vision",Google,AI Engineer,2023-12-19,13.81,Unplaced
+S50781,2021,MECH,Female,7.41,"Data Science, AI, SQL, DevOps, Cybersecurity",Amazon,Software Engineer,2024-09-10,27.64,Placed
+S50782,2022,ECE,Female,5.07,"Computer Vision, C++",Microsoft,Data Scientist,2023-01-05,41.89,Unplaced
+S50783,2024,ECE,Female,8.47,"Java, Python, AI, Machine Learning, Cloud",Wipro,Web Developer,2023-10-05,8.81,Unplaced
+S50784,2023,CIVIL,Male,5.81,"C++, SQL, React, Python, Data Science",Google,AI Engineer,2024-05-08,19.61,Unplaced
+S50785,2024,ECE,Male,8.01,"Data Science, DevOps, Cybersecurity",Amazon,System Engineer,2023-12-21,28.29,Placed
+S50786,2022,ECE,Male,9.63,"Deep Learning, Data Science",Google,Software Engineer,2023-03-16,30.35,Unplaced
+S50787,2025,CSE,Female,7.28,"React, C++",Apple,System Engineer,2023-03-11,12.37,Placed
+S50788,2024,AIML,Female,6.08,"C++, AI, Computer Vision, Node.js, React",Accenture,Analyst,2024-12-02,44.25,Placed
+S50789,2022,IT,Female,8.11,"Cloud, Python, React",TCS,System Engineer,2022-12-27,34.38,Placed
+S50790,2024,ECE,Male,6.33,"Deep Learning, Java, Machine Learning, Computer Vision, SQL",Wipro,Data Scientist,2024-08-23,14.01,Unplaced
+S50791,2022,ECE,Male,7.01,"Node.js, Machine Learning",Infosys,Web Developer,2023-09-06,18.95,Unplaced
+S50792,2025,AIML,Female,8.15,"Deep Learning, React",Infosys,Software Engineer,2025-08-09,10.66,Placed
+S50793,2025,CSE,Female,5.69,"Data Science, SQL, Computer Vision",Facebook,AI Engineer,2022-12-30,42.81,Unplaced
+S50794,2021,CSE,Male,9.59,"Java, Deep Learning, C++",Microsoft,System Engineer,2024-06-17,20.36,Unplaced
+S50795,2022,CSE,Female,7.57,"React, Node.js",Infosys,System Engineer,2025-02-03,44.3,Unplaced
+S50796,2022,ECE,Male,6.46,"NLP, Machine Learning, Computer Vision",Accenture,Web Developer,2025-06-22,31.99,Unplaced
+S50797,2023,CIVIL,Female,9.99,"React, Computer Vision, Data Science, DevOps",Facebook,Cloud Engineer,2023-09-07,28.6,Placed
+S50798,2022,MECH,Male,6.41,"Machine Learning, Computer Vision",Apple,Data Scientist,2023-10-24,20.93,Placed
+S50799,2024,ECE,Female,7.94,"Data Science, DevOps, C++, Java",Microsoft,Software Engineer,2022-11-25,9.59,Placed
+S50800,2024,MECH,Male,5.56,"Cybersecurity, React, Java, AI",Apple,Web Developer,2024-09-25,37.24,Unplaced
+S50801,2021,ECE,Male,7.67,"Machine Learning, Data Science, SQL",Google,Cloud Engineer,2025-08-14,35.4,Unplaced
+S50802,2021,CIVIL,Male,7.41,"Cloud, Data Science, Machine Learning, Cybersecurity",Amazon,Analyst,2023-09-12,27.9,Placed
+S50803,2023,CSE,Male,7.79,"DevOps, Python, Cloud",Accenture,Analyst,2022-11-04,4.37,Placed
+S50804,2021,IT,Male,6.92,"Data Science, Java, Python, Cybersecurity",Infosys,System Engineer,2025-08-19,40.68,Placed
+S50805,2022,EEE,Male,8.93,"Node.js, Deep Learning, DevOps, Computer Vision",Infosys,Web Developer,2023-06-28,24.14,Placed
+S50806,2021,AIML,Female,6.85,"Machine Learning, React",Infosys,Cloud Engineer,2023-11-09,30.02,Placed
+S50807,2024,EEE,Male,7.11,"Java, Machine Learning, AI",Google,Analyst,2024-03-24,7.22,Placed
+S50808,2025,ECE,Female,5.6,"Cloud, AI, Data Science",TCS,AI Engineer,2023-01-22,26.0,Unplaced
+S50809,2022,CIVIL,Female,5.91,"Python, Machine Learning, Deep Learning, AI, Data Science",Wipro,System Engineer,2022-12-11,4.8,Unplaced
+S50810,2023,EEE,Female,7.88,"Machine Learning, Python, Computer Vision, NLP",Apple,Analyst,2024-06-05,14.0,Placed
+S50811,2024,MECH,Male,6.99,"React, NLP, Node.js",TCS,Data Scientist,2023-12-22,12.41,Placed
+S50812,2022,AIML,Male,5.24,"Cybersecurity, SQL, React, Node.js, Computer Vision",Wipro,Cloud Engineer,2024-04-03,17.64,Placed
+S50813,2021,CSE,Female,7.96,"React, Java, Computer Vision, SQL",Google,Software Engineer,2025-01-01,21.41,Placed
+S50814,2021,MECH,Female,9.69,"Deep Learning, Python",Infosys,Web Developer,2022-08-22,34.24,Unplaced
+S50815,2025,CIVIL,Male,9.7,"Java, Cloud, C++",Microsoft,Software Engineer,2023-11-09,11.94,Placed
+S50816,2023,AIML,Male,8.15,"SQL, Cybersecurity, AI, Deep Learning",Microsoft,Analyst,2025-06-03,12.08,Unplaced
+S50817,2021,ECE,Male,5.34,"SQL, NLP, Deep Learning",Apple,AI Engineer,2023-03-14,22.98,Unplaced
+S50818,2025,AIML,Female,6.07,"Machine Learning, NLP, Node.js, Cybersecurity, Cloud",Wipro,Data Scientist,2025-01-30,41.28,Placed
+S50819,2023,ECE,Male,8.86,"Deep Learning, NLP, DevOps",Google,Cloud Engineer,2022-10-04,39.9,Unplaced
+S50820,2021,CSE,Male,7.72,"NLP, C++",HCL,Analyst,2024-07-08,44.19,Unplaced
+S50821,2025,IT,Female,7.18,"AI, DevOps, SQL",Wipro,AI Engineer,2023-04-01,28.88,Unplaced
+S50822,2021,IT,Male,5.21,"Computer Vision, React, DevOps, Machine Learning",Infosys,Software Engineer,2025-07-25,18.03,Unplaced
+S50823,2021,CSE,Male,7.22,"React, Cybersecurity, Data Science, Machine Learning, Java",HCL,Cloud Engineer,2025-06-05,22.92,Placed
+S50824,2023,AIML,Female,6.92,"React, Machine Learning",Apple,Analyst,2022-09-20,25.33,Unplaced
+S50825,2023,CIVIL,Female,5.88,"Machine Learning, Computer Vision, Cloud, DevOps, Deep Learning",Apple,AI Engineer,2022-11-03,20.88,Placed
+S50826,2022,ECE,Male,9.24,"AI, Cybersecurity",Facebook,System Engineer,2025-08-15,19.96,Placed
+S50827,2021,CIVIL,Male,7.28,"Python, SQL, Java, C++, Cloud",Amazon,Analyst,2024-06-16,22.12,Unplaced
+S50828,2021,IT,Male,8.67,"C++, SQL, Java, AI, React",Infosys,Analyst,2023-10-11,30.03,Placed
+S50829,2021,CIVIL,Female,8.66,"NLP, Deep Learning",TCS,Analyst,2023-02-03,33.58,Unplaced
+S50830,2021,MECH,Female,7.87,"Deep Learning, Computer Vision, Cloud",Accenture,Cloud Engineer,2024-04-07,29.96,Placed
+S50831,2025,CIVIL,Male,7.43,"Computer Vision, NLP, Deep Learning, Python, Machine Learning",TCS,AI Engineer,2025-01-10,24.3,Placed
+S50832,2023,MECH,Female,6.23,"NLP, DevOps, AI, Deep Learning",TCS,Software Engineer,2023-03-12,43.92,Unplaced
+S50833,2022,CSE,Male,8.99,"Cloud, React, Python, AI",Microsoft,Software Engineer,2024-01-03,38.64,Placed
+S50834,2025,EEE,Female,5.46,"Cloud, Deep Learning, Machine Learning",Facebook,System Engineer,2022-12-02,20.67,Placed
+S50835,2021,CIVIL,Male,5.21,"Data Science, DevOps, Machine Learning",TCS,AI Engineer,2023-12-11,33.0,Placed
+S50836,2021,EEE,Male,9.76,"React, Machine Learning, Data Science",Google,Web Developer,2023-05-12,38.54,Placed
+S50837,2025,IT,Female,6.85,"React, Machine Learning, Computer Vision, Cybersecurity",Apple,System Engineer,2023-03-23,5.97,Unplaced
+S50838,2022,ECE,Male,6.46,"Machine Learning, Python, SQL",Facebook,System Engineer,2023-10-03,17.39,Placed
+S50839,2022,MECH,Female,5.87,"DevOps, Cloud",Amazon,Web Developer,2024-10-03,13.57,Placed
+S50840,2024,CSE,Male,8.99,"Node.js, NLP, SQL, Cybersecurity",Infosys,Data Scientist,2025-07-06,29.67,Placed
+S50841,2025,AIML,Male,5.18,"NLP, Machine Learning, DevOps, SQL, Java",Accenture,System Engineer,2024-01-06,37.43,Unplaced
+S50842,2021,AIML,Male,7.6,"Node.js, NLP, DevOps, C++",HCL,Web Developer,2023-11-08,44.86,Placed
+S50843,2024,IT,Male,7.0,"AI, Machine Learning, Data Science, Cybersecurity, DevOps",Amazon,Software Engineer,2022-10-13,7.44,Unplaced
+S50844,2021,ECE,Male,8.73,"React, Python",Microsoft,Data Scientist,2022-11-28,34.27,Unplaced
+S50845,2021,ECE,Female,6.95,"Java, DevOps, C++, Cybersecurity",Amazon,AI Engineer,2024-12-11,41.96,Placed
+S50846,2021,MECH,Male,6.5,"DevOps, React, Data Science",Apple,System Engineer,2025-01-03,23.06,Unplaced
+S50847,2025,IT,Female,9.9,"NLP, Python, SQL, AI, Machine Learning",Accenture,Data Scientist,2022-10-04,14.74,Unplaced
+S50848,2024,CIVIL,Male,5.37,"Machine Learning, Python, Deep Learning",Accenture,System Engineer,2022-10-03,14.99,Unplaced
+S50849,2021,IT,Female,9.42,"Cloud, NLP",Apple,Data Scientist,2023-02-26,35.4,Unplaced
+S50850,2025,CSE,Male,8.84,"DevOps, NLP, React, AI, Cloud",Amazon,System Engineer,2022-11-08,20.32,Unplaced
+S50851,2024,AIML,Male,6.73,"DevOps, Cloud, Data Science, AI",Amazon,System Engineer,2023-03-12,6.51,Unplaced
+S50852,2023,EEE,Male,6.09,"AI, C++, Machine Learning, Cybersecurity",HCL,AI Engineer,2024-02-27,28.01,Placed
+S50853,2024,EEE,Female,5.81,"Deep Learning, Cybersecurity, Computer Vision, Java",Wipro,Cloud Engineer,2024-06-29,12.1,Unplaced
+S50854,2022,ECE,Male,7.87,"SQL, Cloud, Java, Machine Learning, React",Accenture,Cloud Engineer,2023-09-27,3.03,Placed
+S50855,2023,CIVIL,Male,8.4,"C++, Cloud, Data Science, React, Computer Vision",Wipro,AI Engineer,2025-03-29,13.94,Placed
+S50856,2022,CSE,Male,8.59,"Node.js, AI, Data Science, Python, Java",Google,Analyst,2022-09-16,12.6,Unplaced
+S50857,2025,CIVIL,Female,8.22,"React, SQL, C++",Wipro,Analyst,2023-08-15,35.3,Unplaced
+S50858,2025,CSE,Female,8.3,"Data Science, AI, Computer Vision, C++",Facebook,Software Engineer,2024-11-18,4.08,Unplaced
+S50859,2023,CIVIL,Male,9.0,"Deep Learning, Cybersecurity",Apple,Web Developer,2024-06-18,27.28,Placed
+S50860,2023,MECH,Male,5.53,"Data Science, DevOps, Cybersecurity, React",Microsoft,Analyst,2023-03-04,28.95,Placed
+S50861,2024,AIML,Male,9.24,"C++, Computer Vision, Data Science, React, Python",Apple,AI Engineer,2024-03-06,14.56,Placed
+S50862,2021,ECE,Female,6.73,"Java, NLP, Cloud, Cybersecurity",Infosys,Software Engineer,2023-06-30,23.32,Placed
+S50863,2023,IT,Male,8.13,"C++, Cybersecurity, AI, Java",Microsoft,Data Scientist,2024-01-17,39.53,Unplaced
+S50864,2024,CIVIL,Male,6.11,"AI, Computer Vision",Apple,System Engineer,2024-02-29,23.83,Unplaced
+S50865,2022,AIML,Male,8.45,"Node.js, AI, React",Apple,AI Engineer,2022-09-10,42.89,Placed
+S50866,2025,CIVIL,Male,9.98,"SQL, Computer Vision, AI",Google,Web Developer,2023-05-02,33.58,Unplaced
+S50867,2025,CSE,Male,6.67,"C++, Deep Learning, Data Science, React, Machine Learning",Facebook,Analyst,2025-02-14,24.6,Unplaced
+S50868,2025,EEE,Female,7.09,"Computer Vision, DevOps, Java",Facebook,Data Scientist,2025-04-09,21.29,Unplaced
+S50869,2022,AIML,Female,9.22,"DevOps, Deep Learning, Computer Vision",Facebook,Data Scientist,2023-05-02,4.11,Placed
+S50870,2023,MECH,Female,6.46,"AI, DevOps, SQL",Accenture,Data Scientist,2023-01-17,34.22,Placed
+S50871,2024,CSE,Male,8.13,"Cloud, SQL",Wipro,Cloud Engineer,2023-10-12,41.13,Unplaced
+S50872,2025,EEE,Female,5.56,"Machine Learning, NLP, Deep Learning, Computer Vision, DevOps",Accenture,AI Engineer,2024-11-22,41.65,Placed
+S50873,2021,AIML,Male,5.92,"DevOps, Machine Learning",TCS,System Engineer,2025-03-20,4.38,Placed
+S50874,2024,MECH,Male,6.83,"Computer Vision, Cybersecurity",Accenture,Data Scientist,2023-05-14,36.56,Placed
+S50875,2021,EEE,Male,9.01,"Cybersecurity, Deep Learning, DevOps, NLP",TCS,Data Scientist,2025-04-27,34.92,Placed
+S50876,2023,CIVIL,Male,6.93,"SQL, NLP, Deep Learning, DevOps, Machine Learning",Amazon,System Engineer,2023-04-02,11.04,Unplaced
+S50877,2023,CIVIL,Male,6.39,"AI, Machine Learning, Java, NLP",TCS,Web Developer,2024-07-15,27.33,Unplaced
+S50878,2022,CIVIL,Female,7.94,"AI, DevOps, Cloud",Wipro,AI Engineer,2024-06-27,16.62,Placed
+S50879,2022,ECE,Male,5.17,"Node.js, Machine Learning, Python",Wipro,AI Engineer,2024-06-19,27.16,Placed
+S50880,2024,CSE,Male,9.34,"SQL, Computer Vision, React, C++, Cybersecurity",Amazon,Cloud Engineer,2023-02-21,24.12,Placed
+S50881,2022,ECE,Male,7.08,"React, Data Science, AI, Cloud",Facebook,AI Engineer,2024-01-22,24.54,Placed
+S50882,2023,ECE,Female,8.6,"Computer Vision, NLP",HCL,Analyst,2023-12-27,39.68,Unplaced
+S50883,2021,ECE,Male,9.68,"Java, Cybersecurity, Cloud, Data Science, Machine Learning",Amazon,Web Developer,2024-07-14,36.46,Placed
+S50884,2023,MECH,Female,8.09,"Cybersecurity, DevOps",Accenture,AI Engineer,2023-08-11,19.56,Unplaced
+S50885,2025,ECE,Female,9.0,"NLP, AI, Computer Vision, C++, Cloud",Infosys,System Engineer,2024-08-07,4.52,Placed
+S50886,2023,AIML,Male,9.77,"Data Science, Java, Cybersecurity",Wipro,Software Engineer,2025-03-05,27.67,Unplaced
+S50887,2022,ECE,Female,9.65,"AI, React, Python, Cloud, Cybersecurity",Google,System Engineer,2024-06-26,11.9,Placed
+S50888,2022,EEE,Female,7.86,"Cloud, Java, Cybersecurity, Data Science, Python",Google,Cloud Engineer,2023-05-15,32.36,Unplaced
+S50889,2024,IT,Male,8.49,"Cybersecurity, Python",HCL,Web Developer,2024-07-07,20.89,Unplaced
+S50890,2021,CIVIL,Female,9.45,"NLP, Computer Vision, SQL, AI",Microsoft,Software Engineer,2022-11-05,21.96,Placed
+S50891,2023,CSE,Male,6.05,"Cloud, NLP, React",HCL,System Engineer,2025-06-24,8.97,Placed
+S50892,2022,CSE,Male,6.57,"Data Science, SQL, Python",Wipro,Analyst,2023-04-28,6.02,Unplaced
+S50893,2021,CIVIL,Female,8.37,"Cloud, DevOps, Data Science, NLP",Facebook,Web Developer,2024-11-26,10.02,Unplaced
+S50894,2022,MECH,Male,5.71,"NLP, React, Cybersecurity, Cloud, Python",Google,Web Developer,2024-08-26,44.7,Placed
+S50895,2022,MECH,Female,9.27,"AI, NLP, React, C++, Machine Learning",Apple,Data Scientist,2024-09-23,33.79,Unplaced
+S50896,2022,MECH,Male,6.79,"Node.js, AI, Python, Machine Learning",Accenture,Data Scientist,2025-03-04,9.44,Unplaced
+S50897,2025,IT,Female,6.08,"Machine Learning, Cybersecurity, Python, Computer Vision, AI",TCS,Software Engineer,2022-08-24,31.25,Placed
+S50898,2023,CSE,Male,9.38,"Cloud, Deep Learning",Google,Software Engineer,2023-01-29,30.51,Unplaced
+S50899,2024,IT,Male,8.75,"SQL, NLP",Microsoft,Cloud Engineer,2023-03-07,15.85,Unplaced
+S50900,2025,AIML,Female,7.23,"C++, Deep Learning, Python, NLP, Machine Learning",Amazon,AI Engineer,2024-06-03,38.24,Unplaced
+S50901,2023,CSE,Female,5.58,"React, DevOps",TCS,System Engineer,2025-07-21,25.25,Unplaced
+S50902,2021,EEE,Female,6.07,"Computer Vision, Java, NLP, Cybersecurity",Wipro,Web Developer,2022-11-11,41.04,Unplaced
+S50903,2024,AIML,Male,8.15,"Deep Learning, Node.js, AI, NLP",Wipro,Web Developer,2023-07-10,29.38,Unplaced
+S50904,2021,MECH,Male,5.02,"Machine Learning, Python, Computer Vision",Amazon,AI Engineer,2022-08-23,19.35,Unplaced
+S50905,2022,AIML,Male,6.05,"Computer Vision, Cybersecurity, Cloud, DevOps, AI",TCS,Software Engineer,2022-10-12,41.75,Placed
+S50906,2023,IT,Male,5.11,"NLP, Data Science, React, Node.js",Google,AI Engineer,2025-02-03,19.45,Placed
+S50907,2024,AIML,Female,9.4,"SQL, React, Deep Learning, Computer Vision, Cybersecurity",Microsoft,Software Engineer,2023-08-23,8.55,Unplaced
+S50908,2025,ECE,Male,5.52,"C++, Computer Vision, React, Node.js, Deep Learning",Google,Cloud Engineer,2024-09-08,13.86,Unplaced
+S50909,2023,CIVIL,Male,9.1,"Cybersecurity, Java, AI, DevOps, NLP",Amazon,Web Developer,2025-08-21,26.4,Unplaced
+S50910,2023,ECE,Female,7.71,"AI, Cloud",Microsoft,Cloud Engineer,2024-02-23,32.79,Unplaced
+S50911,2022,EEE,Male,5.35,"Machine Learning, Java, Cloud, Computer Vision, DevOps",Microsoft,System Engineer,2024-04-23,41.06,Unplaced
+S50912,2021,CSE,Male,9.12,"NLP, C++, AI, Data Science, Python",Facebook,AI Engineer,2024-08-12,32.38,Placed
+S50913,2021,CSE,Female,8.24,"Cloud, Deep Learning",Accenture,Data Scientist,2023-07-22,22.65,Unplaced
+S50914,2022,ECE,Female,7.76,"Java, Deep Learning",Amazon,Web Developer,2023-06-30,37.66,Unplaced
+S50915,2021,MECH,Male,7.91,"SQL, DevOps, Cybersecurity, Python, Deep Learning",Google,AI Engineer,2023-10-26,38.13,Placed
+S50916,2024,CIVIL,Female,5.83,"Python, Data Science, Machine Learning, DevOps",Infosys,Cloud Engineer,2023-06-30,37.97,Unplaced
+S50917,2025,IT,Male,5.57,"NLP, Cloud, C++",Amazon,Cloud Engineer,2023-12-06,6.08,Unplaced
+S50918,2023,AIML,Male,5.66,"Deep Learning, Java, SQL",Infosys,Data Scientist,2025-01-11,36.13,Unplaced
+S50919,2024,EEE,Male,8.61,"Java, Python",Wipro,Cloud Engineer,2024-10-31,44.67,Unplaced
+S50920,2025,EEE,Female,7.68,"C++, NLP, Node.js",Google,Software Engineer,2024-02-27,10.99,Placed
+S50921,2021,EEE,Female,5.55,"Cloud, Machine Learning, Python, Node.js, SQL",HCL,Software Engineer,2023-09-01,32.76,Placed
+S50922,2022,IT,Female,8.18,"DevOps, NLP, C++, Cybersecurity",TCS,AI Engineer,2024-03-13,31.07,Unplaced
+S50923,2025,EEE,Female,5.22,"Deep Learning, Cloud, Machine Learning, SQL, AI",Accenture,System Engineer,2024-02-19,30.99,Placed
+S50924,2023,MECH,Female,9.64,"Cybersecurity, Java, DevOps, Machine Learning",TCS,AI Engineer,2023-09-11,28.24,Unplaced
+S50925,2021,EEE,Male,8.11,"Data Science, AI",Facebook,Data Scientist,2025-06-17,23.32,Unplaced
+S50926,2023,ECE,Female,8.3,"Cloud, Node.js, Java, Computer Vision",Microsoft,Cloud Engineer,2022-11-26,20.81,Unplaced
+S50927,2024,CIVIL,Male,8.25,"SQL, Deep Learning, Node.js",Accenture,Analyst,2025-04-08,6.47,Unplaced
+S50928,2025,ECE,Male,9.75,"Java, C++, React, Python, Deep Learning",HCL,System Engineer,2024-09-27,7.09,Unplaced
+S50929,2021,AIML,Female,8.9,"Node.js, Python, SQL",Facebook,AI Engineer,2024-05-05,14.37,Placed
+S50930,2021,IT,Male,7.52,"NLP, Java, C++, Data Science",Accenture,Data Scientist,2024-02-15,3.95,Placed
+S50931,2025,ECE,Male,7.63,"Java, React",Facebook,AI Engineer,2023-04-01,17.85,Placed
+S50932,2022,CIVIL,Female,8.84,"AI, Java",Infosys,Web Developer,2023-03-31,26.08,Placed
+S50933,2022,AIML,Female,8.37,"Computer Vision, DevOps",Microsoft,Data Scientist,2023-08-27,32.85,Placed
+S50934,2024,EEE,Male,8.98,"SQL, Data Science, Cybersecurity, Deep Learning, C++",HCL,AI Engineer,2024-09-21,29.98,Unplaced
+S50935,2023,CSE,Female,9.28,"Machine Learning, Node.js, Python, AI",Infosys,System Engineer,2024-04-05,13.34,Placed
+S50936,2025,CSE,Female,6.17,"NLP, DevOps, C++, Cybersecurity",Apple,Data Scientist,2022-10-19,3.58,Unplaced
+S50937,2025,CSE,Female,6.37,"Python, DevOps, Computer Vision",Microsoft,Web Developer,2023-01-14,20.13,Unplaced
+S50938,2025,EEE,Male,8.94,"Cybersecurity, Data Science, Cloud, Computer Vision",Accenture,Analyst,2023-05-12,22.84,Placed
+S50939,2025,CSE,Female,7.21,"AI, Node.js",Microsoft,Analyst,2024-04-29,14.37,Unplaced
+S50940,2022,IT,Female,9.99,"Deep Learning, Python, React, NLP",Microsoft,Analyst,2023-01-22,22.21,Placed
+S50941,2021,IT,Female,6.77,"Computer Vision, SQL",Microsoft,Web Developer,2023-11-02,40.57,Unplaced
+S50942,2025,AIML,Male,8.07,"Machine Learning, Java",Apple,Software Engineer,2023-06-27,33.84,Placed
+S50943,2023,CSE,Male,6.97,"Data Science, Deep Learning, SQL",Amazon,Analyst,2024-01-07,7.2,Placed
+S50944,2022,CSE,Female,6.43,"Cybersecurity, Python, Data Science",TCS,Web Developer,2024-09-01,41.55,Placed
+S50945,2024,CIVIL,Male,5.45,"C++, Machine Learning",Wipro,AI Engineer,2025-07-17,16.73,Unplaced
+S50946,2021,MECH,Male,7.59,"Data Science, Computer Vision, SQL, Node.js",Infosys,Cloud Engineer,2024-08-21,10.5,Placed
+S50947,2021,CSE,Male,6.59,"NLP, Data Science, AI, Java",TCS,Software Engineer,2024-11-28,35.85,Placed
+S50948,2023,IT,Male,7.08,"AI, Machine Learning, Deep Learning, Cloud",Apple,Data Scientist,2025-04-15,12.9,Unplaced
+S50949,2023,IT,Female,5.45,"Machine Learning, Cybersecurity, SQL, C++",Google,Analyst,2023-01-10,34.5,Placed
+S50950,2021,AIML,Male,7.35,"Machine Learning, Cloud, SQL",Infosys,Data Scientist,2023-06-27,30.98,Placed
+S50951,2022,CSE,Male,9.36,"Cybersecurity, Java, Machine Learning",Google,Software Engineer,2024-03-28,30.61,Placed
+S50952,2024,CIVIL,Female,9.2,"Python, Deep Learning, AI, React",Infosys,Analyst,2025-07-26,43.33,Unplaced
+S50953,2022,AIML,Male,5.16,"Cybersecurity, Data Science, C++, SQL",Apple,System Engineer,2022-09-06,9.52,Placed
+S50954,2022,AIML,Female,9.63,"SQL, Deep Learning, NLP",Microsoft,Data Scientist,2023-01-29,4.23,Placed
+S50955,2022,CSE,Female,5.33,"DevOps, Cybersecurity, Cloud",Microsoft,Cloud Engineer,2024-10-24,34.73,Placed
+S50956,2022,EEE,Female,8.92,"Deep Learning, NLP, Cloud, React",Apple,Cloud Engineer,2025-03-19,19.27,Unplaced
+S50957,2023,IT,Female,5.13,"Java, SQL, Machine Learning, NLP",Accenture,Analyst,2025-02-18,7.9,Placed
+S50958,2023,IT,Female,7.83,"AI, Computer Vision",Facebook,Analyst,2025-04-12,24.22,Placed
+S50959,2021,CSE,Male,8.46,"Python, AI, Data Science",Facebook,AI Engineer,2023-06-04,29.87,Unplaced
+S50960,2022,AIML,Female,9.71,"Cloud, DevOps, AI, C++, Data Science",Amazon,AI Engineer,2024-04-17,34.86,Unplaced
+S50961,2021,ECE,Female,6.77,"Computer Vision, Node.js",Wipro,Web Developer,2022-09-25,35.13,Placed
+S50962,2022,AIML,Female,9.49,"Cybersecurity, Java, Machine Learning",HCL,Data Scientist,2023-12-27,17.07,Unplaced
+S50963,2024,ECE,Male,5.84,"Data Science, Deep Learning",Facebook,Web Developer,2025-07-10,10.14,Placed
+S50964,2025,ECE,Female,7.56,"DevOps, Computer Vision, Cybersecurity, Data Science, Node.js",Infosys,Web Developer,2022-10-03,17.4,Placed
+S50965,2021,MECH,Female,5.23,"AI, Data Science",Apple,Cloud Engineer,2025-03-26,14.07,Unplaced
+S50966,2022,CSE,Female,5.25,"NLP, React, Machine Learning",HCL,AI Engineer,2023-12-19,19.18,Placed
+S50967,2021,ECE,Male,6.16,"Cybersecurity, Deep Learning, Computer Vision, Node.js, SQL",Accenture,Data Scientist,2024-10-27,40.67,Unplaced
+S50968,2023,IT,Male,8.08,"C++, Java, NLP, Machine Learning",Accenture,Data Scientist,2024-04-07,37.64,Unplaced
+S50969,2023,ECE,Male,9.84,"Deep Learning, React, Data Science, AI, SQL",Facebook,AI Engineer,2024-10-08,31.31,Placed
+S50970,2023,AIML,Female,8.31,"Machine Learning, NLP, Java, C++",Microsoft,AI Engineer,2024-08-30,43.55,Unplaced
+S50971,2022,ECE,Female,5.44,"Deep Learning, SQL, DevOps, AI",Amazon,Web Developer,2024-12-16,40.5,Placed
+S50972,2021,MECH,Female,9.25,"React, Machine Learning",Infosys,Cloud Engineer,2025-08-18,33.13,Unplaced
+S50973,2022,ECE,Male,7.62,"Data Science, Java, React, Cloud",Infosys,Data Scientist,2025-07-29,40.81,Unplaced
+S50974,2024,CSE,Female,6.01,"NLP, Cybersecurity",TCS,System Engineer,2024-05-02,42.62,Unplaced
+S50975,2022,AIML,Female,7.75,"Deep Learning, Data Science, C++, React",Facebook,Cloud Engineer,2024-07-20,9.43,Placed
+S50976,2021,MECH,Female,8.4,"Data Science, Java, C++",Amazon,Web Developer,2025-02-07,18.81,Unplaced
+S50977,2023,IT,Female,9.25,"Python, Computer Vision, NLP, Data Science",Microsoft,Web Developer,2025-08-02,14.57,Unplaced
+S50978,2022,CSE,Female,5.43,"Java, Cloud, Computer Vision, C++, Cybersecurity",Accenture,Web Developer,2025-01-03,19.05,Placed
+S50979,2025,IT,Male,5.22,"AI, SQL, Machine Learning, Deep Learning",HCL,Data Scientist,2025-06-28,11.38,Placed
+S50980,2025,MECH,Female,8.51,"Machine Learning, Java, Deep Learning",Google,Web Developer,2022-11-24,11.45,Placed
+S50981,2025,CSE,Female,5.72,"Computer Vision, Machine Learning, Cybersecurity, DevOps, Node.js",Google,Cloud Engineer,2024-12-02,37.01,Unplaced
+S50982,2022,AIML,Female,8.22,"Java, Python, Data Science, Cloud",Wipro,System Engineer,2023-04-06,8.11,Placed
+S50983,2024,ECE,Male,6.14,"DevOps, Cloud, React",Amazon,Cloud Engineer,2024-05-30,13.62,Unplaced
+S50984,2025,ECE,Male,6.13,"Node.js, C++, Cloud",Apple,AI Engineer,2024-03-07,17.28,Placed
+S50985,2025,CSE,Male,5.58,"React, Cybersecurity",Infosys,Cloud Engineer,2025-03-01,13.49,Unplaced
+S50986,2023,MECH,Male,7.91,"Machine Learning, AI",TCS,System Engineer,2022-09-22,17.03,Placed
+S50987,2024,EEE,Male,6.95,"Data Science, Java",Amazon,Software Engineer,2025-07-12,25.48,Unplaced
+S50988,2024,EEE,Female,6.51,"AI, Cloud, DevOps, Deep Learning, Computer Vision",Microsoft,Data Scientist,2024-11-10,38.97,Placed
+S50989,2023,CIVIL,Female,6.57,"NLP, Node.js",Infosys,Cloud Engineer,2023-07-09,21.87,Placed
+S50990,2023,ECE,Female,8.1,"Java, Computer Vision, AI, SQL",Amazon,Data Scientist,2023-11-06,15.55,Unplaced
+S50991,2024,AIML,Female,8.06,"SQL, Cybersecurity, AI, Data Science, Cloud",Wipro,AI Engineer,2023-11-09,3.02,Unplaced
+S50992,2021,CIVIL,Female,6.99,"DevOps, C++, Python, NLP",HCL,Web Developer,2022-12-20,22.03,Placed
+S50993,2021,EEE,Female,8.89,"Python, SQL, Machine Learning, Deep Learning, Cybersecurity",HCL,Web Developer,2022-10-03,6.18,Unplaced
+S50994,2023,ECE,Male,8.3,"Machine Learning, Node.js, Deep Learning, SQL, C++",Infosys,Web Developer,2023-01-04,40.6,Unplaced
+S50995,2024,EEE,Female,5.67,"Data Science, NLP, Java",HCL,Analyst,2024-02-25,40.08,Unplaced
+S50996,2025,IT,Female,9.42,"Cloud, React",Accenture,AI Engineer,2025-03-27,16.09,Placed
+S50997,2024,IT,Male,9.03,"C++, React, NLP, DevOps",Infosys,System Engineer,2025-02-08,15.31,Unplaced
+S50998,2025,ECE,Female,9.19,"Java, C++, React",Apple,AI Engineer,2024-05-24,15.47,Unplaced
+S50999,2021,EEE,Male,9.8,"Data Science, Node.js, C++, SQL",TCS,AI Engineer,2023-12-11,25.85,Placed
+S51000,2023,CIVIL,Female,9.6,"C++, Java, Python, Node.js",Accenture,Analyst,2022-09-13,34.14,Placed

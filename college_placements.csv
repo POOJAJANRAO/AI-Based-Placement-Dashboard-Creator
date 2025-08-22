@@ -1,0 +1,1001 @@
+StudentID,Year,Department,Gender,CGPA,Skills,Company,Role,OfferDate,CTC_LPA,Status
+S0001,2022,CSE,Other,6.38,"Machine Learning, Node.js, Java",,,,,Unplaced
+S0002,2022,CSE,Male,6.09,"NLP, Node.js",,,,,Unplaced
+S0003,2024,AI&DS,Male,8.79,"Flutter, Deep Learning, Machine Learning",,,,,Unplaced
+S0004,2022,CSE,Female,5.48,"Data Science, Django, Python, Node.js",,,,,Unplaced
+S0005,2022,MECH,Female,9.15,"NLP, Node.js, Java, Python",Adobe,AI Engineer,2024-03-22,31.6,Placed
+S0006,2023,AI&DS,Male,6.9,"Node.js, C++, Deep Learning, Flutter, SQL",Adobe,Web Developer,2024-02-28,28.97,Placed
+S0007,2023,MECH,Other,6.22,"Django, Machine Learning, React, Node.js, Data Science",Cognizant,Mobile Developer,2024-02-11,34.19,Placed
+S0008,2023,AI&DS,Male,9.03,"Data Science, Java, SQL, Cloud Computing, Node.js",,,,,Unplaced
+S0009,2025,IT,Female,5.7,"Flutter, Android, Cloud Computing, NLP",Microsoft,AI Engineer,2025-03-16,39.9,Placed
+S0010,2025,CSE,Male,9.31,"Deep Learning, Django, React",,,,,Unplaced
+S0011,2025,MECH,Female,9.86,"SQL, React",,,,,Unplaced
+S0012,2022,ECE,Female,5.79,"Data Science, AWS",,,,,Unplaced
+S0013,2023,IT,Female,8.81,"React, Computer Vision",,,,,Unplaced
+S0014,2023,CSE,Male,9.39,"C++, Node.js",Meta,Data Scientist,2024-10-18,39.19,Placed
+S0015,2023,CIVIL,Female,9.73,"Data Science, AWS, Flutter",Capgemini,Cloud Engineer,2023-10-28,38.68,Placed
+S0016,2024,EEE,Other,8.25,"Android, Java, SQL, Flutter, AWS",Microsoft,Software Engineer,2024-11-22,24.77,Placed
+S0017,2023,CSE,Male,8.54,"Computer Vision, Java",TCS,Mobile Developer,2024-07-14,5.62,Placed
+S0018,2024,CIVIL,Female,6.07,"AWS, SQL, Django",Meta,Cloud Engineer,2023-09-15,10.05,Placed
+S0019,2025,ECE,Female,7.06,"SQL, Python",Amazon,Mobile Developer,2023-09-14,32.62,Placed
+S0020,2023,IT,Male,7.68,"Flutter, C++, Machine Learning",Meta,AI Engineer,2023-11-02,35.36,Placed
+S0021,2025,AI&DS,Other,5.49,"C++, Android",,,,,Unplaced
+S0022,2023,AI&DS,Female,9.51,"Django, Python, NLP",,,,,Unplaced
+S0023,2023,IT,Female,6.09,"Java, Node.js",,,,,Unplaced
+S0024,2023,CSE,Other,5.4,"C++, Cloud Computing, Java",Adobe,AI Engineer,2024-12-01,17.94,Placed
+S0025,2022,MECH,Male,7.1,"Data Science, SQL, React, Node.js",Microsoft,AI Engineer,2023-09-11,12.83,Placed
+S0026,2024,EEE,Female,9.65,"Python, Computer Vision",Capgemini,Business Analyst,2024-10-30,39.86,Placed
+S0027,2023,MECH,Female,5.66,"C++, Android, SQL, Deep Learning",,,,,Unplaced
+S0028,2022,CIVIL,Other,6.5,"Machine Learning, AWS",Infosys,Data Scientist,2025-02-28,30.47,Placed
+S0029,2024,ECE,Other,6.05,"NLP, React, Android, Machine Learning",Accenture,System Analyst,2025-01-07,12.29,Placed
+S0030,2022,CIVIL,Female,9.15,"Python, Deep Learning",,,,,Unplaced
+S0031,2025,MECH,Male,5.56,"Java, Flutter, Deep Learning",Capgemini,Consultant,2024-10-18,8.48,Placed
+S0032,2022,ECE,Female,9.49,"Node.js, SQL",,,,,Unplaced
+S0033,2025,MECH,Other,5.77,"Deep Learning, Django, Android",,,,,Unplaced
+S0034,2025,AI&DS,Other,9.32,"Data Science, C++, Django",Oracle,Data Scientist,2024-08-04,17.15,Placed
+S0035,2025,IT,Male,9.08,"Node.js, Machine Learning, Flutter, Django, SQL",,,,,Unplaced
+S0036,2024,ECE,Male,9.83,"Node.js, React, Data Science, NLP",Adobe,Consultant,2024-03-25,15.25,Placed
+S0037,2022,ECE,Male,7.9,"Java, AWS, Cloud Computing, NLP",Microsoft,Mobile Developer,2025-05-11,19.15,Placed
+S0038,2025,MECH,Male,6.27,"Python, Data Science, Django, Android, React",Oracle,AI Engineer,2025-06-27,16.48,Placed
+S0039,2024,MECH,Female,8.32,"Cloud Computing, Data Science",,,,,Unplaced
+S0040,2023,IT,Female,8.32,"Deep Learning, Cloud Computing, Android, Machine Learning, NLP",Accenture,Software Engineer,2025-04-02,14.24,Placed
+S0041,2025,AI&DS,Other,8.03,"Android, Computer Vision, AWS, React",Cognizant,Consultant,2025-05-08,20.51,Placed
+S0042,2022,ECE,Other,8.32,"C++, Flutter, Django, SQL",Adobe,Web Developer,2023-12-24,11.31,Placed
+S0043,2023,CSE,Male,6.22,"C++, Computer Vision, NLP, React, Cloud Computing",Cognizant,Cloud Engineer,2025-02-14,21.29,Placed
+S0044,2023,CIVIL,Other,5.03,"Flutter, SQL",Wipro,Consultant,2024-07-15,20.19,Placed
+S0045,2022,EEE,Male,9.01,"Android, Cloud Computing, Flutter, Node.js",,,,,Unplaced
+S0046,2023,CIVIL,Female,7.25,"Data Science, Django, Android",,,,,Unplaced
+S0047,2025,CSE,Other,6.43,"React, Deep Learning, Data Science, Java",Wipro,ML Engineer,2023-12-20,11.56,Placed
+S0048,2023,CSE,Female,7.04,"Flutter, Python, SQL, NLP, Django",,,,,Unplaced
+S0049,2025,CSE,Female,6.49,"Flutter, Data Science, Node.js, AWS, Android",,,,,Unplaced
+S0050,2025,EEE,Male,6.94,"Deep Learning, Flutter, Computer Vision, C++, Cloud Computing",Accenture,Software Engineer,2024-05-09,36.56,Placed
+S0051,2022,CIVIL,Female,5.68,"Deep Learning, Python, Machine Learning, NLP, AWS",,,,,Unplaced
+S0052,2024,AI&DS,Female,6.26,"AWS, Python",,,,,Unplaced
+S0053,2023,CIVIL,Male,8.91,"Python, SQL",Cognizant,Software Engineer,2024-06-12,25.99,Placed
+S0054,2023,EEE,Other,5.57,"Android, Node.js, Machine Learning",Microsoft,ML Engineer,2023-11-05,25.42,Placed
+S0055,2023,ECE,Male,7.89,"Django, NLP, Node.js, SQL",Infosys,Business Analyst,2024-05-26,28.55,Placed
+S0056,2022,CIVIL,Female,9.25,"Java, Deep Learning",Accenture,Cloud Engineer,2025-06-10,27.48,Placed
+S0057,2024,CSE,Female,9.11,"Flutter, Deep Learning",,,,,Unplaced
+S0058,2023,CIVIL,Other,9.83,"AWS, Computer Vision, NLP, Node.js",Capgemini,Web Developer,2024-12-02,14.93,Placed
+S0059,2022,ECE,Female,6.22,"Django, Deep Learning, Python, Computer Vision, Android",,,,,Unplaced
+S0060,2024,ECE,Other,8.51,"Python, Data Science, SQL, Java",Cognizant,Cloud Engineer,2025-05-09,21.08,Placed
+S0061,2025,CIVIL,Other,7.45,"C++, Machine Learning",,,,,Unplaced
+S0062,2024,EEE,Other,7.65,"React, Deep Learning, Node.js, Computer Vision, Machine Learning",Google,Web Developer,2025-03-10,11.53,Placed
+S0063,2024,CSE,Other,7.68,"NLP, SQL, Node.js",,,,,Unplaced
+S0064,2022,AI&DS,Male,6.48,"Deep Learning, Machine Learning, Python, Node.js",Accenture,ML Engineer,2024-10-11,13.15,Placed
+S0065,2024,CIVIL,Male,8.19,"SQL, Flutter, Python, Cloud Computing, Machine Learning",Meta,System Analyst,2023-11-26,19.3,Placed
+S0066,2022,ECE,Female,5.57,"Django, Computer Vision",Infosys,Business Analyst,2025-08-07,26.29,Placed
+S0067,2023,IT,Other,9.75,"Computer Vision, Java",Accenture,Cloud Engineer,2024-06-11,25.43,Placed
+S0068,2025,EEE,Female,6.49,"Cloud Computing, AWS, Android, Python, Flutter",Oracle,Data Scientist,2023-10-22,38.06,Placed
+S0069,2023,ECE,Other,5.41,"Deep Learning, Data Science, Java",,,,,Unplaced
+S0070,2024,CSE,Male,6.44,"Android, Java, React, SQL",Google,Business Analyst,2024-04-05,27.46,Placed
+S0071,2025,CSE,Other,6.12,"Data Science, Flutter, C++",,,,,Unplaced
+S0072,2024,EEE,Male,7.34,"Django, Machine Learning, Data Science, Flutter",Meta,System Analyst,2024-12-22,5.98,Placed
+S0073,2025,CIVIL,Female,8.02,"C++, SQL",Adobe,Business Analyst,2024-12-14,24.72,Placed
+S0074,2024,MECH,Male,8.82,"AWS, Data Science, React",,,,,Unplaced
+S0075,2025,CSE,Female,6.74,"React, AWS, Java, C++",,,,,Unplaced
+S0076,2025,AI&DS,Other,5.18,"React, Machine Learning",,,,,Unplaced
+S0077,2022,CIVIL,Other,7.31,"NLP, Data Science",,,,,Unplaced
+S0078,2022,IT,Female,7.75,"Android, AWS, Node.js, Computer Vision",Infosys,Software Engineer,2024-01-18,39.01,Placed
+S0079,2023,ECE,Other,5.07,"C++, SQL, Flutter, Java, Computer Vision",,,,,Unplaced
+S0080,2024,EEE,Female,9.9,"Android, Data Science, C++",Amazon,AI Engineer,2023-10-15,37.11,Placed
+S0081,2022,ECE,Female,6.7,"Python, Machine Learning, Node.js, Android",,,,,Unplaced
+S0082,2023,EEE,Other,7.42,"Django, Computer Vision, Deep Learning, SQL",Oracle,AI Engineer,2025-01-16,24.16,Placed
+S0083,2025,CSE,Female,8.72,"Django, React, AWS, Android, C++",,,,,Unplaced
+S0084,2022,AI&DS,Female,5.5,"Python, Node.js, C++, NLP, React",,,,,Unplaced
+S0085,2024,MECH,Other,6.99,"React, Flutter",,,,,Unplaced
+S0086,2025,AI&DS,Other,5.18,"Computer Vision, React",Adobe,Web Developer,2023-10-22,39.9,Placed
+S0087,2025,CSE,Other,8.52,"Android, C++",Oracle,Web Developer,2025-06-16,36.43,Placed
+S0088,2024,AI&DS,Male,6.47,"Flutter, C++, SQL, Data Science",Amazon,Business Analyst,2024-02-18,28.23,Placed
+S0089,2023,IT,Male,8.05,"Computer Vision, AWS, Cloud Computing, C++, SQL",Meta,Web Developer,2025-06-25,20.0,Placed
+S0090,2025,ECE,Other,7.73,"Android, Deep Learning",,,,,Unplaced
+S0091,2024,EEE,Female,6.0,"AWS, Java, SQL, NLP, Cloud Computing",,,,,Unplaced
+S0092,2022,AI&DS,Other,6.98,"Java, Android",,,,,Unplaced
+S0093,2023,MECH,Female,6.1,"Data Science, React, Django",Oracle,ML Engineer,2024-08-08,26.25,Placed
+S0094,2024,AI&DS,Female,5.17,"Machine Learning, Java, AWS, Deep Learning",Oracle,Cloud Engineer,2024-12-27,9.5,Placed
+S0095,2024,MECH,Other,9.57,"Data Science, Android, Flutter",,,,,Unplaced
+S0096,2022,EEE,Male,5.7,"Django, Flutter, AWS",,,,,Unplaced
+S0097,2022,ECE,Other,5.62,"Data Science, Cloud Computing, NLP, React",,,,,Unplaced
+S0098,2022,MECH,Other,6.64,"C++, React, Flutter",Meta,Web Developer,2024-06-04,27.02,Placed
+S0099,2023,CSE,Male,6.52,"SQL, Java, AWS, Data Science, C++",,,,,Unplaced
+S0100,2023,EEE,Other,5.5,"Flutter, Machine Learning, Python, Node.js, Deep Learning",Cognizant,System Analyst,2024-01-31,19.45,Placed
+S0101,2024,CSE,Other,6.84,"Java, NLP, Machine Learning, SQL",Infosys,System Analyst,2025-01-23,6.39,Placed
+S0102,2022,CSE,Female,6.22,"NLP, Java, Flutter",Accenture,AI Engineer,2024-03-16,24.7,Placed
+S0103,2024,AI&DS,Male,8.94,"Data Science, Flutter",Wipro,ML Engineer,2025-02-17,22.99,Placed
+S0104,2022,CIVIL,Male,5.66,"Computer Vision, Cloud Computing, Deep Learning, Python",,,,,Unplaced
+S0105,2022,CIVIL,Male,7.38,"SQL, Computer Vision, Data Science, AWS",,,,,Unplaced
+S0106,2025,CIVIL,Male,5.3,"Django, NLP, React, Java, Computer Vision",Oracle,System Analyst,2025-01-06,5.72,Placed
+S0107,2024,MECH,Male,5.33,"React, NLP, Cloud Computing, Data Science",,,,,Unplaced
+S0108,2022,AI&DS,Other,5.57,"Flutter, Computer Vision, SQL",,,,,Unplaced
+S0109,2025,CIVIL,Male,6.56,"Data Science, Deep Learning, C++, React",Meta,Data Scientist,2024-12-27,6.38,Placed
+S0110,2022,EEE,Male,8.72,"Machine Learning, Data Science, Python, Cloud Computing",Accenture,Consultant,2024-01-01,15.2,Placed
+S0111,2025,ECE,Other,9.71,"Java, Machine Learning, Cloud Computing, Android, Deep Learning",Infosys,Business Analyst,2024-10-09,21.77,Placed
+S0112,2025,IT,Male,6.75,"SQL, Django, Machine Learning, Cloud Computing",Cognizant,Cloud Engineer,2025-03-10,34.27,Placed
+S0113,2024,CSE,Male,6.37,"React, Deep Learning, Python, C++",Wipro,Business Analyst,2024-02-28,27.32,Placed
+S0114,2023,CIVIL,Other,9.86,"NLP, AWS",,,,,Unplaced
+S0115,2024,CIVIL,Female,8.88,"Java, C++",Wipro,Business Analyst,2024-08-15,4.84,Placed
+S0116,2024,EEE,Other,7.12,"Flutter, Machine Learning, SQL, Django, Data Science",,,,,Unplaced
+S0117,2025,MECH,Other,6.54,"Django, Cloud Computing, Python",TCS,AI Engineer,2024-03-18,14.15,Placed
+S0118,2023,AI&DS,Female,6.45,"Python, Computer Vision",,,,,Unplaced
+S0119,2023,MECH,Other,9.17,"C++, NLP, Flutter, Node.js",TCS,Cloud Engineer,2024-12-31,3.69,Placed
+S0120,2024,MECH,Female,7.87,"Cloud Computing, Java, NLP, Python, Deep Learning",,,,,Unplaced
+S0121,2022,EEE,Male,6.22,"C++, NLP, Flutter, Machine Learning, Node.js",Microsoft,AI Engineer,2024-10-27,15.32,Placed
+S0122,2022,MECH,Other,5.57,"Node.js, Deep Learning, AWS",Adobe,ML Engineer,2024-02-08,11.74,Placed
+S0123,2024,IT,Male,8.01,"Deep Learning, Django",,,,,Unplaced
+S0124,2024,AI&DS,Other,6.58,"C++, Computer Vision, Android, React, Machine Learning",Google,Business Analyst,2024-04-29,5.08,Placed
+S0125,2024,EEE,Female,5.19,"Cloud Computing, Java, React, Android",,,,,Unplaced
+S0126,2022,EEE,Other,8.26,"AWS, Data Science, C++, Python",,,,,Unplaced
+S0127,2022,MECH,Other,5.86,"Android, Computer Vision, Data Science",,,,,Unplaced
+S0128,2024,EEE,Female,8.87,"React, Java",,,,,Unplaced
+S0129,2024,ECE,Other,9.26,"React, Java, Cloud Computing",,,,,Unplaced
+S0130,2025,IT,Other,8.54,"Cloud Computing, Data Science",Amazon,Mobile Developer,2025-05-21,33.09,Placed
+S0131,2025,MECH,Female,5.09,"Deep Learning, SQL, AWS, Django",Meta,AI Engineer,2023-09-15,11.38,Placed
+S0132,2023,CSE,Female,9.22,"Java, React",,,,,Unplaced
+S0133,2023,IT,Male,9.16,"Android, Python, NLP",,,,,Unplaced
+S0134,2025,IT,Other,6.2,"NLP, Deep Learning, React, Cloud Computing, Computer Vision",,,,,Unplaced
+S0135,2023,AI&DS,Male,9.01,"Data Science, Python, React",Meta,Mobile Developer,2024-03-16,23.52,Placed
+S0136,2022,ECE,Male,8.82,"Android, AWS, Data Science, C++",Amazon,Data Scientist,2023-10-12,38.02,Placed
+S0137,2025,ECE,Male,7.07,"Node.js, SQL, NLP, Java, Deep Learning",Cognizant,Software Engineer,2024-02-01,14.79,Placed
+S0138,2024,AI&DS,Male,5.69,"AWS, Node.js, Flutter, C++",Oracle,System Analyst,2025-07-31,19.6,Placed
+S0139,2022,CSE,Female,6.08,"Flutter, Java, Django",Google,AI Engineer,2024-11-04,14.14,Placed
+S0140,2023,EEE,Other,8.97,"C++, Java, Flutter, Computer Vision, Cloud Computing",Accenture,Software Engineer,2025-07-02,26.38,Placed
+S0141,2023,ECE,Female,5.01,"Computer Vision, Cloud Computing, NLP, C++",,,,,Unplaced
+S0142,2022,MECH,Other,7.54,"Django, Flutter",,,,,Unplaced
+S0143,2024,CIVIL,Male,6.79,"Node.js, SQL",,,,,Unplaced
+S0144,2023,CSE,Female,7.73,"Android, Node.js, Computer Vision",Adobe,ML Engineer,2025-01-12,33.03,Placed
+S0145,2025,CSE,Female,6.01,"Java, Deep Learning, Machine Learning",,,,,Unplaced
+S0146,2024,CSE,Other,5.96,"Java, Flutter, React, Deep Learning",,,,,Unplaced
+S0147,2025,CIVIL,Female,9.47,"React, C++, Computer Vision, Node.js, Flutter",Microsoft,Consultant,2025-07-09,12.87,Placed
+S0148,2025,CSE,Female,8.01,"Cloud Computing, Deep Learning, Java",,,,,Unplaced
+S0149,2025,MECH,Other,7.13,"Node.js, Computer Vision, Python, AWS, Deep Learning",Capgemini,Cloud Engineer,2025-01-02,13.16,Placed
+S0150,2022,CIVIL,Other,7.03,"Python, C++, Flutter",Capgemini,System Analyst,2024-08-12,4.29,Placed
+S0151,2023,AI&DS,Other,6.83,"Java, Cloud Computing, C++, React, Computer Vision",Microsoft,Mobile Developer,2023-12-10,19.43,Placed
+S0152,2023,MECH,Female,6.99,"Computer Vision, Java, Python, Node.js",Wipro,System Analyst,2024-03-14,22.16,Placed
+S0153,2024,AI&DS,Female,8.52,"Cloud Computing, Node.js, Computer Vision",Cognizant,Data Scientist,2023-12-08,8.02,Placed
+S0154,2025,IT,Other,7.23,"React, AWS",,,,,Unplaced
+S0155,2024,AI&DS,Male,8.56,"Node.js, Data Science, SQL",Infosys,AI Engineer,2025-03-22,32.31,Placed
+S0156,2025,CSE,Female,7.77,"Android, Django, Data Science, C++",,,,,Unplaced
+S0157,2025,MECH,Female,8.85,"Machine Learning, Deep Learning",,,,,Unplaced
+S0158,2023,AI&DS,Other,8.2,"Machine Learning, NLP, Data Science",,,,,Unplaced
+S0159,2023,IT,Female,9.67,"Node.js, Data Science, Machine Learning",,,,,Unplaced
+S0160,2023,CIVIL,Female,8.07,"Deep Learning, Cloud Computing",,,,,Unplaced
+S0161,2022,AI&DS,Male,5.41,"NLP, Django, Cloud Computing, AWS",,,,,Unplaced
+S0162,2024,EEE,Male,9.02,"Cloud Computing, Computer Vision, Java, Node.js, Python",,,,,Unplaced
+S0163,2023,ECE,Other,5.72,"Node.js, NLP, C++, Django",,,,,Unplaced
+S0164,2023,EEE,Male,6.34,"Machine Learning, Java, Python",,,,,Unplaced
+S0165,2023,AI&DS,Male,9.07,"NLP, Django, C++, Computer Vision",,,,,Unplaced
+S0166,2025,CSE,Male,9.73,"Computer Vision, SQL, Cloud Computing, Deep Learning, Python",,,,,Unplaced
+S0167,2024,MECH,Male,9.24,"Machine Learning, Android, AWS, Node.js, Deep Learning",Amazon,Mobile Developer,2023-12-07,4.67,Placed
+S0168,2023,ECE,Other,6.44,"Android, Django, Data Science, Machine Learning, Cloud Computing",Adobe,Business Analyst,2024-09-20,7.4,Placed
+S0169,2025,ECE,Female,7.79,"Machine Learning, SQL, Cloud Computing, Data Science",Amazon,Consultant,2024-09-08,4.49,Placed
+S0170,2023,CIVIL,Female,9.02,"Machine Learning, Cloud Computing, Data Science, C++, Deep Learning",,,,,Unplaced
+S0171,2024,MECH,Other,7.66,"AWS, Flutter, Python, Deep Learning",,,,,Unplaced
+S0172,2022,MECH,Female,6.33,"Java, Cloud Computing, Computer Vision",,,,,Unplaced
+S0173,2023,AI&DS,Other,6.21,"NLP, Python",,,,,Unplaced
+S0174,2023,EEE,Other,8.87,"Java, Node.js, C++, Data Science, SQL",,,,,Unplaced
+S0175,2025,ECE,Male,7.3,"Node.js, React, Django, AWS",Adobe,Web Developer,2023-12-18,25.57,Placed
+S0176,2023,ECE,Other,6.49,"Cloud Computing, Node.js, SQL, Android",,,,,Unplaced
+S0177,2024,ECE,Male,7.87,"Django, Flutter, Deep Learning, AWS, C++",Google,Software Engineer,2023-12-24,13.64,Placed
+S0178,2024,EEE,Other,6.28,"NLP, SQL, Flutter, Data Science, Machine Learning",Accenture,Web Developer,2025-04-28,8.08,Placed
+S0179,2023,CSE,Other,9.53,"Computer Vision, Python, Java",Amazon,Mobile Developer,2025-01-31,29.54,Placed
+S0180,2023,CSE,Other,9.89,"Flutter, React, Computer Vision",,,,,Unplaced
+S0181,2024,ECE,Other,5.3,"Computer Vision, Data Science",Oracle,Software Engineer,2024-11-27,36.79,Placed
+S0182,2025,AI&DS,Male,9.67,"Django, AWS",,,,,Unplaced
+S0183,2022,CSE,Female,7.84,"React, Machine Learning",Meta,Consultant,2024-06-15,22.4,Placed
+S0184,2025,ECE,Male,9.04,"Deep Learning, Node.js, Computer Vision, React",,,,,Unplaced
+S0185,2024,MECH,Other,8.79,"Django, Flutter, NLP",Accenture,Mobile Developer,2024-11-26,6.21,Placed
+S0186,2023,IT,Female,6.62,"Python, Machine Learning, NLP",,,,,Unplaced
+S0187,2024,MECH,Other,7.86,"Node.js, AWS, SQL, Python",Adobe,Data Scientist,2024-10-05,20.22,Placed
+S0188,2025,CIVIL,Other,9.62,"SQL, React, Machine Learning, Deep Learning",Capgemini,AI Engineer,2024-03-04,11.11,Placed
+S0189,2025,IT,Female,8.74,"Flutter, Node.js, Data Science, Computer Vision",Accenture,AI Engineer,2024-10-24,31.19,Placed
+S0190,2025,MECH,Other,6.81,"Java, Flutter",Accenture,Consultant,2025-06-20,10.48,Placed
+S0191,2023,ECE,Other,7.21,"AWS, Java, Data Science",,,,,Unplaced
+S0192,2025,MECH,Male,7.79,"Python, NLP, Machine Learning, AWS",Oracle,AI Engineer,2025-01-31,24.4,Placed
+S0193,2025,ECE,Other,5.32,"C++, Android",Meta,Software Engineer,2025-03-03,13.62,Placed
+S0194,2023,AI&DS,Other,9.89,"Node.js, Android, NLP, Computer Vision, Flutter",Amazon,Data Scientist,2023-11-18,28.26,Placed
+S0195,2024,CSE,Male,9.96,"Machine Learning, Node.js, SQL, Python, Django",,,,,Unplaced
+S0196,2025,AI&DS,Male,6.24,"Machine Learning, AWS, SQL, Node.js",,,,,Unplaced
+S0197,2022,IT,Male,5.34,"Android, Cloud Computing",Adobe,Software Engineer,2024-10-12,12.06,Placed
+S0198,2025,EEE,Male,7.7,"Machine Learning, Data Science",,,,,Unplaced
+S0199,2024,IT,Female,9.38,"Flutter, Machine Learning, Android",TCS,Consultant,2024-03-16,38.1,Placed
+S0200,2025,MECH,Female,5.23,"Django, AWS, Data Science, Deep Learning",,,,,Unplaced
+S0201,2025,IT,Other,7.37,"Cloud Computing, Flutter, Node.js",,,,,Unplaced
+S0202,2025,MECH,Other,5.67,"Data Science, SQL, Deep Learning",,,,,Unplaced
+S0203,2022,MECH,Other,9.15,"Data Science, NLP",Adobe,Business Analyst,2023-11-16,25.31,Placed
+S0204,2023,AI&DS,Other,8.62,"AWS, SQL, Flutter",Microsoft,Web Developer,2024-04-05,38.41,Placed
+S0205,2023,IT,Other,5.59,"Computer Vision, Node.js, Cloud Computing, Android, SQL",,,,,Unplaced
+S0206,2025,EEE,Other,8.24,"Data Science, Deep Learning, AWS, Computer Vision",,,,,Unplaced
+S0207,2024,IT,Female,6.56,"Computer Vision, Node.js",,,,,Unplaced
+S0208,2024,IT,Male,6.65,"Computer Vision, AWS, Data Science, React, Django",,,,,Unplaced
+S0209,2025,EEE,Male,8.66,"Deep Learning, C++, Node.js, Data Science",Meta,ML Engineer,2025-03-04,36.93,Placed
+S0210,2022,AI&DS,Male,9.73,"Python, NLP",Wipro,AI Engineer,2025-07-02,5.51,Placed
+S0211,2022,IT,Other,7.28,"AWS, React",,,,,Unplaced
+S0212,2022,CSE,Other,8.61,"Python, Data Science, Flutter, Node.js",Adobe,Cloud Engineer,2024-03-13,32.83,Placed
+S0213,2022,CSE,Other,5.74,"Data Science, Flutter, Deep Learning",,,,,Unplaced
+S0214,2025,MECH,Male,9.95,"Cloud Computing, React, Flutter",,,,,Unplaced
+S0215,2025,MECH,Female,5.28,"Deep Learning, Java",,,,,Unplaced
+S0216,2022,MECH,Male,6.15,"Data Science, Python, Java, React, Machine Learning",Accenture,Business Analyst,2024-09-19,27.35,Placed
+S0217,2024,CSE,Male,7.94,"C++, Machine Learning, AWS, Cloud Computing, SQL",,,,,Unplaced
+S0218,2025,AI&DS,Other,5.7,"Node.js, Python",Infosys,Cloud Engineer,2023-11-12,11.59,Placed
+S0219,2024,MECH,Other,9.77,"React, Python, AWS, Machine Learning, Computer Vision",,,,,Unplaced
+S0220,2025,IT,Other,7.93,"C++, Django, Cloud Computing, Machine Learning, SQL",Oracle,Data Scientist,2024-12-19,6.04,Placed
+S0221,2025,CIVIL,Other,5.77,"React, Deep Learning, Java, Flutter, Python",,,,,Unplaced
+S0222,2022,IT,Male,5.94,"Flutter, Java, Python, Android, Deep Learning",,,,,Unplaced
+S0223,2025,CSE,Female,7.07,"Computer Vision, Cloud Computing",Accenture,ML Engineer,2024-12-30,28.36,Placed
+S0224,2023,ECE,Female,6.34,"C++, AWS, NLP",Google,Cloud Engineer,2024-09-19,14.09,Placed
+S0225,2024,ECE,Male,8.6,"NLP, Computer Vision, Java, C++, Machine Learning",,,,,Unplaced
+S0226,2024,EEE,Female,7.15,"Cloud Computing, Deep Learning, AWS",Oracle,AI Engineer,2024-01-23,20.72,Placed
+S0227,2025,ECE,Female,8.67,"Computer Vision, Deep Learning, NLP, Machine Learning, Flutter",Microsoft,Data Scientist,2023-12-18,37.49,Placed
+S0228,2023,CIVIL,Other,5.13,"NLP, Computer Vision, Django, Machine Learning, Node.js",Infosys,Cloud Engineer,2024-06-07,27.9,Placed
+S0229,2024,IT,Female,8.29,"Django, Java, Computer Vision, Cloud Computing, Flutter",,,,,Unplaced
+S0230,2022,AI&DS,Female,8.51,"SQL, Django",Cognizant,Mobile Developer,2023-12-25,9.15,Placed
+S0231,2025,AI&DS,Female,9.83,"SQL, Python, Java, Machine Learning, AWS",Accenture,Consultant,2024-10-13,23.65,Placed
+S0232,2025,ECE,Female,7.32,"Node.js, Python, Computer Vision",Infosys,Web Developer,2025-04-17,18.39,Placed
+S0233,2022,AI&DS,Other,5.71,"React, Computer Vision, Django, SQL",Accenture,System Analyst,2025-08-07,15.89,Placed
+S0234,2025,CIVIL,Other,7.26,"Cloud Computing, Python",,,,,Unplaced
+S0235,2022,CIVIL,Male,9.65,"Deep Learning, Data Science, C++",,,,,Unplaced
+S0236,2023,AI&DS,Female,8.15,"Flutter, NLP, Python",,,,,Unplaced
+S0237,2025,EEE,Male,8.52,"Data Science, Django, Node.js",Infosys,Business Analyst,2024-11-29,6.76,Placed
+S0238,2024,ECE,Male,7.29,"AWS, Data Science, React, Deep Learning",Capgemini,Cloud Engineer,2024-04-29,25.62,Placed
+S0239,2024,ECE,Female,8.09,"C++, React, AWS, Deep Learning",Infosys,AI Engineer,2024-09-04,14.3,Placed
+S0240,2024,CIVIL,Male,7.55,"Machine Learning, Cloud Computing, NLP, Flutter, C++",Meta,Consultant,2023-09-06,28.66,Placed
+S0241,2023,EEE,Female,5.7,"Android, Cloud Computing, Python, Deep Learning",,,,,Unplaced
+S0242,2025,EEE,Other,7.46,"AWS, C++, Java, Cloud Computing, Python",Cognizant,Web Developer,2025-08-12,4.21,Placed
+S0243,2024,IT,Female,7.83,"SQL, Cloud Computing, Java, Machine Learning, Data Science",Microsoft,Consultant,2024-05-29,33.44,Placed
+S0244,2025,MECH,Male,9.95,"Computer Vision, Machine Learning",TCS,System Analyst,2025-07-04,12.72,Placed
+S0245,2025,AI&DS,Male,8.88,"NLP, Django, Node.js",,,,,Unplaced
+S0246,2023,MECH,Male,8.92,"Java, Cloud Computing, Deep Learning",Accenture,Web Developer,2025-05-09,25.08,Placed
+S0247,2024,CIVIL,Female,6.45,"SQL, C++, Django, Flutter",Amazon,Software Engineer,2024-04-16,39.72,Placed
+S0248,2023,IT,Male,8.56,"Django, Computer Vision, C++",,,,,Unplaced
+S0249,2025,CSE,Other,8.97,"Django, Data Science",,,,,Unplaced
+S0250,2025,EEE,Female,7.91,"Android, React",,,,,Unplaced
+S0251,2023,EEE,Male,7.47,"Cloud Computing, Deep Learning, Data Science, AWS",,,,,Unplaced
+S0252,2022,CSE,Male,8.13,"Python, Java, Flutter, C++, Computer Vision",,,,,Unplaced
+S0253,2023,CIVIL,Male,9.41,"Deep Learning, Flutter, Machine Learning, Java",,,,,Unplaced
+S0254,2023,CSE,Female,8.13,"Flutter, React, Java",,,,,Unplaced
+S0255,2022,IT,Other,6.13,"Python, AWS, Node.js, Deep Learning, Java",Amazon,ML Engineer,2025-03-12,20.67,Placed
+S0256,2025,CSE,Other,9.03,"React, Deep Learning",Google,ML Engineer,2024-09-02,17.16,Placed
+S0257,2023,CSE,Other,7.82,"Android, Deep Learning, Node.js",,,,,Unplaced
+S0258,2023,CSE,Male,5.7,"Django, Deep Learning",Amazon,Mobile Developer,2023-10-14,32.27,Placed
+S0259,2024,CIVIL,Male,6.24,"Python, Flutter, Android, React",Google,AI Engineer,2025-04-03,22.16,Placed
+S0260,2025,ECE,Other,5.27,"AWS, NLP, Java",Cognizant,System Analyst,2024-10-08,26.61,Placed
+S0261,2022,ECE,Female,5.66,"Node.js, Data Science, React, C++, Computer Vision",Infosys,Software Engineer,2025-04-07,24.73,Placed
+S0262,2024,IT,Male,9.61,"Cloud Computing, React, Node.js, Data Science, NLP",Amazon,Cloud Engineer,2023-11-27,6.05,Placed
+S0263,2024,CSE,Female,5.4,"Machine Learning, Data Science, Deep Learning",Amazon,Business Analyst,2023-11-29,26.47,Placed
+S0264,2024,CIVIL,Female,8.65,"Java, SQL, AWS",Amazon,Data Scientist,2025-01-15,19.77,Placed
+S0265,2024,CIVIL,Other,8.29,"SQL, Python, Node.js",,,,,Unplaced
+S0266,2024,IT,Female,5.63,"SQL, Django, Python, Deep Learning",,,,,Unplaced
+S0267,2022,EEE,Female,7.55,"AWS, Flutter",,,,,Unplaced
+S0268,2022,MECH,Other,8.61,"Python, AWS, Flutter",,,,,Unplaced
+S0269,2025,IT,Male,9.66,"Flutter, SQL",,,,,Unplaced
+S0270,2024,AI&DS,Male,7.86,"Java, C++",,,,,Unplaced
+S0271,2022,EEE,Female,8.87,"React, Java, Data Science, Computer Vision",,,,,Unplaced
+S0272,2023,EEE,Female,7.96,"NLP, Node.js, Data Science, Django, SQL",Wipro,Software Engineer,2024-07-15,37.5,Placed
+S0273,2023,MECH,Female,8.18,"React, Python",,,,,Unplaced
+S0274,2022,IT,Other,9.92,"AWS, Python, C++, Node.js, Machine Learning",,,,,Unplaced
+S0275,2024,EEE,Other,5.42,"Machine Learning, React",Amazon,Data Scientist,2024-10-13,24.9,Placed
+S0276,2025,CIVIL,Male,6.18,"React, Android, Django, NLP",,,,,Unplaced
+S0277,2023,CSE,Male,5.68,"Machine Learning, Java",,,,,Unplaced
+S0278,2022,MECH,Female,9.82,"Android, Machine Learning, Computer Vision",,,,,Unplaced
+S0279,2022,IT,Female,5.74,"Node.js, NLP, Data Science",TCS,Web Developer,2024-01-25,12.63,Placed
+S0280,2022,EEE,Female,7.78,"SQL, Computer Vision, Java",Wipro,Data Scientist,2025-02-25,3.44,Placed
+S0281,2023,IT,Female,6.86,"Data Science, Android",Infosys,Software Engineer,2024-04-20,39.89,Placed
+S0282,2025,AI&DS,Male,5.46,"SQL, Python, Computer Vision, Android",,,,,Unplaced
+S0283,2025,CSE,Female,8.42,"Node.js, SQL, C++",Google,Web Developer,2025-01-24,19.5,Placed
+S0284,2022,MECH,Other,8.08,"AWS, NLP, Data Science, Computer Vision",TCS,Data Scientist,2025-01-07,13.35,Placed
+S0285,2025,IT,Other,9.42,"Python, NLP, Django",,,,,Unplaced
+S0286,2024,MECH,Other,6.61,"Deep Learning, Python, AWS, Cloud Computing",,,,,Unplaced
+S0287,2022,AI&DS,Female,7.65,"Deep Learning, Java, SQL",Adobe,AI Engineer,2025-07-20,12.86,Placed
+S0288,2023,MECH,Female,6.77,"Deep Learning, SQL, Cloud Computing",Microsoft,Mobile Developer,2024-09-27,36.82,Placed
+S0289,2024,MECH,Other,5.71,"AWS, Data Science, Machine Learning",Wipro,System Analyst,2024-08-06,4.4,Placed
+S0290,2023,MECH,Male,5.1,"Python, Deep Learning, Cloud Computing, SQL, C++",,,,,Unplaced
+S0291,2022,CSE,Male,7.93,"SQL, Flutter, Data Science",,,,,Unplaced
+S0292,2022,ECE,Female,6.61,"Flutter, Django, React",,,,,Unplaced
+S0293,2023,CIVIL,Other,9.07,"Cloud Computing, Node.js, Android, Machine Learning, C++",,,,,Unplaced
+S0294,2022,IT,Other,6.59,"SQL, Android, Computer Vision",Wipro,Mobile Developer,2024-05-10,30.58,Placed
+S0295,2024,ECE,Male,8.18,"React, Computer Vision",TCS,Web Developer,2023-09-07,10.76,Placed
+S0296,2024,ECE,Male,8.6,"Django, Computer Vision",,,,,Unplaced
+S0297,2025,EEE,Female,7.73,"AWS, Django",Capgemini,AI Engineer,2024-10-25,9.02,Placed
+S0298,2022,ECE,Male,6.59,"C++, Deep Learning",Wipro,Cloud Engineer,2024-02-16,8.95,Placed
+S0299,2022,ECE,Other,9.93,"Python, NLP, React, C++, Cloud Computing",,,,,Unplaced
+S0300,2023,IT,Female,8.49,"Cloud Computing, Machine Learning, SQL, Java",,,,,Unplaced
+S0301,2023,CSE,Female,5.02,"Cloud Computing, Flutter",Adobe,Business Analyst,2023-08-27,20.77,Placed
+S0302,2022,IT,Male,8.19,"AWS, Flutter",,,,,Unplaced
+S0303,2025,CIVIL,Female,5.46,"Deep Learning, AWS, NLP, Android, C++",,,,,Unplaced
+S0304,2024,IT,Female,7.82,"SQL, Java, React",Microsoft,Consultant,2024-12-24,18.32,Placed
+S0305,2022,AI&DS,Female,9.09,"AWS, Cloud Computing, SQL, Computer Vision, Machine Learning",Infosys,Cloud Engineer,2023-10-06,36.4,Placed
+S0306,2023,CSE,Female,5.86,"NLP, Django, SQL",,,,,Unplaced
+S0307,2023,AI&DS,Other,5.74,"React, Android, Node.js, Django",,,,,Unplaced
+S0308,2024,AI&DS,Female,7.6,"Flutter, Java",Amazon,ML Engineer,2025-07-25,8.48,Placed
+S0309,2022,MECH,Male,8.93,"Flutter, Machine Learning, NLP, React",Meta,Business Analyst,2023-09-15,25.53,Placed
+S0310,2023,ECE,Female,5.72,"Java, NLP, Deep Learning, Node.js, SQL",,,,,Unplaced
+S0311,2022,ECE,Female,6.55,"SQL, Flutter, AWS, C++, Machine Learning",,,,,Unplaced
+S0312,2024,CIVIL,Female,8.02,"NLP, Computer Vision",,,,,Unplaced
+S0313,2022,MECH,Male,5.33,"Machine Learning, Django, Flutter, Data Science, Cloud Computing",TCS,ML Engineer,2024-09-24,10.13,Placed
+S0314,2022,IT,Male,7.28,"NLP, Machine Learning, Deep Learning, Computer Vision",Accenture,Cloud Engineer,2024-02-22,26.51,Placed
+S0315,2022,IT,Female,7.44,"Deep Learning, Flutter, Computer Vision, Cloud Computing, Data Science",,,,,Unplaced
+S0316,2022,ECE,Male,6.93,"NLP, Flutter, SQL",,,,,Unplaced
+S0317,2025,MECH,Male,9.32,"AWS, Android",Wipro,ML Engineer,2024-09-02,25.24,Placed
+S0318,2023,ECE,Other,9.03,"Data Science, NLP, Android, Deep Learning",,,,,Unplaced
+S0319,2025,MECH,Male,5.04,"Cloud Computing, Machine Learning, React, Java",,,,,Unplaced
+S0320,2024,AI&DS,Female,6.31,"NLP, C++, Data Science, Django",,,,,Unplaced
+S0321,2024,CIVIL,Male,8.61,"Cloud Computing, Machine Learning, NLP, Flutter, Django",Oracle,Software Engineer,2025-03-05,24.57,Placed
+S0322,2024,CIVIL,Other,6.11,"Node.js, Data Science, Machine Learning, C++, React",,,,,Unplaced
+S0323,2023,CIVIL,Female,8.63,"React, AWS, Java",,,,,Unplaced
+S0324,2025,AI&DS,Female,6.86,"Android, Flutter, Java, Computer Vision",TCS,Business Analyst,2024-11-07,24.47,Placed
+S0325,2025,IT,Other,5.6,"Cloud Computing, NLP, Python, C++, Django",,,,,Unplaced
+S0326,2023,ECE,Other,5.9,"AWS, Deep Learning",Adobe,ML Engineer,2024-08-23,14.6,Placed
+S0327,2022,EEE,Female,6.05,"Deep Learning, Computer Vision, Django",,,,,Unplaced
+S0328,2025,EEE,Female,6.92,"NLP, Node.js",Microsoft,Software Engineer,2025-04-22,36.0,Placed
+S0329,2022,CIVIL,Male,8.13,"Computer Vision, Node.js, Deep Learning",,,,,Unplaced
+S0330,2023,CSE,Male,6.49,"Android, Node.js, Data Science, Cloud Computing",Accenture,Mobile Developer,2025-05-10,19.05,Placed
+S0331,2024,EEE,Female,8.75,"Django, Python, SQL",Cognizant,ML Engineer,2024-07-03,10.81,Placed
+S0332,2023,CSE,Female,8.56,"Django, Android",Adobe,Web Developer,2024-01-16,31.54,Placed
+S0333,2022,CIVIL,Male,8.27,"Java, Node.js",Infosys,Cloud Engineer,2023-11-03,19.44,Placed
+S0334,2024,EEE,Other,5.77,"Cloud Computing, NLP",,,,,Unplaced
+S0335,2023,EEE,Male,7.56,"Cloud Computing, Java",Infosys,System Analyst,2025-01-14,10.35,Placed
+S0336,2024,AI&DS,Other,9.87,"Flutter, Machine Learning, C++, Python",,,,,Unplaced
+S0337,2024,IT,Male,5.06,"SQL, Flutter",Capgemini,System Analyst,2024-05-23,8.52,Placed
+S0338,2022,CIVIL,Other,5.51,"Computer Vision, AWS, Machine Learning, Flutter",Meta,Software Engineer,2024-07-16,6.69,Placed
+S0339,2022,AI&DS,Female,6.8,"Flutter, Node.js, Java, AWS",TCS,Software Engineer,2024-07-06,34.52,Placed
+S0340,2024,ECE,Female,9.78,"C++, Deep Learning, Flutter, Android",,,,,Unplaced
+S0341,2024,AI&DS,Female,8.45,"Flutter, React, Django, C++, Java",Wipro,Software Engineer,2025-06-22,39.32,Placed
+S0342,2022,EEE,Other,7.41,"Deep Learning, Cloud Computing, NLP, Django, AWS",Capgemini,Software Engineer,2025-03-10,34.92,Placed
+S0343,2025,EEE,Male,9.44,"Java, AWS, Machine Learning, React, Deep Learning",TCS,Consultant,2023-10-03,31.4,Placed
+S0344,2024,MECH,Other,8.44,"Flutter, React",,,,,Unplaced
+S0345,2023,AI&DS,Other,9.46,"Python, React",,,,,Unplaced
+S0346,2023,CSE,Female,6.6,"Data Science, Python, AWS, SQL",Accenture,Cloud Engineer,2025-01-04,17.92,Placed
+S0347,2022,EEE,Female,9.01,"C++, Flutter, Computer Vision, Android, Deep Learning",Infosys,System Analyst,2023-11-06,30.57,Placed
+S0348,2022,EEE,Female,5.18,"C++, Django",Capgemini,Business Analyst,2023-10-08,26.59,Placed
+S0349,2025,ECE,Female,9.13,"Android, Deep Learning, Data Science",,,,,Unplaced
+S0350,2025,CSE,Male,8.8,"Python, Deep Learning, Android",,,,,Unplaced
+S0351,2022,CSE,Male,7.46,"SQL, Machine Learning, Cloud Computing, AWS, Django",Infosys,Cloud Engineer,2024-05-11,10.98,Placed
+S0352,2024,CSE,Female,5.23,"Android, Computer Vision",Adobe,Business Analyst,2025-05-04,38.38,Placed
+S0353,2025,CSE,Other,8.68,"AWS, Android, Data Science, Django, C++",Oracle,Business Analyst,2025-06-21,9.43,Placed
+S0354,2022,EEE,Other,8.0,"Django, NLP, Cloud Computing, Node.js",,,,,Unplaced
+S0355,2024,EEE,Male,5.69,"React, Node.js, Android, Data Science",,,,,Unplaced
+S0356,2024,CIVIL,Male,9.91,"React, Node.js, Java",,,,,Unplaced
+S0357,2024,AI&DS,Female,9.04,"Python, NLP",Wipro,Software Engineer,2024-01-16,27.8,Placed
+S0358,2024,AI&DS,Male,9.92,"Machine Learning, Flutter, Python, Node.js",Google,AI Engineer,2024-10-11,30.88,Placed
+S0359,2024,AI&DS,Female,5.51,"Django, SQL, Data Science",Oracle,Web Developer,2024-08-04,28.64,Placed
+S0360,2025,EEE,Female,9.78,"Java, Python, Node.js, Machine Learning",,,,,Unplaced
+S0361,2023,CIVIL,Other,8.55,"NLP, Django, Node.js, SQL",Google,System Analyst,2024-07-14,9.56,Placed
+S0362,2023,IT,Other,7.57,"Java, NLP, Machine Learning, Data Science, Flutter",,,,,Unplaced
+S0363,2022,ECE,Female,8.55,"Java, C++, Deep Learning",,,,,Unplaced
+S0364,2025,AI&DS,Other,7.75,"React, Data Science",Cognizant,ML Engineer,2024-08-15,22.26,Placed
+S0365,2025,MECH,Other,7.02,"Computer Vision, Android, SQL, React",Microsoft,Mobile Developer,2024-03-03,16.35,Placed
+S0366,2025,MECH,Other,5.04,"Android, SQL, React, Cloud Computing",,,,,Unplaced
+S0367,2025,AI&DS,Male,6.93,"Python, Android, Data Science, Django",,,,,Unplaced
+S0368,2025,CSE,Female,9.49,"React, Data Science, Java",Infosys,ML Engineer,2023-10-19,38.95,Placed
+S0369,2022,IT,Other,8.15,"Flutter, AWS, Java",,,,,Unplaced
+S0370,2022,CIVIL,Other,5.77,"React, Python, Java, Flutter, Android",Wipro,Web Developer,2025-05-10,23.65,Placed
+S0371,2024,EEE,Female,7.26,"Flutter, Deep Learning, Python, NLP, React",Infosys,Consultant,2025-06-21,3.22,Placed
+S0372,2022,CIVIL,Male,6.79,"Cloud Computing, Django",,,,,Unplaced
+S0373,2025,EEE,Female,9.11,"AWS, C++",,,,,Unplaced
+S0374,2024,CIVIL,Male,6.49,"Python, Data Science, Flutter, Android",,,,,Unplaced
+S0375,2022,ECE,Male,8.74,"NLP, AWS, React, Data Science",,,,,Unplaced
+S0376,2023,CSE,Male,8.35,"Android, React",Accenture,Data Scientist,2025-01-09,13.75,Placed
+S0377,2024,CSE,Male,8.63,"React, Deep Learning, C++, AWS, Django",Cognizant,Data Scientist,2024-10-14,13.55,Placed
+S0378,2023,ECE,Female,7.25,"Machine Learning, Cloud Computing, Android, Deep Learning",,,,,Unplaced
+S0379,2023,AI&DS,Male,8.56,"Data Science, Flutter, Deep Learning, C++, React",,,,,Unplaced
+S0380,2025,ECE,Female,7.43,"Deep Learning, React",Capgemini,Data Scientist,2023-11-02,34.15,Placed
+S0381,2023,ECE,Other,9.43,"C++, Android",,,,,Unplaced
+S0382,2023,CSE,Other,6.3,"Machine Learning, Deep Learning, NLP, SQL, Cloud Computing",Oracle,Web Developer,2025-03-29,7.95,Placed
+S0383,2025,ECE,Other,5.05,"Deep Learning, Django, Data Science",Wipro,System Analyst,2025-06-11,8.89,Placed
+S0384,2025,ECE,Male,6.09,"Computer Vision, Java, Machine Learning, Deep Learning, SQL",,,,,Unplaced
+S0385,2025,EEE,Female,9.41,"React, Java",,,,,Unplaced
+S0386,2024,MECH,Other,7.85,"Django, Deep Learning, Cloud Computing, React, Java",Accenture,Web Developer,2024-07-02,16.92,Placed
+S0387,2025,ECE,Female,7.43,"Python, Data Science, C++, Computer Vision, Flutter",,,,,Unplaced
+S0388,2023,IT,Male,5.79,"Computer Vision, NLP",,,,,Unplaced
+S0389,2025,IT,Other,5.81,"Python, SQL, AWS, C++, Cloud Computing",Capgemini,ML Engineer,2024-02-04,7.98,Placed
+S0390,2023,CSE,Male,6.29,"Django, Cloud Computing, Android",,,,,Unplaced
+S0391,2022,IT,Female,8.03,"AWS, C++, SQL, NLP, Cloud Computing",Wipro,Business Analyst,2024-06-28,33.36,Placed
+S0392,2024,IT,Other,8.43,"C++, SQL, NLP, Flutter, AWS",,,,,Unplaced
+S0393,2023,MECH,Male,5.89,"SQL, Java",Meta,ML Engineer,2023-10-06,36.37,Placed
+S0394,2025,MECH,Female,6.85,"Flutter, SQL",Meta,Cloud Engineer,2023-12-27,15.97,Placed
+S0395,2025,IT,Female,7.39,"C++, Machine Learning, Cloud Computing",Accenture,Cloud Engineer,2024-06-11,12.54,Placed
+S0396,2022,MECH,Other,5.59,"Django, React",Cognizant,Mobile Developer,2023-08-23,18.13,Placed
+S0397,2023,EEE,Other,7.93,"Flutter, Cloud Computing, Deep Learning, Android",,,,,Unplaced
+S0398,2025,IT,Female,7.8,"Data Science, Machine Learning, Cloud Computing, Deep Learning, Node.js",Amazon,ML Engineer,2024-03-14,34.63,Placed
+S0399,2023,EEE,Other,9.75,"NLP, Data Science",Amazon,Mobile Developer,2025-08-10,32.63,Placed
+S0400,2023,EEE,Other,5.03,"Machine Learning, Computer Vision",,,,,Unplaced
+S0401,2023,ECE,Male,8.05,"Django, Cloud Computing, React, Data Science, Machine Learning",Oracle,Business Analyst,2025-04-22,5.13,Placed
+S0402,2025,EEE,Male,6.01,"NLP, Python, Django, Cloud Computing",Accenture,Consultant,2024-08-09,28.84,Placed
+S0403,2022,ECE,Male,8.28,"C++, Machine Learning, Django",,,,,Unplaced
+S0404,2023,MECH,Male,8.68,"C++, Data Science",,,,,Unplaced
+S0405,2024,AI&DS,Female,6.13,"Android, AWS, NLP",,,,,Unplaced
+S0406,2022,MECH,Male,7.52,"SQL, Django, Data Science, Machine Learning",,,,,Unplaced
+S0407,2025,MECH,Female,8.85,"Android, React, Computer Vision, Cloud Computing",TCS,System Analyst,2025-04-21,7.3,Placed
+S0408,2025,CIVIL,Male,8.38,"React, NLP, Deep Learning",,,,,Unplaced
+S0409,2023,ECE,Male,6.99,"C++, Data Science, AWS, Computer Vision",,,,,Unplaced
+S0410,2023,CIVIL,Other,9.65,"AWS, Node.js, SQL",Cognizant,AI Engineer,2025-03-02,35.29,Placed
+S0411,2023,IT,Male,9.18,"Machine Learning, Django, Java, Flutter",Infosys,System Analyst,2024-09-03,25.71,Placed
+S0412,2025,ECE,Other,6.58,"AWS, C++, Django, Data Science",Google,Cloud Engineer,2023-12-20,11.22,Placed
+S0413,2022,MECH,Female,7.39,"Node.js, NLP",Adobe,ML Engineer,2024-01-16,19.92,Placed
+S0414,2025,ECE,Other,5.04,"Django, Cloud Computing, Java",,,,,Unplaced
+S0415,2023,MECH,Female,6.19,"React, Deep Learning, C++, Computer Vision, NLP",,,,,Unplaced
+S0416,2024,AI&DS,Female,6.4,"Machine Learning, Cloud Computing, React",Cognizant,Data Scientist,2023-10-06,29.67,Placed
+S0417,2025,AI&DS,Female,5.98,"AWS, Django, Python",,,,,Unplaced
+S0418,2025,ECE,Female,7.81,"Django, Java",,,,,Unplaced
+S0419,2025,AI&DS,Other,5.48,"Data Science, Deep Learning, Android, AWS",,,,,Unplaced
+S0420,2022,ECE,Other,9.82,"Deep Learning, Django, Machine Learning",,,,,Unplaced
+S0421,2025,CSE,Female,8.07,"Machine Learning, Flutter, C++, React, Deep Learning",Amazon,Business Analyst,2025-03-24,24.15,Placed
+S0422,2022,IT,Female,6.14,"Cloud Computing, Node.js, Machine Learning, AWS",,,,,Unplaced
+S0423,2024,CIVIL,Other,7.6,"Flutter, C++, Android, Python, AWS",Oracle,AI Engineer,2023-10-05,27.49,Placed
+S0424,2023,IT,Female,5.52,"AWS, Data Science",TCS,Software Engineer,2023-09-29,31.52,Placed
+S0425,2022,ECE,Other,5.78,"Cloud Computing, SQL, Android, Node.js, Machine Learning",Meta,ML Engineer,2024-11-17,7.86,Placed
+S0426,2022,CSE,Other,6.78,"AWS, Computer Vision, Flutter, Data Science",Google,Consultant,2024-08-26,19.46,Placed
+S0427,2025,CIVIL,Other,8.18,"Cloud Computing, Android, Deep Learning, Computer Vision, Data Science",,,,,Unplaced
+S0428,2025,ECE,Male,6.52,"Machine Learning, Deep Learning",,,,,Unplaced
+S0429,2025,ECE,Male,8.83,"Computer Vision, Django, Python, Data Science",,,,,Unplaced
+S0430,2025,IT,Male,8.57,"Django, SQL, Machine Learning, Java, NLP",,,,,Unplaced
+S0431,2024,CIVIL,Other,7.66,"Flutter, SQL, AWS, Java",,,,,Unplaced
+S0432,2025,ECE,Other,8.11,"React, Python, C++",TCS,Consultant,2023-10-05,3.82,Placed
+S0433,2024,ECE,Male,8.58,"Computer Vision, Java",,,,,Unplaced
+S0434,2025,ECE,Female,9.99,"Java, Deep Learning, AWS, Django, C++",TCS,Web Developer,2023-10-23,31.7,Placed
+S0435,2025,IT,Male,9.48,"Django, Flutter, Python, Java",,,,,Unplaced
+S0436,2023,CIVIL,Male,6.0,"NLP, Computer Vision",Amazon,Web Developer,2024-01-13,37.64,Placed
+S0437,2022,CIVIL,Other,7.6,"AWS, React, Machine Learning, SQL",Microsoft,Software Engineer,2023-10-14,34.96,Placed
+S0438,2022,IT,Other,7.17,"Deep Learning, Django",Google,Business Analyst,2024-11-26,7.43,Placed
+S0439,2022,CSE,Other,8.92,"Machine Learning, Deep Learning, Django, Java, SQL",,,,,Unplaced
+S0440,2022,CSE,Female,8.22,"Machine Learning, Computer Vision",,,,,Unplaced
+S0441,2025,CIVIL,Male,5.11,"Node.js, AWS, C++, Machine Learning, Python",,,,,Unplaced
+S0442,2023,MECH,Male,7.72,"Android, Machine Learning, Flutter, Cloud Computing",Accenture,ML Engineer,2024-02-20,5.55,Placed
+S0443,2025,ECE,Female,7.71,"Python, Django, React, Data Science, NLP",,,,,Unplaced
+S0444,2023,ECE,Other,5.32,"NLP, Data Science, React, Computer Vision, Android",,,,,Unplaced
+S0445,2024,CSE,Male,7.62,"Java, Flutter",Wipro,ML Engineer,2025-07-13,35.32,Placed
+S0446,2022,EEE,Male,5.49,"AWS, Data Science, Cloud Computing, Node.js, Flutter",Google,Software Engineer,2024-11-06,16.56,Placed
+S0447,2022,IT,Other,7.46,"Android, Django",,,,,Unplaced
+S0448,2024,AI&DS,Other,5.29,"Java, Node.js, AWS, Machine Learning",Infosys,AI Engineer,2024-11-13,38.54,Placed
+S0449,2022,CIVIL,Male,7.66,"NLP, Data Science, React",Cognizant,Business Analyst,2024-11-25,26.14,Placed
+S0450,2025,CIVIL,Male,8.83,"Android, Node.js, React, NLP",,,,,Unplaced
+S0451,2024,CIVIL,Male,7.67,"Node.js, Android, Deep Learning, Data Science, Flutter",,,,,Unplaced
+S0452,2024,MECH,Male,7.82,"Django, AWS, Data Science",,,,,Unplaced
+S0453,2025,EEE,Male,8.63,"Python, Data Science, C++, Machine Learning",TCS,Web Developer,2024-07-12,39.42,Placed
+S0454,2024,CSE,Other,9.11,"SQL, Python, Computer Vision",,,,,Unplaced
+S0455,2023,IT,Female,9.06,"Django, Cloud Computing",,,,,Unplaced
+S0456,2023,EEE,Other,8.51,"Cloud Computing, Python",Oracle,Business Analyst,2024-11-03,17.12,Placed
+S0457,2024,ECE,Female,7.08,"Computer Vision, Node.js",,,,,Unplaced
+S0458,2022,ECE,Other,5.21,"React, Data Science, Node.js",,,,,Unplaced
+S0459,2025,AI&DS,Other,7.88,"Computer Vision, NLP",,,,,Unplaced
+S0460,2022,EEE,Other,8.73,"Data Science, Java, NLP, AWS, Flutter",,,,,Unplaced
+S0461,2023,EEE,Female,8.26,"Computer Vision, SQL, Java",Google,Cloud Engineer,2024-01-27,14.97,Placed
+S0462,2022,CIVIL,Female,7.12,"NLP, Deep Learning, Android, Cloud Computing",Adobe,Software Engineer,2025-01-23,31.48,Placed
+S0463,2024,MECH,Female,8.12,"Java, Android, Flutter, SQL, Django",Adobe,Mobile Developer,2025-02-28,8.77,Placed
+S0464,2022,CIVIL,Male,6.22,"Cloud Computing, Python, Deep Learning",,,,,Unplaced
+S0465,2022,ECE,Male,8.7,"NLP, Data Science, Android",Google,Consultant,2024-02-23,20.87,Placed
+S0466,2022,EEE,Other,9.53,"Data Science, C++",,,,,Unplaced
+S0467,2022,EEE,Other,9.73,"Django, React",Google,Mobile Developer,2024-06-24,34.98,Placed
+S0468,2024,AI&DS,Other,6.93,"SQL, Android, Deep Learning, Computer Vision, Cloud Computing",,,,,Unplaced
+S0469,2022,CSE,Male,9.61,"React, Computer Vision, NLP, Node.js",,,,,Unplaced
+S0470,2024,CIVIL,Female,6.18,"Java, React, Machine Learning, NLP",TCS,Consultant,2025-01-04,38.12,Placed
+S0471,2023,ECE,Female,8.28,"Django, Data Science",Adobe,Business Analyst,2024-04-11,35.29,Placed
+S0472,2025,IT,Other,5.76,"React, Computer Vision, Data Science, C++",Cognizant,ML Engineer,2024-08-11,24.5,Placed
+S0473,2023,ECE,Other,8.53,"Flutter, Android, Django",,,,,Unplaced
+S0474,2022,MECH,Other,9.74,"Deep Learning, AWS",,,,,Unplaced
+S0475,2025,ECE,Female,8.73,"Machine Learning, Django, SQL, Java",,,,,Unplaced
+S0476,2023,MECH,Male,6.15,"Node.js, Java",,,,,Unplaced
+S0477,2024,IT,Female,7.46,"Deep Learning, SQL, Android",TCS,Cloud Engineer,2023-10-17,31.29,Placed
+S0478,2024,EEE,Male,8.71,"NLP, Java, C++",,,,,Unplaced
+S0479,2025,IT,Female,7.02,"Django, Node.js",Microsoft,Cloud Engineer,2024-08-11,25.63,Placed
+S0480,2022,EEE,Female,9.14,"Computer Vision, Data Science",Accenture,Cloud Engineer,2024-12-16,39.4,Placed
+S0481,2025,MECH,Other,9.81,"Cloud Computing, Computer Vision, NLP",,,,,Unplaced
+S0482,2024,MECH,Male,8.45,"Android, Flutter, React",Meta,Data Scientist,2023-11-07,29.74,Placed
+S0483,2023,AI&DS,Other,9.69,"Django, NLP, Deep Learning",Meta,Software Engineer,2023-10-17,9.62,Placed
+S0484,2025,CSE,Female,6.62,"SQL, Java, Android",Oracle,System Analyst,2024-10-12,26.46,Placed
+S0485,2025,CIVIL,Other,8.06,"Django, Data Science, NLP",TCS,ML Engineer,2024-02-03,36.75,Placed
+S0486,2023,AI&DS,Male,5.89,"Flutter, Machine Learning",Google,System Analyst,2024-09-17,13.68,Placed
+S0487,2022,IT,Male,5.02,"Python, Computer Vision, Android, Flutter",,,,,Unplaced
+S0488,2023,IT,Other,8.3,"Flutter, Computer Vision, Java, Cloud Computing, Django",,,,,Unplaced
+S0489,2023,CSE,Male,5.74,"Java, C++, Flutter, Python",,,,,Unplaced
+S0490,2024,CSE,Male,5.54,"Deep Learning, React, Machine Learning",Capgemini,Business Analyst,2024-05-19,24.17,Placed
+S0491,2025,CIVIL,Other,6.8,"C++, Django",,,,,Unplaced
+S0492,2022,AI&DS,Female,9.22,"Cloud Computing, Computer Vision",,,,,Unplaced
+S0493,2024,MECH,Female,7.62,"Java, AWS, Cloud Computing",,,,,Unplaced
+S0494,2024,EEE,Other,9.24,"Node.js, Android, C++, Cloud Computing",,,,,Unplaced
+S0495,2025,AI&DS,Male,9.42,"Cloud Computing, SQL, Python",Infosys,Software Engineer,2024-06-04,20.2,Placed
+S0496,2023,AI&DS,Other,9.99,"Java, Deep Learning, Android, Data Science, React",,,,,Unplaced
+S0497,2024,AI&DS,Male,6.54,"Python, Java, React, Deep Learning",Microsoft,Cloud Engineer,2023-12-22,29.8,Placed
+S0498,2023,IT,Female,9.17,"AWS, Django, Python, React, C++",,,,,Unplaced
+S0499,2025,AI&DS,Female,9.64,"Cloud Computing, AWS",Oracle,Mobile Developer,2025-05-30,23.54,Placed
+S0500,2023,MECH,Other,6.66,"C++, AWS, Machine Learning, Python",Microsoft,Cloud Engineer,2024-10-16,26.18,Placed
+S0501,2025,IT,Other,5.58,"React, Node.js, Python, Machine Learning",Amazon,Data Scientist,2025-02-18,21.39,Placed
+S0502,2024,EEE,Female,6.08,"Deep Learning, Java, AWS, Django",,,,,Unplaced
+S0503,2022,AI&DS,Female,9.52,"NLP, Deep Learning, Computer Vision",,,,,Unplaced
+S0504,2023,AI&DS,Male,9.11,"NLP, Node.js, Python",Meta,Cloud Engineer,2025-05-09,29.41,Placed
+S0505,2022,ECE,Male,8.44,"React, Computer Vision",,,,,Unplaced
+S0506,2022,MECH,Female,8.19,"React, SQL, Android",,,,,Unplaced
+S0507,2022,ECE,Male,5.79,"Python, Cloud Computing",,,,,Unplaced
+S0508,2024,ECE,Male,9.72,"Computer Vision, C++, Java, Machine Learning",Capgemini,Mobile Developer,2025-01-21,23.0,Placed
+S0509,2023,CSE,Female,9.52,"SQL, NLP",TCS,Data Scientist,2025-05-17,18.78,Placed
+S0510,2025,MECH,Female,6.56,"C++, Android, Django",,,,,Unplaced
+S0511,2022,EEE,Female,8.42,"AWS, SQL, Android, C++, Cloud Computing",,,,,Unplaced
+S0512,2024,EEE,Female,5.15,"SQL, Deep Learning, Computer Vision, Flutter, C++",Google,Mobile Developer,2025-08-14,25.36,Placed
+S0513,2022,EEE,Other,8.98,"C++, Django, Machine Learning, Data Science",Meta,Cloud Engineer,2025-01-18,24.85,Placed
+S0514,2023,MECH,Male,9.87,"C++, Deep Learning, SQL, Node.js, Cloud Computing",,,,,Unplaced
+S0515,2023,IT,Other,8.35,"SQL, Cloud Computing, Android, Computer Vision, Deep Learning",Accenture,Data Scientist,2025-08-20,33.41,Placed
+S0516,2024,EEE,Male,7.99,"React, Computer Vision, AWS, Flutter, Python",Infosys,AI Engineer,2025-07-04,33.23,Placed
+S0517,2023,CIVIL,Male,7.26,"Django, Cloud Computing, Android, Computer Vision",,,,,Unplaced
+S0518,2024,MECH,Other,6.52,"Node.js, Java, Cloud Computing, Python, Flutter",,,,,Unplaced
+S0519,2022,ECE,Other,9.84,"Node.js, Java",,,,,Unplaced
+S0520,2024,CIVIL,Female,7.03,"NLP, React, C++, Computer Vision, Flutter",,,,,Unplaced
+S0521,2025,IT,Female,9.99,"Machine Learning, Python, Java",,,,,Unplaced
+S0522,2025,IT,Male,5.69,"Android, AWS, Django, Node.js, Cloud Computing",,,,,Unplaced
+S0523,2025,EEE,Female,6.13,"Python, Cloud Computing, Computer Vision, Node.js, SQL",,,,,Unplaced
+S0524,2022,CSE,Other,7.42,"SQL, Cloud Computing, Computer Vision, Node.js",,,,,Unplaced
+S0525,2025,MECH,Male,7.62,"Computer Vision, AWS",,,,,Unplaced
+S0526,2022,ECE,Other,8.89,"Android, Data Science, Computer Vision, Cloud Computing, Node.js",,,,,Unplaced
+S0527,2024,IT,Male,8.48,"Data Science, Python, React, Computer Vision",,,,,Unplaced
+S0528,2022,ECE,Female,5.41,"Data Science, Machine Learning",,,,,Unplaced
+S0529,2022,CIVIL,Male,8.02,"Android, Deep Learning, Django",Wipro,Web Developer,2025-03-01,31.95,Placed
+S0530,2025,IT,Other,9.31,"C++, AWS, Cloud Computing, Android",Meta,Cloud Engineer,2024-05-14,31.5,Placed
+S0531,2025,CIVIL,Other,5.84,"Java, React, Machine Learning, Django",,,,,Unplaced
+S0532,2025,ECE,Female,8.73,"Django, React, Node.js",,,,,Unplaced
+S0533,2022,ECE,Female,6.91,"Java, AWS, Data Science, React",,,,,Unplaced
+S0534,2024,ECE,Female,9.01,"Django, Computer Vision, AWS, React",Oracle,AI Engineer,2025-06-14,30.17,Placed
+S0535,2024,CIVIL,Other,9.97,"Python, React, AWS, Java",TCS,Cloud Engineer,2024-03-14,6.61,Placed
+S0536,2025,ECE,Male,8.63,"NLP, Python, Android, Cloud Computing",Infosys,Software Engineer,2024-09-17,37.72,Placed
+S0537,2022,CIVIL,Male,5.43,"Django, React, AWS",Adobe,Business Analyst,2024-09-04,32.72,Placed
+S0538,2022,CIVIL,Male,6.27,"C++, React, Computer Vision, Machine Learning, NLP",Oracle,Mobile Developer,2024-03-04,12.52,Placed
+S0539,2024,AI&DS,Male,6.91,"Java, Machine Learning, Flutter, Android",Wipro,System Analyst,2025-07-25,5.57,Placed
+S0540,2025,IT,Other,7.46,"Flutter, SQL, Cloud Computing",,,,,Unplaced
+S0541,2022,CSE,Male,5.35,"Android, Python, Computer Vision, C++",,,,,Unplaced
+S0542,2024,IT,Other,6.65,"Python, Data Science, Node.js, Django, Computer Vision",Meta,Cloud Engineer,2023-09-30,17.94,Placed
+S0543,2023,CSE,Female,9.77,"SQL, Cloud Computing, Data Science, Deep Learning, Django",Adobe,Web Developer,2023-11-01,17.82,Placed
+S0544,2024,MECH,Female,5.4,"Cloud Computing, React, SQL, C++, Data Science",,,,,Unplaced
+S0545,2025,CSE,Other,8.44,"C++, Android, React, Computer Vision, Node.js",Cognizant,ML Engineer,2024-07-16,4.32,Placed
+S0546,2023,EEE,Female,5.31,"AWS, Data Science, Flutter, Django",Meta,Software Engineer,2025-05-27,4.37,Placed
+S0547,2024,AI&DS,Other,5.21,"NLP, Django",Adobe,Consultant,2024-03-23,19.96,Placed
+S0548,2023,CSE,Male,8.68,"Python, Computer Vision, Cloud Computing, AWS, SQL",Oracle,ML Engineer,2023-09-25,3.53,Placed
+S0549,2024,AI&DS,Male,7.28,"C++, Flutter, Android",Infosys,Data Scientist,2023-08-24,21.39,Placed
+S0550,2022,AI&DS,Male,7.13,"React, Java, AWS, Cloud Computing, Data Science",Wipro,Mobile Developer,2024-05-07,33.95,Placed
+S0551,2022,MECH,Male,6.68,"Data Science, C++",Amazon,ML Engineer,2025-04-11,28.76,Placed
+S0552,2025,IT,Other,5.2,"Django, AWS",Wipro,Software Engineer,2023-12-01,35.55,Placed
+S0553,2022,CSE,Male,9.63,"Flutter, Node.js, Django, AWS",,,,,Unplaced
+S0554,2025,EEE,Male,9.69,"Deep Learning, Node.js",,,,,Unplaced
+S0555,2024,EEE,Male,7.79,"SQL, Data Science, Java",Capgemini,Mobile Developer,2023-12-25,34.92,Placed
+S0556,2025,AI&DS,Other,8.3,"Java, SQL, AWS, Django",Wipro,System Analyst,2025-03-19,21.41,Placed
+S0557,2022,CSE,Other,6.82,"Flutter, Machine Learning, Deep Learning",Capgemini,System Analyst,2024-07-30,4.6,Placed
+S0558,2023,IT,Male,7.43,"C++, Android",,,,,Unplaced
+S0559,2025,IT,Other,8.38,"Computer Vision, Django, Java, Deep Learning",,,,,Unplaced
+S0560,2023,EEE,Male,5.37,"Java, Android, NLP, C++, SQL",,,,,Unplaced
+S0561,2023,EEE,Other,5.97,"Data Science, SQL, Deep Learning, C++",TCS,Business Analyst,2024-10-30,5.21,Placed
+S0562,2022,AI&DS,Female,7.29,"React, SQL, Machine Learning",Capgemini,ML Engineer,2023-08-29,32.21,Placed
+S0563,2023,CSE,Female,9.28,"NLP, Cloud Computing, Computer Vision, Flutter, Machine Learning",TCS,Cloud Engineer,2023-11-16,30.24,Placed
+S0564,2023,ECE,Female,7.9,"Python, NLP, AWS",TCS,System Analyst,2023-10-19,30.14,Placed
+S0565,2025,MECH,Female,7.4,"Android, Computer Vision",Cognizant,Data Scientist,2025-07-07,23.66,Placed
+S0566,2025,IT,Male,6.79,"C++, Python, Computer Vision",,,,,Unplaced
+S0567,2022,EEE,Female,8.86,"Deep Learning, Django, Flutter, AWS, React",Meta,Software Engineer,2025-07-24,34.83,Placed
+S0568,2025,CIVIL,Female,7.65,"Flutter, Django, Machine Learning, Node.js",Capgemini,Consultant,2023-12-15,24.28,Placed
+S0569,2022,MECH,Female,8.68,"Node.js, Android",,,,,Unplaced
+S0570,2022,ECE,Female,5.88,"NLP, C++",,,,,Unplaced
+S0571,2023,AI&DS,Other,8.8,"Node.js, Android, Machine Learning, Data Science",Adobe,Cloud Engineer,2025-05-31,13.25,Placed
+S0572,2024,ECE,Female,7.43,"AWS, Node.js",,,,,Unplaced
+S0573,2024,AI&DS,Other,9.73,"NLP, Android",Meta,Data Scientist,2024-11-16,5.97,Placed
+S0574,2024,CSE,Male,5.82,"Machine Learning, Computer Vision",Wipro,AI Engineer,2024-10-24,22.27,Placed
+S0575,2024,EEE,Other,7.71,"AWS, Deep Learning, NLP",Meta,Software Engineer,2023-12-15,13.79,Placed
+S0576,2022,AI&DS,Male,9.17,"Flutter, Cloud Computing, Deep Learning, React",,,,,Unplaced
+S0577,2025,ECE,Other,5.66,"Deep Learning, Django, Machine Learning, SQL",Meta,Mobile Developer,2023-11-28,38.92,Placed
+S0578,2023,ECE,Female,7.28,"Deep Learning, Node.js, Data Science",Google,ML Engineer,2023-09-23,39.01,Placed
+S0579,2023,IT,Male,5.21,"Machine Learning, Computer Vision, AWS, Deep Learning",Wipro,AI Engineer,2024-04-17,23.81,Placed
+S0580,2024,ECE,Male,6.86,"Cloud Computing, Java, Python",,,,,Unplaced
+S0581,2024,IT,Male,9.85,"Cloud Computing, Computer Vision, Machine Learning, Django",,,,,Unplaced
+S0582,2024,CIVIL,Male,8.66,"Machine Learning, React",,,,,Unplaced
+S0583,2023,EEE,Female,5.46,"NLP, Cloud Computing",,,,,Unplaced
+S0584,2023,CSE,Male,7.69,"C++, Data Science, NLP, SQL, Computer Vision",Microsoft,Business Analyst,2025-06-20,25.39,Placed
+S0585,2024,EEE,Male,8.58,"Node.js, NLP, Deep Learning, Python, Machine Learning",,,,,Unplaced
+S0586,2022,IT,Other,9.44,"Android, Machine Learning, C++, Django, Node.js",Amazon,Cloud Engineer,2025-07-20,8.16,Placed
+S0587,2023,IT,Female,7.37,"C++, Android, Cloud Computing, Django",,,,,Unplaced
+S0588,2025,IT,Other,7.31,"NLP, C++, Flutter",Amazon,Web Developer,2024-02-01,23.49,Placed
+S0589,2024,AI&DS,Other,6.52,"Computer Vision, Python, Django, Android, C++",,,,,Unplaced
+S0590,2022,CIVIL,Other,9.46,"Deep Learning, Computer Vision, Node.js, React, SQL",,,,,Unplaced
+S0591,2022,MECH,Other,6.81,"Flutter, AWS, Machine Learning, React, Django",Meta,Data Scientist,2025-01-21,16.81,Placed
+S0592,2024,IT,Other,5.29,"Android, AWS, Node.js, C++",,,,,Unplaced
+S0593,2025,CIVIL,Female,5.24,"C++, Data Science, SQL, Django",Adobe,ML Engineer,2024-05-22,31.29,Placed
+S0594,2024,AI&DS,Female,9.13,"Data Science, React, Node.js, Flutter",,,,,Unplaced
+S0595,2023,CSE,Male,7.59,"AWS, NLP, Deep Learning, C++",Infosys,AI Engineer,2024-10-29,8.72,Placed
+S0596,2023,AI&DS,Other,8.07,"Flutter, Computer Vision",Infosys,Data Scientist,2025-07-08,33.3,Placed
+S0597,2025,ECE,Female,8.46,"Android, AWS, Cloud Computing",,,,,Unplaced
+S0598,2022,CIVIL,Male,6.11,"Computer Vision, Machine Learning, C++",,,,,Unplaced
+S0599,2022,CSE,Male,8.87,"Java, SQL, AWS, Python, React",Accenture,Business Analyst,2024-12-16,5.19,Placed
+S0600,2024,CSE,Male,6.51,"SQL, Django",Infosys,Business Analyst,2025-03-26,10.6,Placed
+S0601,2023,CIVIL,Female,5.15,"Data Science, Cloud Computing, Deep Learning",Microsoft,ML Engineer,2023-12-20,34.64,Placed
+S0602,2022,CSE,Other,8.82,"NLP, Machine Learning, C++",Accenture,Software Engineer,2025-08-10,39.02,Placed
+S0603,2023,MECH,Other,7.37,"Android, React, Java",,,,,Unplaced
+S0604,2023,MECH,Male,7.04,"SQL, Computer Vision, Java, Data Science",,,,,Unplaced
+S0605,2022,CSE,Female,7.47,"Cloud Computing, Computer Vision, AWS, Node.js, Machine Learning",,,,,Unplaced
+S0606,2024,AI&DS,Female,5.94,"AWS, React",,,,,Unplaced
+S0607,2022,EEE,Female,7.61,"SQL, C++",Amazon,Cloud Engineer,2025-05-04,28.72,Placed
+S0608,2023,CSE,Female,9.88,"NLP, Cloud Computing, Flutter, AWS",,,,,Unplaced
+S0609,2024,AI&DS,Other,8.83,"Django, Deep Learning, Computer Vision, React",,,,,Unplaced
+S0610,2023,AI&DS,Female,5.54,"AWS, Computer Vision, SQL, React",Wipro,Software Engineer,2025-07-06,6.69,Placed
+S0611,2022,EEE,Other,5.13,"Django, Cloud Computing, React",Microsoft,ML Engineer,2024-07-07,14.2,Placed
+S0612,2022,CIVIL,Other,8.84,"NLP, Machine Learning, React, Computer Vision, Django",Accenture,Web Developer,2023-09-10,23.07,Placed
+S0613,2022,EEE,Male,6.92,"Django, Computer Vision, Android, Python",,,,,Unplaced
+S0614,2023,EEE,Female,5.67,"AWS, Django, Java, Cloud Computing, React",,,,,Unplaced
+S0615,2025,MECH,Male,7.53,"Data Science, Computer Vision, Cloud Computing, NLP, Flutter",,,,,Unplaced
+S0616,2024,CSE,Male,7.95,"Node.js, Deep Learning, Django",,,,,Unplaced
+S0617,2025,CSE,Female,6.73,"Flutter, Deep Learning, Python, React",,,,,Unplaced
+S0618,2022,CIVIL,Male,9.34,"React, C++",,,,,Unplaced
+S0619,2025,MECH,Other,9.51,"Python, Node.js, Computer Vision, Cloud Computing",,,,,Unplaced
+S0620,2024,MECH,Male,9.04,"NLP, Deep Learning",,,,,Unplaced
+S0621,2023,MECH,Female,6.82,"NLP, Computer Vision, React, Django, Java",Accenture,AI Engineer,2025-01-23,13.63,Placed
+S0622,2024,MECH,Female,9.02,"SQL, Cloud Computing",,,,,Unplaced
+S0623,2025,IT,Female,8.98,"Cloud Computing, NLP, React, Data Science",,,,,Unplaced
+S0624,2025,CIVIL,Other,5.9,"Deep Learning, Cloud Computing",,,,,Unplaced
+S0625,2024,CIVIL,Other,9.04,"Java, Data Science, SQL, Deep Learning, Computer Vision",,,,,Unplaced
+S0626,2025,EEE,Female,9.3,"NLP, Flutter",Amazon,Web Developer,2024-03-16,33.48,Placed
+S0627,2024,CIVIL,Other,6.18,"SQL, C++, AWS",,,,,Unplaced
+S0628,2025,EEE,Other,9.96,"Java, SQL, C++, Machine Learning, Flutter",,,,,Unplaced
+S0629,2023,CIVIL,Male,9.82,"Python, AWS, Flutter, Java, Deep Learning",,,,,Unplaced
+S0630,2024,CIVIL,Other,9.43,"Machine Learning, SQL, Java, Cloud Computing, Node.js",,,,,Unplaced
+S0631,2025,CSE,Male,8.0,"React, Flutter, Cloud Computing, Node.js",Amazon,AI Engineer,2024-06-14,37.61,Placed
+S0632,2023,CSE,Male,6.07,"Android, NLP, Machine Learning, Cloud Computing",TCS,System Analyst,2025-06-29,22.74,Placed
+S0633,2024,MECH,Female,7.37,"Data Science, Android, Django",,,,,Unplaced
+S0634,2024,CSE,Other,9.83,"Java, Node.js",,,,,Unplaced
+S0635,2024,CIVIL,Other,6.81,"Computer Vision, Flutter",,,,,Unplaced
+S0636,2024,ECE,Male,9.68,"Cloud Computing, SQL, Flutter",,,,,Unplaced
+S0637,2022,ECE,Male,9.12,"AWS, Node.js, NLP, Deep Learning, Android",,,,,Unplaced
+S0638,2022,ECE,Female,8.01,"Android, Node.js, Python, Django",TCS,ML Engineer,2025-05-17,26.32,Placed
+S0639,2022,EEE,Male,8.14,"C++, Java, AWS, SQL",,,,,Unplaced
+S0640,2024,EEE,Female,9.37,"Data Science, C++, React",Capgemini,Mobile Developer,2024-08-13,32.58,Placed
+S0641,2022,EEE,Female,5.91,"Computer Vision, Python, Android, Data Science, React",,,,,Unplaced
+S0642,2023,ECE,Other,9.26,"Django, Cloud Computing",Amazon,Business Analyst,2024-04-15,12.63,Placed
+S0643,2024,IT,Other,5.59,"Android, Flutter, React, Computer Vision, Java",,,,,Unplaced
+S0644,2024,CIVIL,Female,6.91,"NLP, Cloud Computing, SQL, Machine Learning, Node.js",,,,,Unplaced
+S0645,2023,CSE,Female,9.88,"Android, AWS, SQL",,,,,Unplaced
+S0646,2022,CSE,Female,5.67,"Django, React, SQL, Node.js",,,,,Unplaced
+S0647,2022,CSE,Other,5.29,"Computer Vision, AWS, Deep Learning, Cloud Computing",Adobe,Business Analyst,2024-02-11,29.25,Placed
+S0648,2022,ECE,Other,8.1,"Django, React, Deep Learning, C++",,,,,Unplaced
+S0649,2023,MECH,Female,9.65,"Machine Learning, Java, Deep Learning, Node.js, Data Science",,,,,Unplaced
+S0650,2022,IT,Female,9.36,"Node.js, Android, NLP, Machine Learning",,,,,Unplaced
+S0651,2024,EEE,Male,6.58,"Machine Learning, Data Science, Flutter, React, Django",Meta,Software Engineer,2024-06-26,9.99,Placed
+S0652,2023,IT,Male,7.35,"Android, NLP, Java",,,,,Unplaced
+S0653,2025,EEE,Male,9.23,"SQL, Deep Learning, Java",Cognizant,Web Developer,2024-03-25,9.68,Placed
+S0654,2024,MECH,Other,7.93,"Deep Learning, NLP",Infosys,AI Engineer,2025-06-23,31.43,Placed
+S0655,2024,CSE,Female,8.41,"Django, Deep Learning",Capgemini,Data Scientist,2023-10-14,33.97,Placed
+S0656,2022,CSE,Female,9.15,"Android, React, Machine Learning, Cloud Computing, AWS",,,,,Unplaced
+S0657,2024,CIVIL,Other,9.53,"NLP, Flutter, Python",Adobe,Web Developer,2024-03-25,14.96,Placed
+S0658,2022,MECH,Other,6.91,"Data Science, C++, SQL, Django, NLP",Infosys,Software Engineer,2024-05-20,34.54,Placed
+S0659,2025,AI&DS,Female,6.42,"SQL, Machine Learning, Computer Vision",Amazon,Web Developer,2025-01-01,36.44,Placed
+S0660,2024,CIVIL,Male,9.16,"AWS, Computer Vision, NLP",,,,,Unplaced
+S0661,2022,AI&DS,Female,9.05,"Flutter, React, NLP",,,,,Unplaced
+S0662,2023,CIVIL,Other,8.57,"C++, Machine Learning, Computer Vision, NLP, Java",Meta,Web Developer,2025-01-30,8.5,Placed
+S0663,2024,AI&DS,Male,7.62,"Java, Data Science, AWS, Python",,,,,Unplaced
+S0664,2022,EEE,Other,8.6,"Node.js, Machine Learning, Cloud Computing, Java",,,,,Unplaced
+S0665,2023,AI&DS,Male,9.21,"C++, NLP",,,,,Unplaced
+S0666,2025,MECH,Female,6.71,"NLP, C++, Java",Oracle,Business Analyst,2025-08-20,12.59,Placed
+S0667,2025,MECH,Male,5.03,"Python, C++",,,,,Unplaced
+S0668,2025,ECE,Other,9.07,"Django, AWS, Machine Learning, Java",Wipro,ML Engineer,2023-11-19,3.51,Placed
+S0669,2022,CIVIL,Male,9.3,"AWS, React, C++",Adobe,AI Engineer,2025-07-03,19.12,Placed
+S0670,2022,ECE,Female,5.74,"Python, Java, C++, Flutter, Node.js",,,,,Unplaced
+S0671,2022,AI&DS,Female,7.93,"Cloud Computing, AWS, Flutter",Amazon,Software Engineer,2024-01-07,15.35,Placed
+S0672,2025,EEE,Female,8.69,"Java, Computer Vision, NLP, Android",,,,,Unplaced
+S0673,2023,CIVIL,Male,7.64,"React, Data Science, Java, Machine Learning, AWS",,,,,Unplaced
+S0674,2025,CIVIL,Female,5.1,"NLP, Computer Vision, Deep Learning, Android",,,,,Unplaced
+S0675,2025,IT,Female,8.61,"Flutter, AWS, React, Android, Node.js",Microsoft,System Analyst,2023-11-14,32.59,Placed
+S0676,2023,ECE,Other,8.75,"Machine Learning, C++, SQL, Android, Cloud Computing",,,,,Unplaced
+S0677,2024,IT,Male,7.78,"Node.js, Android",Google,Mobile Developer,2024-07-24,28.05,Placed
+S0678,2022,AI&DS,Male,6.69,"Computer Vision, Java",,,,,Unplaced
+S0679,2024,AI&DS,Male,8.85,"Machine Learning, Flutter, Node.js, Data Science",,,,,Unplaced
+S0680,2025,AI&DS,Male,9.87,"Java, Data Science",Infosys,ML Engineer,2025-04-23,26.31,Placed
+S0681,2024,IT,Other,6.46,"AWS, Node.js, Flutter, Java, C++",Adobe,Mobile Developer,2024-04-21,15.38,Placed
+S0682,2022,AI&DS,Male,7.2,"Python, SQL, Flutter, Django, Computer Vision",Microsoft,Web Developer,2024-07-25,21.69,Placed
+S0683,2024,ECE,Other,8.77,"Computer Vision, C++, Django, Flutter",Accenture,Cloud Engineer,2024-12-04,32.13,Placed
+S0684,2025,EEE,Female,9.49,"Python, Computer Vision, C++, Django",TCS,Consultant,2024-09-22,37.91,Placed
+S0685,2024,ECE,Female,9.91,"Flutter, Python, NLP",TCS,ML Engineer,2023-11-19,36.39,Placed
+S0686,2024,EEE,Female,9.43,"React, Android, Deep Learning, Python",Google,Consultant,2024-06-16,25.58,Placed
+S0687,2025,EEE,Other,6.03,"Node.js, Android, Django, Flutter, React",Amazon,AI Engineer,2025-07-20,35.6,Placed
+S0688,2022,MECH,Female,6.95,"Cloud Computing, SQL, Java",,,,,Unplaced
+S0689,2023,CSE,Male,9.45,"Computer Vision, Flutter, Django, Machine Learning",Oracle,Cloud Engineer,2024-01-16,39.52,Placed
+S0690,2022,AI&DS,Female,6.3,"SQL, Python, Django, React",Infosys,System Analyst,2024-03-06,14.02,Placed
+S0691,2025,ECE,Male,9.03,"Node.js, Machine Learning, Android",,,,,Unplaced
+S0692,2023,CSE,Female,7.58,"Node.js, Computer Vision, Java",Wipro,Cloud Engineer,2025-02-22,33.65,Placed
+S0693,2022,CSE,Female,9.44,"NLP, Computer Vision, Java, Deep Learning, React",,,,,Unplaced
+S0694,2024,MECH,Female,8.18,"AWS, Node.js, NLP, C++, Django",,,,,Unplaced
+S0695,2023,CIVIL,Other,9.32,"NLP, Computer Vision",,,,,Unplaced
+S0696,2022,MECH,Female,5.55,"Cloud Computing, Python, Data Science, C++",,,,,Unplaced
+S0697,2024,ECE,Female,5.14,"Machine Learning, Django, Cloud Computing",,,,,Unplaced
+S0698,2024,IT,Male,9.1,"Python, Java, Data Science, Deep Learning, Android",,,,,Unplaced
+S0699,2025,ECE,Female,7.38,"Machine Learning, Data Science, React",Meta,System Analyst,2025-02-05,27.69,Placed
+S0700,2024,CSE,Other,8.32,"Django, SQL, NLP, Deep Learning, Data Science",TCS,System Analyst,2025-03-02,30.23,Placed
+S0701,2023,CIVIL,Male,7.86,"SQL, React, Data Science, Java",Cognizant,Business Analyst,2025-08-21,23.05,Placed
+S0702,2023,AI&DS,Female,7.51,"SQL, React",,,,,Unplaced
+S0703,2023,IT,Other,9.19,"C++, Django, Data Science, Cloud Computing, Deep Learning",Amazon,Business Analyst,2025-03-16,4.66,Placed
+S0704,2024,EEE,Male,7.07,"Django, Machine Learning, Java, Flutter",Infosys,Consultant,2025-01-23,9.22,Placed
+S0705,2023,ECE,Male,5.77,"Deep Learning, Python, Cloud Computing, AWS, C++",TCS,Software Engineer,2024-01-22,14.03,Placed
+S0706,2024,IT,Female,9.47,"Django, Flutter, Java, Python",Cognizant,AI Engineer,2024-05-30,30.83,Placed
+S0707,2025,MECH,Other,6.93,"Data Science, Python",Microsoft,System Analyst,2024-07-21,23.47,Placed
+S0708,2025,CSE,Female,8.17,"Data Science, AWS",Capgemini,Data Scientist,2023-10-15,12.11,Placed
+S0709,2024,MECH,Female,7.23,"Machine Learning, Deep Learning, Data Science",,,,,Unplaced
+S0710,2025,CSE,Male,9.06,"Deep Learning, Python, Android, Computer Vision",,,,,Unplaced
+S0711,2024,AI&DS,Other,6.06,"Java, C++, Node.js, Data Science",,,,,Unplaced
+S0712,2022,AI&DS,Male,8.63,"Flutter, SQL, Cloud Computing, Data Science",,,,,Unplaced
+S0713,2024,IT,Other,9.92,"NLP, Computer Vision, Cloud Computing, Deep Learning",TCS,ML Engineer,2024-04-21,26.92,Placed
+S0714,2025,CSE,Male,8.36,"AWS, Django, NLP, Data Science, Java",,,,,Unplaced
+S0715,2022,ECE,Female,9.14,"Django, C++, Flutter, AWS",,,,,Unplaced
+S0716,2023,EEE,Male,6.11,"Data Science, React",,,,,Unplaced
+S0717,2023,IT,Female,9.84,"Data Science, Computer Vision",Oracle,Business Analyst,2025-03-03,10.74,Placed
+S0718,2025,CSE,Female,7.85,"Deep Learning, Data Science, SQL, React, Node.js",Capgemini,Business Analyst,2025-07-21,23.91,Placed
+S0719,2023,CIVIL,Male,5.64,"Data Science, SQL, Flutter",,,,,Unplaced
+S0720,2025,CSE,Female,8.2,"React, NLP",,,,,Unplaced
+S0721,2025,ECE,Other,8.8,"Java, Machine Learning, NLP",,,,,Unplaced
+S0722,2023,ECE,Male,9.4,"Computer Vision, Node.js",Amazon,Data Scientist,2025-01-20,36.93,Placed
+S0723,2023,ECE,Female,5.31,"Python, Computer Vision",,,,,Unplaced
+S0724,2024,IT,Male,7.37,"Java, Flutter, Deep Learning, Data Science",,,,,Unplaced
+S0725,2022,CIVIL,Female,7.89,"Java, Android",TCS,Cloud Engineer,2024-06-29,14.59,Placed
+S0726,2023,CSE,Female,5.27,"C++, Java, React, Python, Data Science",,,,,Unplaced
+S0727,2022,MECH,Female,6.17,"Android, NLP",Meta,Cloud Engineer,2024-04-07,35.56,Placed
+S0728,2024,CIVIL,Other,8.91,"React, Cloud Computing, SQL, Java, Django",TCS,Business Analyst,2024-10-25,29.39,Placed
+S0729,2023,CIVIL,Other,6.28,"AWS, Node.js, Cloud Computing, Computer Vision, C++",Cognizant,ML Engineer,2023-11-28,32.49,Placed
+S0730,2023,ECE,Other,7.18,"Cloud Computing, AWS, Data Science, Django",,,,,Unplaced
+S0731,2024,ECE,Male,7.59,"Java, SQL, Data Science",Accenture,Software Engineer,2024-07-13,18.62,Placed
+S0732,2023,CIVIL,Male,8.93,"NLP, React, Computer Vision, Node.js",,,,,Unplaced
+S0733,2024,MECH,Female,7.09,"SQL, Computer Vision, Django",TCS,System Analyst,2025-08-21,11.12,Placed
+S0734,2023,CIVIL,Male,7.33,"Computer Vision, AWS, Node.js",Microsoft,Cloud Engineer,2024-06-11,10.6,Placed
+S0735,2022,ECE,Male,5.37,"SQL, C++",,,,,Unplaced
+S0736,2022,CSE,Male,5.99,"Computer Vision, Android, Machine Learning",Oracle,ML Engineer,2025-03-25,15.57,Placed
+S0737,2023,IT,Male,5.88,"SQL, Python, Flutter, React",Wipro,Cloud Engineer,2025-07-23,27.23,Placed
+S0738,2024,IT,Female,7.28,"Node.js, React, C++, Data Science",Capgemini,Cloud Engineer,2024-01-04,35.5,Placed
+S0739,2022,IT,Male,8.97,"Django, Node.js, Deep Learning",Microsoft,Business Analyst,2024-12-12,18.89,Placed
+S0740,2022,AI&DS,Other,7.94,"Machine Learning, Deep Learning, SQL, Python",,,,,Unplaced
+S0741,2023,CIVIL,Male,8.92,"Deep Learning, Data Science",,,,,Unplaced
+S0742,2023,ECE,Other,6.87,"AWS, Computer Vision, Machine Learning, Cloud Computing, NLP",Adobe,Business Analyst,2024-07-02,27.04,Placed
+S0743,2023,IT,Female,9.32,"NLP, Machine Learning, AWS, Flutter, Cloud Computing",Wipro,Mobile Developer,2024-10-20,12.42,Placed
+S0744,2023,AI&DS,Male,6.48,"Computer Vision, Cloud Computing, Python, AWS",,,,,Unplaced
+S0745,2025,EEE,Female,6.84,"React, Machine Learning, NLP, Python, C++",Meta,AI Engineer,2023-08-22,12.83,Placed
+S0746,2024,CSE,Female,9.21,"Data Science, Android",,,,,Unplaced
+S0747,2022,MECH,Male,6.67,"Data Science, Machine Learning, Node.js, Django",Adobe,Web Developer,2024-03-31,10.05,Placed
+S0748,2024,CSE,Female,6.41,"Django, NLP, Flutter, Cloud Computing",Adobe,Software Engineer,2024-02-01,20.46,Placed
+S0749,2025,IT,Male,8.62,"AWS, SQL, Data Science",,,,,Unplaced
+S0750,2024,AI&DS,Male,6.57,"Flutter, Django, Node.js",Amazon,AI Engineer,2025-04-23,19.23,Placed
+S0751,2024,IT,Other,9.37,"Python, Computer Vision, Django, React",,,,,Unplaced
+S0752,2025,AI&DS,Other,7.69,"Python, Cloud Computing, Django, AWS",,,,,Unplaced
+S0753,2025,EEE,Male,9.74,"Django, SQL",,,,,Unplaced
+S0754,2024,CSE,Male,5.52,"Java, Flutter, Node.js",Capgemini,System Analyst,2024-04-28,3.99,Placed
+S0755,2022,EEE,Female,6.03,"C++, Computer Vision, Python, Deep Learning",,,,,Unplaced
+S0756,2025,IT,Male,5.65,"AWS, Node.js, Java, NLP, SQL",,,,,Unplaced
+S0757,2023,MECH,Other,9.7,"Android, Machine Learning, SQL",,,,,Unplaced
+S0758,2023,MECH,Female,9.55,"Android, Computer Vision, Cloud Computing, Python, Node.js",,,,,Unplaced
+S0759,2024,CIVIL,Other,8.96,"Deep Learning, NLP, SQL, C++, Cloud Computing",Oracle,Cloud Engineer,2024-02-03,19.94,Placed
+S0760,2022,EEE,Other,9.73,"Deep Learning, Machine Learning, React",Accenture,Web Developer,2024-09-22,27.67,Placed
+S0761,2023,EEE,Female,9.96,"Node.js, Java",,,,,Unplaced
+S0762,2025,EEE,Male,6.26,"Android, Python",,,,,Unplaced
+S0763,2023,EEE,Male,5.05,"Machine Learning, Deep Learning",Adobe,System Analyst,2025-07-21,20.94,Placed
+S0764,2022,MECH,Other,6.21,"Machine Learning, Computer Vision, Flutter, AWS, C++",Wipro,Software Engineer,2025-05-01,25.46,Placed
+S0765,2024,CSE,Other,8.71,"C++, React, Django",,,,,Unplaced
+S0766,2023,IT,Other,5.17,"Android, Node.js, Python",Adobe,Consultant,2023-12-31,26.72,Placed
+S0767,2025,CIVIL,Female,7.22,"Java, Django",,,,,Unplaced
+S0768,2023,IT,Male,5.08,"Python, Deep Learning",Cognizant,Data Scientist,2023-10-26,11.16,Placed
+S0769,2023,CIVIL,Male,5.22,"React, Deep Learning",,,,,Unplaced
+S0770,2025,CSE,Male,6.07,"React, C++, Python, NLP",Adobe,Mobile Developer,2024-09-25,3.44,Placed
+S0771,2025,IT,Male,8.29,"Node.js, Python, Java, SQL",,,,,Unplaced
+S0772,2022,CIVIL,Other,8.96,"Data Science, Java, Cloud Computing",Microsoft,Cloud Engineer,2024-12-25,28.08,Placed
+S0773,2024,IT,Other,8.81,"AWS, Java, Deep Learning, Python",Capgemini,Business Analyst,2024-12-14,19.61,Placed
+S0774,2022,IT,Male,8.08,"Cloud Computing, SQL",Oracle,Cloud Engineer,2024-05-08,31.02,Placed
+S0775,2022,IT,Female,7.49,"Machine Learning, NLP, SQL",,,,,Unplaced
+S0776,2024,IT,Female,6.59,"Flutter, React",,,,,Unplaced
+S0777,2024,IT,Male,7.7,"Computer Vision, Cloud Computing, Flutter",,,,,Unplaced
+S0778,2022,CSE,Female,5.35,"Java, React, C++",Cognizant,ML Engineer,2024-02-20,6.4,Placed
+S0779,2023,MECH,Male,7.13,"Cloud Computing, C++, Node.js, SQL, Django",,,,,Unplaced
+S0780,2024,MECH,Female,9.84,"Data Science, Flutter, Django",,,,,Unplaced
+S0781,2025,EEE,Male,7.35,"Flutter, Django, C++, Android, Computer Vision",TCS,Cloud Engineer,2024-02-12,18.81,Placed
+S0782,2024,MECH,Other,5.76,"Data Science, NLP, Computer Vision",,,,,Unplaced
+S0783,2022,ECE,Male,8.57,"Machine Learning, Android, SQL",,,,,Unplaced
+S0784,2025,EEE,Female,9.7,"Django, Computer Vision, Machine Learning, React",Capgemini,Data Scientist,2023-12-14,18.13,Placed
+S0785,2022,EEE,Other,5.81,"Data Science, Django, Android, Node.js, Deep Learning",,,,,Unplaced
+S0786,2022,CIVIL,Female,9.63,"Computer Vision, AWS, Python",Microsoft,Software Engineer,2023-09-26,28.81,Placed
+S0787,2024,MECH,Female,9.72,"Data Science, SQL, Cloud Computing",Capgemini,ML Engineer,2024-02-28,3.46,Placed
+S0788,2025,EEE,Other,7.93,"NLP, Android",,,,,Unplaced
+S0789,2024,MECH,Other,8.29,"Cloud Computing, Node.js, NLP, Django, Android",,,,,Unplaced
+S0790,2023,ECE,Other,6.05,"Cloud Computing, Python, C++, Computer Vision, Android",,,,,Unplaced
+S0791,2025,CIVIL,Female,8.67,"Deep Learning, AWS, C++",Oracle,ML Engineer,2025-04-09,10.33,Placed
+S0792,2022,EEE,Other,9.07,"NLP, Python, Node.js",,,,,Unplaced
+S0793,2025,CIVIL,Other,5.55,"C++, Machine Learning, Java",,,,,Unplaced
+S0794,2022,MECH,Male,7.39,"Python, AWS",Google,Software Engineer,2024-07-08,27.62,Placed
+S0795,2022,IT,Other,8.96,"Data Science, Android, Computer Vision, Flutter, Deep Learning",,,,,Unplaced
+S0796,2024,AI&DS,Male,9.7,"Django, Cloud Computing, Python, Deep Learning, AWS",,,,,Unplaced
+S0797,2023,CSE,Other,5.61,"Computer Vision, Deep Learning, AWS, Cloud Computing",Adobe,System Analyst,2024-11-11,22.05,Placed
+S0798,2022,CIVIL,Female,5.08,"Java, Django, Node.js, Deep Learning",,,,,Unplaced
+S0799,2025,CIVIL,Other,8.97,"Flutter, Android, Computer Vision, React",,,,,Unplaced
+S0800,2023,CIVIL,Male,9.35,"Machine Learning, Computer Vision",,,,,Unplaced
+S0801,2023,EEE,Male,7.41,"Computer Vision, SQL, C++",Adobe,Data Scientist,2024-06-15,6.9,Placed
+S0802,2023,ECE,Female,8.83,"Data Science, React, Computer Vision",,,,,Unplaced
+S0803,2022,AI&DS,Other,6.66,"C++, React, Deep Learning",,,,,Unplaced
+S0804,2023,IT,Female,5.58,"SQL, Java",Microsoft,Business Analyst,2024-02-27,37.68,Placed
+S0805,2024,IT,Female,9.77,"Cloud Computing, Python",,,,,Unplaced
+S0806,2025,ECE,Female,8.99,"Computer Vision, Java, NLP",,,,,Unplaced
+S0807,2023,AI&DS,Female,9.19,"Android, C++, Cloud Computing, Machine Learning, AWS",,,,,Unplaced
+S0808,2022,ECE,Other,7.87,"AWS, Machine Learning, Node.js",,,,,Unplaced
+S0809,2023,AI&DS,Other,6.05,"Java, Android, Flutter",,,,,Unplaced
+S0810,2023,CSE,Other,6.96,"AWS, Deep Learning, Django, NLP, Flutter",,,,,Unplaced
+S0811,2023,CIVIL,Other,6.97,"React, Django, Android",,,,,Unplaced
+S0812,2025,CIVIL,Male,7.89,"AWS, Machine Learning, C++, SQL, Django",Oracle,AI Engineer,2025-04-11,30.21,Placed
+S0813,2024,CIVIL,Other,5.51,"Django, NLP, React",,,,,Unplaced
+S0814,2023,CSE,Male,9.9,"Flutter, C++, React, Node.js",Amazon,AI Engineer,2023-11-12,4.26,Placed
+S0815,2025,EEE,Female,8.44,"Django, AWS, Node.js",,,,,Unplaced
+S0816,2024,CIVIL,Other,7.23,"SQL, Java",Infosys,Data Scientist,2024-07-17,21.1,Placed
+S0817,2022,MECH,Other,9.94,"Data Science, Node.js, Android, Java, Cloud Computing",,,,,Unplaced
+S0818,2024,MECH,Male,5.5,"Deep Learning, NLP",,,,,Unplaced
+S0819,2022,MECH,Other,7.69,"NLP, React",Infosys,ML Engineer,2025-05-07,34.89,Placed
+S0820,2022,MECH,Female,9.0,"Java, C++",Capgemini,AI Engineer,2025-02-12,27.15,Placed
+S0821,2024,AI&DS,Male,5.42,"Cloud Computing, Deep Learning",Accenture,ML Engineer,2024-09-27,18.65,Placed
+S0822,2023,ECE,Male,9.73,"Android, C++, Cloud Computing, Computer Vision",,,,,Unplaced
+S0823,2023,CIVIL,Male,8.31,"Computer Vision, Python",Cognizant,ML Engineer,2023-09-30,14.09,Placed
+S0824,2023,MECH,Other,6.08,"Data Science, C++, Node.js, Cloud Computing",,,,,Unplaced
+S0825,2025,CIVIL,Male,7.0,"Data Science, React",Amazon,ML Engineer,2024-03-02,22.83,Placed
+S0826,2024,CIVIL,Other,8.23,"Deep Learning, NLP, Flutter, C++",Microsoft,Cloud Engineer,2025-08-03,17.02,Placed
+S0827,2022,ECE,Male,7.66,"C++, Deep Learning, React, Java, Android",Microsoft,Web Developer,2025-06-10,8.41,Placed
+S0828,2024,CSE,Male,6.89,"Django, Java, AWS",,,,,Unplaced
+S0829,2025,CSE,Other,6.74,"Data Science, Cloud Computing, Java, Python",,,,,Unplaced
+S0830,2023,ECE,Other,8.39,"AWS, Cloud Computing, C++, Machine Learning, Python",Adobe,Consultant,2023-12-03,29.39,Placed
+S0831,2023,EEE,Other,8.68,"Node.js, AWS",,,,,Unplaced
+S0832,2023,EEE,Female,8.99,"Data Science, NLP, AWS, Node.js",Cognizant,Web Developer,2024-08-16,26.52,Placed
+S0833,2024,EEE,Female,9.23,"C++, Node.js",Cognizant,Data Scientist,2025-01-21,9.11,Placed
+S0834,2022,CIVIL,Female,7.77,"Python, NLP, React, Data Science, Node.js",Wipro,System Analyst,2024-10-07,21.42,Placed
+S0835,2025,CSE,Other,5.95,"Flutter, Node.js",Accenture,Mobile Developer,2024-10-29,12.04,Placed
+S0836,2025,IT,Other,9.65,"Deep Learning, Java, AWS",Wipro,Consultant,2024-11-26,16.07,Placed
+S0837,2025,EEE,Female,5.85,"React, Android",Adobe,AI Engineer,2024-04-24,33.77,Placed
+S0838,2024,ECE,Female,6.47,"Python, Node.js, React",,,,,Unplaced
+S0839,2022,EEE,Other,9.24,"Node.js, Python",,,,,Unplaced
+S0840,2022,CSE,Female,9.45,"Django, Deep Learning, Python",Infosys,Cloud Engineer,2024-07-30,21.21,Placed
+S0841,2023,EEE,Male,9.57,"Machine Learning, Django",,,,,Unplaced
+S0842,2024,ECE,Female,7.14,"Data Science, Java, Computer Vision",,,,,Unplaced
+S0843,2025,CSE,Female,9.42,"SQL, AWS, Machine Learning",,,,,Unplaced
+S0844,2022,IT,Other,5.99,"Data Science, Java, NLP, Computer Vision, AWS",,,,,Unplaced
+S0845,2025,IT,Male,9.79,"Machine Learning, C++",Microsoft,Consultant,2024-09-17,3.51,Placed
+S0846,2022,CIVIL,Female,7.15,"Flutter, Computer Vision",,,,,Unplaced
+S0847,2023,MECH,Male,8.65,"Computer Vision, Machine Learning, Django",Infosys,Web Developer,2025-05-28,39.79,Placed
+S0848,2025,IT,Female,8.53,"Deep Learning, SQL",Capgemini,ML Engineer,2025-07-26,11.49,Placed
+S0849,2025,CSE,Female,9.95,"Flutter, Python, Cloud Computing",,,,,Unplaced
+S0850,2025,MECH,Female,8.5,"Computer Vision, Deep Learning, NLP",Meta,Software Engineer,2024-08-02,21.86,Placed
+S0851,2024,CSE,Female,6.82,"Flutter, SQL, Deep Learning, Python",,,,,Unplaced
+S0852,2023,ECE,Female,6.4,"Flutter, C++",,,,,Unplaced
+S0853,2022,CSE,Other,5.07,"React, Deep Learning, Node.js",,,,,Unplaced
+S0854,2023,CIVIL,Female,6.05,"C++, Android, Java, AWS, React",Oracle,Business Analyst,2025-06-21,7.45,Placed
+S0855,2023,CIVIL,Female,9.63,"React, Machine Learning",Oracle,System Analyst,2024-08-24,39.62,Placed
+S0856,2023,CSE,Male,5.96,"Node.js, Android, Deep Learning, Computer Vision",Adobe,Data Scientist,2024-08-05,36.7,Placed
+S0857,2025,EEE,Other,9.66,"Deep Learning, Cloud Computing",Google,ML Engineer,2024-03-10,13.72,Placed
+S0858,2023,CIVIL,Female,7.48,"Deep Learning, Computer Vision",,,,,Unplaced
+S0859,2025,MECH,Female,6.03,"Deep Learning, Cloud Computing",,,,,Unplaced
+S0860,2024,ECE,Male,6.48,"SQL, C++, AWS, Python",Accenture,AI Engineer,2025-06-04,13.8,Placed
+S0861,2024,IT,Female,9.37,"Computer Vision, Flutter",,,,,Unplaced
+S0862,2024,ECE,Male,9.73,"Machine Learning, NLP, Cloud Computing, AWS",Microsoft,Software Engineer,2024-03-24,26.16,Placed
+S0863,2024,IT,Other,9.83,"Data Science, Python, AWS",,,,,Unplaced
+S0864,2024,AI&DS,Other,8.17,"Android, SQL, Deep Learning",,,,,Unplaced
+S0865,2023,EEE,Male,8.65,"Node.js, C++, Computer Vision, Java, Flutter",Wipro,System Analyst,2024-09-29,9.85,Placed
+S0866,2023,MECH,Female,9.72,"Cloud Computing, Python, Machine Learning",Wipro,ML Engineer,2024-09-01,33.25,Placed
+S0867,2022,IT,Male,7.13,"Django, Java, Node.js, Data Science, C++",,,,,Unplaced
+S0868,2025,CSE,Male,9.13,"Machine Learning, SQL",Infosys,Web Developer,2024-02-23,8.28,Placed
+S0869,2022,AI&DS,Male,7.71,"C++, SQL, AWS, Computer Vision",,,,,Unplaced
+S0870,2024,EEE,Male,6.22,"SQL, Python, Flutter, Android",,,,,Unplaced
+S0871,2023,CSE,Male,5.12,"Django, C++, Deep Learning, React, Machine Learning",Cognizant,Cloud Engineer,2023-10-21,28.41,Placed
+S0872,2025,IT,Male,6.12,"Node.js, Java, Cloud Computing, Deep Learning",Infosys,Mobile Developer,2025-02-26,37.16,Placed
+S0873,2022,MECH,Male,5.89,"Deep Learning, React, NLP, C++",,,,,Unplaced
+S0874,2024,CSE,Female,9.58,"Data Science, Django, Node.js, Android",Infosys,Software Engineer,2024-02-20,34.88,Placed
+S0875,2023,ECE,Male,6.95,"C++, Java, Cloud Computing, NLP, Node.js",Google,ML Engineer,2024-03-20,6.35,Placed
+S0876,2023,AI&DS,Female,6.76,"Flutter, Computer Vision, Node.js, NLP, Cloud Computing",Adobe,Mobile Developer,2024-05-08,8.11,Placed
+S0877,2025,EEE,Other,7.49,"Computer Vision, NLP, Java, Cloud Computing, Node.js",Amazon,Consultant,2024-04-26,24.38,Placed
+S0878,2022,IT,Female,5.01,"Node.js, Data Science",Meta,ML Engineer,2025-07-15,37.07,Placed
+S0879,2024,ECE,Male,6.47,"Flutter, SQL, Android",Cognizant,Software Engineer,2024-10-14,30.64,Placed
+S0880,2023,EEE,Other,5.13,"Node.js, Python, AWS, Java, React",Capgemini,Data Scientist,2023-10-23,20.64,Placed
+S0881,2022,IT,Female,5.71,"C++, Python, Cloud Computing",,,,,Unplaced
+S0882,2023,CIVIL,Other,8.49,"AWS, NLP, Node.js, Deep Learning",Meta,Software Engineer,2023-12-17,13.61,Placed
+S0883,2022,CIVIL,Male,8.02,"Deep Learning, Python, NLP",,,,,Unplaced
+S0884,2024,CIVIL,Male,7.12,"Data Science, Java, AWS",,,,,Unplaced
+S0885,2022,IT,Female,5.92,"Android, Computer Vision",Microsoft,Cloud Engineer,2025-02-11,33.61,Placed
+S0886,2022,AI&DS,Female,8.23,"Data Science, Java, Android",,,,,Unplaced
+S0887,2022,IT,Female,5.81,"C++, SQL",,,,,Unplaced
+S0888,2023,MECH,Male,8.19,"Computer Vision, Machine Learning",,,,,Unplaced
+S0889,2022,CSE,Female,5.47,"Python, Deep Learning, Django, Machine Learning",,,,,Unplaced
+S0890,2024,IT,Other,8.37,"Flutter, Android, Node.js, Data Science",Infosys,Consultant,2024-07-09,32.88,Placed
+S0891,2022,MECH,Female,7.38,"Cloud Computing, C++",Wipro,System Analyst,2024-07-03,5.91,Placed
+S0892,2023,IT,Other,8.27,"React, Computer Vision, Django",,,,,Unplaced
+S0893,2022,CIVIL,Other,6.94,"C++, AWS, Cloud Computing",Adobe,System Analyst,2024-10-16,6.6,Placed
+S0894,2023,AI&DS,Female,7.74,"AWS, Java",,,,,Unplaced
+S0895,2023,CSE,Female,7.88,"C++, Java, AWS, Node.js",,,,,Unplaced
+S0896,2025,CIVIL,Male,9.7,"Java, Deep Learning, Flutter, Machine Learning, NLP",Amazon,Business Analyst,2023-10-09,36.93,Placed
+S0897,2025,ECE,Other,9.22,"Node.js, Java, React, NLP",Accenture,System Analyst,2024-01-29,12.72,Placed
+S0898,2022,CIVIL,Male,8.5,"Machine Learning, Flutter",,,,,Unplaced
+S0899,2022,IT,Female,9.37,"Node.js, Computer Vision",,,,,Unplaced
+S0900,2022,CSE,Male,8.66,"Flutter, SQL, NLP, Deep Learning, Java",,,,,Unplaced
+S0901,2023,CIVIL,Other,7.38,"Android, Python, Data Science, C++",,,,,Unplaced
+S0902,2022,MECH,Female,5.31,"Flutter, Computer Vision, SQL, Python",,,,,Unplaced
+S0903,2024,ECE,Other,5.88,"C++, Machine Learning, NLP",,,,,Unplaced
+S0904,2025,MECH,Male,8.35,"Deep Learning, Flutter, Python, Java",,,,,Unplaced
+S0905,2023,IT,Female,9.71,"AWS, Data Science, Node.js, Django, C++",,,,,Unplaced
+S0906,2022,MECH,Other,5.99,"React, AWS, Flutter",,,,,Unplaced
+S0907,2023,EEE,Female,5.57,"Data Science, AWS, Node.js, Python, Computer Vision",Wipro,System Analyst,2025-07-06,26.64,Placed
+S0908,2022,IT,Other,9.9,"Deep Learning, Cloud Computing, NLP, SQL, AWS",Cognizant,AI Engineer,2025-04-07,38.95,Placed
+S0909,2024,AI&DS,Female,5.08,"SQL, Node.js, Computer Vision, React",,,,,Unplaced
+S0910,2025,MECH,Female,5.57,"Android, NLP, Deep Learning",,,,,Unplaced
+S0911,2025,ECE,Other,8.44,"Cloud Computing, Node.js, AWS, Java, Django",,,,,Unplaced
+S0912,2022,EEE,Other,8.76,"Android, Data Science",,,,,Unplaced
+S0913,2023,IT,Female,7.76,"NLP, Flutter",,,,,Unplaced
+S0914,2025,AI&DS,Other,8.52,"Python, Deep Learning, Django, SQL, Data Science",,,,,Unplaced
+S0915,2024,AI&DS,Female,8.37,"Flutter, Python",,,,,Unplaced
+S0916,2024,ECE,Male,9.8,"Computer Vision, Data Science, NLP, SQL, Cloud Computing",,,,,Unplaced
+S0917,2023,CIVIL,Female,9.89,"Django, Android, Deep Learning",Accenture,ML Engineer,2025-06-14,19.18,Placed
+S0918,2023,MECH,Male,8.16,"Data Science, Flutter, AWS, C++, Deep Learning",,,,,Unplaced
+S0919,2022,CIVIL,Other,5.77,"Django, Python",,,,,Unplaced
+S0920,2023,IT,Other,9.49,"NLP, Data Science, Flutter, SQL",Oracle,Cloud Engineer,2024-07-12,31.5,Placed
+S0921,2024,CSE,Male,8.14,"SQL, Computer Vision",,,,,Unplaced
+S0922,2024,IT,Male,5.39,"NLP, AWS, Java, Computer Vision",TCS,Cloud Engineer,2025-03-24,5.72,Placed
+S0923,2023,CIVIL,Female,6.88,"Android, Django, C++, Flutter",Google,Software Engineer,2025-03-14,36.43,Placed
+S0924,2022,ECE,Female,7.42,"Deep Learning, Data Science",Oracle,Web Developer,2024-10-19,37.28,Placed
+S0925,2022,MECH,Male,7.59,"NLP, Flutter, Deep Learning",Infosys,AI Engineer,2025-05-04,4.09,Placed
+S0926,2023,CSE,Other,8.46,"Data Science, Machine Learning, Computer Vision",,,,,Unplaced
+S0927,2025,CIVIL,Female,7.18,"NLP, Machine Learning, C++, SQL, React",Oracle,Web Developer,2025-07-19,38.59,Placed
+S0928,2024,IT,Male,9.77,"Flutter, Android, Computer Vision, NLP, Cloud Computing",Oracle,Web Developer,2024-02-09,33.19,Placed
+S0929,2025,EEE,Male,7.84,"C++, Computer Vision, AWS, Python",,,,,Unplaced
+S0930,2024,EEE,Male,5.57,"Flutter, Django, C++, Deep Learning",,,,,Unplaced
+S0931,2024,IT,Female,5.61,"Python, Node.js, Deep Learning, SQL",Meta,Business Analyst,2024-03-20,32.42,Placed
+S0932,2022,EEE,Female,8.01,"SQL, Data Science, Machine Learning",Oracle,Business Analyst,2024-07-25,38.01,Placed
+S0933,2025,CIVIL,Female,6.59,"NLP, SQL, Python, Django",,,,,Unplaced
+S0934,2025,CSE,Male,7.26,"Django, SQL, Cloud Computing, Python",Google,Software Engineer,2023-09-13,26.82,Placed
+S0935,2025,ECE,Male,9.21,"Java, Android, Data Science, Flutter, Python",Microsoft,Software Engineer,2024-06-19,5.57,Placed
+S0936,2025,CIVIL,Female,6.37,"Django, Java, Data Science, AWS",,,,,Unplaced
+S0937,2024,CIVIL,Female,7.47,"Node.js, Cloud Computing",Infosys,Software Engineer,2025-01-22,11.29,Placed
+S0938,2023,CSE,Female,9.31,"Computer Vision, C++, Java, SQL, Node.js",Microsoft,Consultant,2025-01-30,39.61,Placed
+S0939,2024,AI&DS,Male,5.55,"C++, Machine Learning, Deep Learning, Node.js",Capgemini,Cloud Engineer,2025-05-02,12.99,Placed
+S0940,2023,MECH,Female,5.6,"Machine Learning, Django, Cloud Computing, NLP",Adobe,System Analyst,2024-07-01,27.72,Placed
+S0941,2025,CIVIL,Female,9.88,"AWS, SQL, Java, Machine Learning",Google,Data Scientist,2025-03-06,16.06,Placed
+S0942,2023,CIVIL,Male,5.38,"Java, SQL, Python, React, Android",Meta,Cloud Engineer,2023-12-28,9.95,Placed
+S0943,2024,IT,Other,8.81,"Cloud Computing, Node.js, Computer Vision, React",Wipro,Consultant,2025-06-04,6.91,Placed
+S0944,2023,ECE,Female,9.88,"Django, SQL, Java",,,,,Unplaced
+S0945,2022,IT,Female,9.38,"Computer Vision, Python",,,,,Unplaced
+S0946,2025,ECE,Female,5.59,"Node.js, NLP",,,,,Unplaced
+S0947,2024,CSE,Female,6.36,"Java, React",Amazon,Cloud Engineer,2024-12-17,10.18,Placed
+S0948,2025,IT,Other,6.38,"Flutter, Java, React, Python, AWS",Cognizant,Data Scientist,2024-10-09,11.12,Placed
+S0949,2022,MECH,Female,6.19,"Data Science, SQL",Capgemini,Cloud Engineer,2023-09-11,17.5,Placed
+S0950,2023,CIVIL,Other,6.34,"Deep Learning, Django, SQL",,,,,Unplaced
+S0951,2022,CSE,Male,7.52,"Cloud Computing, Flutter, Node.js, SQL, C++",,,,,Unplaced
+S0952,2025,IT,Male,8.33,"React, Python, C++, Machine Learning, Java",,,,,Unplaced
+S0953,2022,EEE,Male,7.36,"Python, Cloud Computing",Adobe,Web Developer,2024-11-02,33.91,Placed
+S0954,2023,AI&DS,Male,5.5,"Android, Computer Vision, Node.js, Deep Learning",,,,,Unplaced
+S0955,2024,EEE,Male,9.14,"React, Android, Data Science, Django",,,,,Unplaced
+S0956,2022,IT,Female,9.28,"Node.js, Computer Vision, Python",,,,,Unplaced
+S0957,2024,IT,Other,5.45,"SQL, Machine Learning, React, Flutter, Data Science",,,,,Unplaced
+S0958,2024,EEE,Other,7.09,"Cloud Computing, SQL, Python, AWS",Accenture,Mobile Developer,2024-07-19,33.86,Placed
+S0959,2025,AI&DS,Female,7.83,"Cloud Computing, Java, Python, Computer Vision",Adobe,ML Engineer,2023-12-05,20.25,Placed
+S0960,2024,MECH,Other,8.32,"AWS, Machine Learning, Java, Django",Google,Software Engineer,2025-06-25,19.79,Placed
+S0961,2024,AI&DS,Other,5.62,"Cloud Computing, Python, NLP, Deep Learning, React",,,,,Unplaced
+S0962,2024,AI&DS,Other,8.33,"C++, Node.js, Machine Learning",Wipro,AI Engineer,2024-01-10,18.99,Placed
+S0963,2024,IT,Male,7.37,"Computer Vision, Django, React, Flutter",Amazon,Cloud Engineer,2023-09-30,17.77,Placed
+S0964,2024,ECE,Other,6.55,"React, Django, Cloud Computing, C++, AWS",Cognizant,Web Developer,2024-03-11,8.02,Placed
+S0965,2024,ECE,Male,6.49,"Deep Learning, NLP, Django, Android, Java",,,,,Unplaced
+S0966,2024,EEE,Female,7.14,"Flutter, Computer Vision, Python, Data Science, AWS",,,,,Unplaced
+S0967,2023,MECH,Other,6.87,"Java, Django, Flutter, NLP",,,,,Unplaced
+S0968,2025,AI&DS,Male,5.42,"SQL, Deep Learning, Cloud Computing, Java",,,,,Unplaced
+S0969,2022,CSE,Other,7.92,"NLP, Data Science",,,,,Unplaced
+S0970,2023,IT,Other,8.2,"Cloud Computing, React, Machine Learning",Oracle,Software Engineer,2024-05-10,32.81,Placed
+S0971,2022,CSE,Male,5.77,"SQL, AWS",,,,,Unplaced
+S0972,2025,CSE,Male,6.5,"Deep Learning, Flutter, SQL, Data Science, Machine Learning",Capgemini,System Analyst,2025-07-05,34.79,Placed
+S0973,2025,IT,Other,5.11,"Computer Vision, C++, Data Science",,,,,Unplaced
+S0974,2024,ECE,Other,5.5,"Node.js, React, Machine Learning, NLP, Django",,,,,Unplaced
+S0975,2023,CSE,Female,7.29,"Python, Cloud Computing, Machine Learning, AWS, React",,,,,Unplaced
+S0976,2023,EEE,Other,7.29,"Deep Learning, AWS",,,,,Unplaced
+S0977,2022,IT,Other,5.76,"Android, Node.js, Flutter, Django",,,,,Unplaced
+S0978,2025,CSE,Other,7.42,"Deep Learning, Cloud Computing, Node.js, Data Science, React",,,,,Unplaced
+S0979,2024,MECH,Other,9.15,"Java, Python",Oracle,ML Engineer,2025-05-31,11.57,Placed
+S0980,2025,CIVIL,Female,6.62,"Computer Vision, Java, C++",,,,,Unplaced
+S0981,2022,CSE,Other,6.25,"C++, Computer Vision",Microsoft,Business Analyst,2024-08-21,26.36,Placed
+S0982,2023,ECE,Male,8.49,"Machine Learning, React, Cloud Computing, Data Science, SQL",,,,,Unplaced
+S0983,2023,IT,Other,5.81,"C++, Cloud Computing, Python",Adobe,Data Scientist,2025-03-25,10.53,Placed
+S0984,2022,ECE,Female,7.84,"React, C++",Adobe,Consultant,2024-10-13,21.36,Placed
+S0985,2025,MECH,Female,6.78,"C++, Computer Vision, NLP",Adobe,Cloud Engineer,2023-10-01,35.34,Placed
+S0986,2023,AI&DS,Other,6.49,"AWS, SQL",TCS,Business Analyst,2024-05-19,23.0,Placed
+S0987,2023,AI&DS,Female,9.61,"Django, Node.js, Deep Learning, Java",Wipro,Web Developer,2024-02-12,5.77,Placed
+S0988,2024,EEE,Other,5.28,"AWS, Android",,,,,Unplaced
+S0989,2024,IT,Female,9.44,"Machine Learning, SQL",Accenture,Mobile Developer,2023-10-14,37.19,Placed
+S0990,2023,EEE,Male,9.03,"Node.js, Java",Amazon,Business Analyst,2025-04-19,30.35,Placed
+S0991,2025,IT,Female,8.62,"Java, Computer Vision",,,,,Unplaced
+S0992,2025,ECE,Male,5.11,"Python, Django",,,,,Unplaced
+S0993,2022,MECH,Female,5.26,"Machine Learning, NLP, Node.js, Android, Data Science",,,,,Unplaced
+S0994,2024,IT,Female,7.18,"Computer Vision, SQL",,,,,Unplaced
+S0995,2022,AI&DS,Male,9.37,"Java, AWS, Python",Wipro,System Analyst,2024-03-01,9.68,Placed
+S0996,2024,ECE,Other,8.28,"Cloud Computing, C++, AWS",Amazon,System Analyst,2024-01-23,27.33,Placed
+S0997,2022,ECE,Other,6.03,"Computer Vision, AWS, Node.js, Machine Learning",Microsoft,Consultant,2025-06-03,13.83,Placed
+S0998,2024,ECE,Other,7.71,"Java, Deep Learning",Amazon,Business Analyst,2023-09-06,20.99,Placed
+S0999,2023,IT,Other,6.15,"SQL, Deep Learning, Node.js",,,,,Unplaced
+S1000,2025,CSE,Male,7.49,"Data Science, Machine Learning",Capgemini,Cloud Engineer,2023-12-18,14.12,Placed
